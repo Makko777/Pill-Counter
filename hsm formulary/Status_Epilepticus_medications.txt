@@ -1,0 +1,94 @@
+
+=== PAGE 264 ===
+
+248
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 8         CARDIOLOGYIncomplete Kawasaki Disease
+• Clinical features suggestive of KD but fewer than 4 principal clinical criteria
+• Frequently encountered in infants < 12 months
+• Delayed in diagnosis frequently leads to late institution of treatment and higher incidence of coronary 
+artery complications
+• Diagnosis should be considered in any young infants presenting with unexplained prolonged fever and 
+elevated inflammatory markers
+• Low threshold for echocardiography 
+Coronary Artery Complications
+• Incidence: 20 to 25% in untreated cases; reduced to 1 to 2% with IVIG therapy
+• Severity ranges from ectasia, small, medium to giant aneurysms (> 8 mm)
+• Majority of small to medium-sized aneurysms regress over next few months
+• Giant aneurysms do not regress and are at risk of developing serious complications such as thrombosis, 
+acute myocardial infarction, stenosis, rupture and sudden death
+• High risk groups of developing coronary artery complications
+ ÊAge < 1 year
+ ÊSevere inflammation during acute phase (anaemia, thrombocytopenia, low albumin)
+ ÊDuration of fever > 2 weeks
+ ÊRecurrence of fever after > 48 hours of defervescence Atypical Kawasaki Disease
+Kawasaki disease with atypical clinical presentations such as acute abdomen, acute pancreatitis, cholestatic 
+jaundice, acute kidney injury and pneumonia.
+Investigations
+Laboratory Test Common findings
+Full blood count Anaemia, leukocytosis, thrombocytosis (2nd week onwards), 
+thrombocytopenia (in severe cases)
+ESR, C-reactive protein
+Liver function tests
+Urinalysis
+ECGElevated
+Elevated transaminases, low albumin (in severe cases)
+Sterile pyuria, proteinuria
+Sinus tachycardia, ST changes and Q waves (in myocardial infarction)
+CSF Mononuclear pleocytosis
+
+=== PAGE 265 ===
+
+248 249
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 8         CARDIOLOGYEchocardiography
+• Transthoracic echocardiogram should be performed in all patients with suspected KD to detect coronary 
+artery aneurysms at the following timings
+ ÊUpon diagnosis
+ ÊAt 2 to 3 weeks after disease onset
+ ÊAt 6 to 8 weeks after disease onset
+• A body surface area-adjusted z-score ≥ 2.5 is considered abnormal and requires follow up measurement 
+(https://www.pediatricheartnetwork.org/z-scores-calculator/)
+• Additional findings that may be present: ↓ left ventricular function, mitral regurgitation, pericardial 
+effusion
+Giant coronary artery aneurysm
+Additional anti-platelet or anti-thrombotic treatment should be considered to reduce the risk of acute 
+coronary artery thrombosis. The options are
+• Oral Clopidogrel
+• Oral Warfarin
+• Subcutaneous Enoxaparin
+• IV Heparin infusionOral Aspirin
+• Anti-inflammatory effect
+ Ê30 to 50 mg/kg/day in divided dose
+ ÊStarted simultaneously with IVIG
+• Anti-platelet effect
+ Ê3 to 5 mg/kg/day
+ ÊStarted 48 to 72 hours after defervescence
+ ÊDuration: 6 to 8 weeks or normalization of ESR and platelet count (whichever later) in patients 
+without coronary artery abnormality
+ ÊIn patients with coronary artery involvement, aspirin should be continued until resolution of lesions 
+or indefinitelyIV Immunoglobulin (IVIG)
+• 2 g/kg single infusion over 10 - 12 hours
+• Divided lower dose may be considered in sick infant who cannot tolerate large volume
+• Started as early as possible, preferably within 10 days of disease onset
+• May still be beneficial in patients who present after 10 days of illness if persistent fever, presence of 
+coronary artery abnormalities or ongoing systemic inflammation (elevated ESR or CRP)Treatment
+
+=== PAGE 266 ===
+
+250
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 8         CARDIOLOGYVaccination
+• IVIG impairs the efficacy of live-attenuated viral vaccines
+• Delay these vaccinations for at least 11 monthsIVIG Resistance
+• 10 to 20% of cases
+• Persistent or recurrent fever after IVIG plus Aspirin therapy
+• Increased risk of developing coronary artery complications
+• Treatment options include
+ ÊRe-treatment with IVIG 2g/kg
+ ÊIV Methylprednisolone 30 mg/kg/day for 3 days followed by oral Prednisolone 2 mg/kg/day tapers 
+over 2 to 3 weeks
+ ÊIV Infliximab 5 mg/kg single infusion over 2 hours
+Consultation with paediatric cardiologists is advisable

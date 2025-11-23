@@ -1,0 +1,758 @@
+
+=== PAGE 169 ===
+
+152 153
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 6         NEONATOLOGY• Surgical ligation / Transcatheter Closure 
+ ÊPersistence of a symptomatic PDA and failed 2 courses of pharmacological treatment
+ ÊIf medical treatment fails or contraindicated 
+• In older preterm infant who is asymptomatic, i.e. only cardiac murmur present in an otherwise well 
+infant – no treatment required. Follow-up as necessary. Most PDA in this group will close spontaneously.
+Pearls and Pitfalls in Management
+• There is a higher success rate in closure of PDA if indomethacin is given in the first two weeks of life.
+• For infants who fail to respond to initial pharmacological therapy, a second course results in 40 percent 
+rate of ductal closure
+• Consider different pharmacological agents for the second course therapy if feasible
+• Oral ibuprofen has similar efficacy compared to IV ibuprofen
+
+=== PAGE 170 ===
+
+154
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 6         NEONATOLOGYChapter 25:
+Persistent Pulmonary Hypertension of the Newborn
+Introduction
+DiagnosisClassificationPersistent pulmonary hypertension (PPHN) of the newborn is a syndrome of failed circulatory adaption at 
+birth. It is characterized by
+• Elevated pulmonary vascular resistance (PVR) resulting in decrease pulmonary flow
+• Right (R) to left (L) shunting of deoxygenated blood across the PFO and PDA result in differential 
+cyanosis. Oxygen saturation in the lower limb is 5-10% lower than right upper limb.
+• Labile hypoxaemia with marked change in oxygen saturation with minimal or no change in settings of 
+ventilator due to changes in the volume of R to L shunt.
+• PPHN is clinically suspected in near term or term infants who have variable oxygen saturation.
+• Physical Examination - some of the infants may have signs of respiratory distress. Single loud second 
+heart sound.
+• Differential pre and post ductal oxygen saturation (between 5-10%). Lack of differential does not 
+preclude PPHN.
+• ABG – Hypoxaemia disproportional to degree of lung disease.
+• 2D Echocardiography with colour flow doppler confirm diagnosis with right to left shunting at PFO and 
+PDA.
+• Hyperoxia test if no 2D Echo available: PaO 2>150 mmHg in FiO 2 100% for 5-10 min excludes most CHD. A 
+PaO 2 < 150 mmHg doesn’t exclude congenital heart disease or PPHN.
+• Chest x-ray – evidence of underlying parenchymal disease e.g. MAS, RDS, pneumonia. Oligaemic lung 
+fields in idiopathic PPHN.
+• FBC with differential to evaluate for high hematocrit level (polycythaemia) and risk of underlying 
+infection.• Underdevelopment:  hypoplastic vasculature e.g., congenital diaphragmatic hernia, pulmonary 
+hypoplasia in oligohydramnios secondary to renal disease or chronic leakage of amniotic fluid.
+• Maldevelopment:  normal lung with remodeled pulmonary vasculature as in idiopathic PPHN, chronic 
+fetal hypoxia
+• Maladaptation:  parenchymal lung diseases e.g., Meconium Aspiration Syndrome (MAS), Pneumonia/
+sepsis, Respiratory Distress Syndrome (RDS), asphyxia
+• Intrinsic Obstruction: polycythaemia with intravascular obstruction and increase PVR.
+
+=== PAGE 171 ===
+
+154 155
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 6         NEONATOLOGYDifferential Diagnosis
+Management• Differentiating PPHN from cyanotic heart disease soon after admission is important.
+• Preductal and postductal oxygen saturations of more than 5-10% or PaO2 differences of 10-20 mmHg 
+between right upper limb and lower limbs helps to differentiate PPHN from structural heart disease.
+• The diagnosis is confirmed with 2D Echocardiography which may not be available in all hospitals.
+PPHN management involves restoration of the cardiopulmonary adaptation and to minimize ventilator- and 
+oxygen-induced pulmonary injury.
+This includes treatment of the underlying disease, maintenance of normal systemic BP , decrease pulmonary 
+vascular resistance and ensure adequate tissue oxygenation.
+• Supportive care 
+• Maintain normothermia, correct metabolic and hematologic abnormalities e.g., hypoglycemia, 
+hypocalcaemia, hypomagnesaemia, polycythaemia and acidosis. Antibiotics if clinically indicated.
+• Ensure minimal handling and stimulation
+• Provide sedation and analgesia as required to avoid agitation and asynchrony with ventilator, e.g., 
+morphine infusion 10-20 mcg/kg/hr.
+• In the event of systemic hypotension, a fluid bolus of 10ml/kg of normal saline can be given, 
+followed by dopamine 5-10 mcg/kg/min or noradrenaline of 0.05 – 0.5mcg/kg/min. Higher doses 
+of dopamine infusion can aggravate PVR disproportionately to systemic vascular resistance (SVR). 
+There is some evidence that noradrenaline may selectively reduce PVR and increase SVR.
+• Mechanical ventilation
+• Avoid underinflation and overinflation of the lungs as this leads to increase in PVR
+• Adopt “Gentle” ventilation strategies with optimal PEEP and relatively low PIP or tidal volume (TV) 
+for adequate lung expansion. Aim is to limit volutrauma, barotrauma and atelectrauma.
+• Consider HFOV if PIP > 28 and TV > 6ml/kg are required to maintain lung expansion and good gas 
+exchange.
+• Target PaO 2 55-80 mmHg, with permissive hypercapnia and pH 7.30-7.45. Avoid hyperoxaemia.
+• Surfactant therapy may be considered in PPHN secondary to parenchymal lung disease - RDS, MAS and 
+pneumonia (benefit is greatest for mild to moderate disease).
+• Inhaled Nitric Oxide (iNO)
+• Potent vasodilator which selectively dilates the pulmonary circulation without decreasing systemic 
+B P.
+• Indicated in neonates with PPHN with oxygenation index (OI)> 15-25. Start at 20 ppm. Response 
+should be fairly rapid.
+• Once a sustained response is seen, FiO 2 is gradually weaned to ≤ 60%. iNO can be weaned from 
+here on by 5ppm every 4 hours (or as dictated by blood gas). There should be a sustained rise in 
+PaO 2 of at least ≥ 60mmHg (pre- ductal SaO 2 ≥ 90%) in between weaning. Once iNO is 5 ppm, wean 
+by 1 ppm every 4hours. Gradual weaning prevents rebound pulmonary vasoconstriction.
+
+=== PAGE 172 ===
+
+156
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 6         NEONATOLOGY• Sildenafil
+• Can be considered for the following indications for treatment of PPHN:
+a. An adjuvant to iNO in NO-resistant PPHN or to facilitate weaning of iNO where weaning has 
+been difficult or slow
+b. Primary treatment of PPHN where iNO is not available or is contraindicated
+• Its safety and effectiveness have not been established in large RCTs. Until further evidence is 
+available, the initial dosing strategy would include initiating therapy with oral sildenafil at 0.5 mg/
+kg/dose 6-hourly and if there is no response, increasing the dose up to a maximum of 2 mg/kg/
+dose.
+• Response time varies from 20 minutes to 3 hours after oral administration. Duration of treatment 
+is not yet well defined, and one approach is to taper off the medication after a clear response and 
+improvement is seen in the infant. 
+• The treatment should also be discontinued after 6-8 doses if there is no improvement. It should be 
+reduced or stopped completely if hypotension develops despite inotropic support.
+• Intravenous magnesium sulphate (MgSO 4) can cause reduction of pulmonary artery pressures in animal 
+studies. Only observational studies are available showing it can be helpful in infants. It is associated with 
+systemic hypotension. In centers without iNO, MgSO 4may be used. A loading dose of 200 mg/kg MgSO 4 
+is given intravenously over 20 minutes followed by continuous infusion at the rate of 20- 50mg/kg/h 
+to obtain a serum magnesium level between 3 - 5.5 mmol/l. Inotropes may be  required to keep mean 
+arterial blood pressure between 40-45 mmHg. Some of the studies commenced on dopamine 5-10mcg/
+kg/min prior to starting magnesium therapy.
+• Other agents: e.g., Milrinone, Alprostadil (prostaglandin E1) are not recommended to be used without 
+supervision and in consultation with a Neonatologist or Paediatric Cardiologist. It is advisable to have 
+ECHO facilities readily available for guiding therapeutic decisions in these complex situations.
+• ECMO is a supportive measure that allows the neonatal heart and lung to recover from the underlying 
+disease in iNO resistant PPHN. It is not available in this country. Newer therapies – Superoxide 
+dismutase, arginine, bosentan and citrulline are under investigation
+• Nutritional support should not be overlooked in the overall management of the infant.
+• Developmental outcomes – long term multidisciplinary follow up is necessary as PPHN is associated 
+with neurodevelopmental, cognitive and hearing abnormalities.
+
+=== PAGE 173 ===
+
+156 157
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 6         NEONATOLOGYChapter 26:
+Ophthalmia Neonatorum 
+Definition
+Aetiology 
+GonococcalDiagnosisConjunctivitis occurring in the first 28 days of life with clinical signs of erythema and oedema of the 
+eyelids and palpebral conjunctiva, purulent eye discharge with one or more polymorphonuclear cell per oil 
+immersion field on a Gram stained conjunctival smear.
+Sexually transmitted bacteria ( Neisseria gonorrhoea, Chlamydia trachomatis ), non-sexually transmitted 
+bacteria mainly from gastrointestinal tract and skin,  virus (adenovirus, herpes virus and enterovirus) and 
+chemical. 
+• Most important bacteria by its potential to damage vision. 
+• Typically presents with profuse exudate and swelling of the eyelids  2 to 5 days after birth.
+• Without treatment, the infection can extend from superficial epithelial layers into the subconjunctival 
+connective tissue and the cornea, leading to ulceration, scarring, and visual impairment. 
+• The infant should be hospitalized and observed for response to therapy and for disseminated disease 
+(e.g. arthritis, sepsis, meningitis)  
+• Presumptive treatment should be started after obtaining cultures in high risk group (e.g. mother with 
+no prenatal care, history of sexually transmitted diseases (STD), or substance abuse)
+• Treatment: 
+ ÊSystemic: Ceftriaxone 25-50mg/kg (max. 250 mg) IV or IM single dose, or Cefotaxime 100 mg/kg IV 
+or IM single dose (preferred if premature or hyperbilirubinaemia present) 
+ ÊThe eyes should be irrigated frequently with sterile normal saline until the discharge clears. Topical 
+antibiotic therapy alone is inadequate.
+ ÊDisseminated infections : Ceftriaxone 25-50mg/kg/day IV or IM in single daily dose for 7 days, or 
+Cefotaxime 25mg/kg/dose every 12 hours for 7 days and  10-14 days for meningitis.
+ ÊNote: Ceftriaxone is not recommended for use  in preterm infants, neonatal hyperbilirubinaemia and 
+concurrent administration in calcium containing solutions
+• For asymptomatic infants whose mothers have untreated gonococcal infection, treatment with a single 
+dose of one of the following: Ceftriaxone 25-50mg/kg (max. 250 mg) IV or IM single dose, or Cefotaxime 
+100 mg/kg IV or IM single dose or Ceftazidime 50mg/kg IV or IM single dose.  
+• Preventive measure is the most effective by diagnosing and treat the infection in pregnant women.• Essentially a clinical diagnosis 
+• Laboratory diagnosis to determine aetiology 
+• Eye swab for Gram stain (fresh specimen to reach laboratory in 30 mins) 
+• Gram stain of intracellular gram negative diplococci - high sensitivity and specificity for Neisseria 
+gonorrhoea. 
+• Eye swab for culture and sensitivity. 
+• Conjunctival scraping for indirect fluorescent antibody identification for Chlamydia 
+• Nucleic acid amplification tests (NAATs) - gold standard for diagnosing Chlamydia (not available in 
+Malaysia)
+
+=== PAGE 174 ===
+
+158
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 6         NEONATOLOGYChlamydia
+Other bacterial causes
+Important Notes Herpes simplex virus • Unilateral or bilateral conjunctivitis with peak incidence between 5 to 14 days of life. 
+• Eye discharge is initially copious then becoming mucopurulent. It is associated with eye swelling and 
+chemosis.
+• Untreated infants may have persistent conjunctivitis for months that may result in corneal and 
+conjunctival scarring.
+• Treatment : 
+ ÊEmpirical treatment until the result is available.
+ ÊOral azithromycin 20mg/kg once daily for 3 days.
+ ÊErythromycin base 50mg/kg/d in 4 divided doses for 14 days, is an alternative.
+• Note: Caution both azithromycin and erythromycin are associated with increased risk of 
+hypertrophic pyloric stenosis 
+ ÊTopical therapy is not effective.
+• Includes Staphylococcus aureus, Streptococcus viridans, Haemophilus, E.coli, Klebsiella species and 
+Pseudomonas. Most are hospital acquired conjunctivitis which can be treated with topical antibiotics 
+except for Pseudomonas. 
+• Ophthalmia neonatorum caused by Pseudomonas is rare but may cause corneal perforation, 
+endophthalmitis and blindness. These infants need assessment by an ophthalmologist and require a 
+combination of systemic and topical aminoglycosides with occasional subconjunctival injection. 
+• Treatment:
+ ÊLocal: Chloramphenicol, gentamicin eye ointment 0.5%, both eyes (Change according to sensitivity, 
+duration according to response), or in non-responsive cases refer to ophthalmologist and consider 
+Fucithalmic, Ceftazidime 5% ointment bd to qid for a week. Eye toilet 
+ ÊLocal treatment may be unnecessary if systemic treatment is given. 
+• Refer infants to an ophthalmologist for assessment. 
+• Ophthalmia neonatorum due to gonococcal or Chlamydia trachomatis  infection is a notifiable disease 
+• Check VDRL of the infant to exclude associated congenital syphilis and screen for C. trachomatis  and 
+HIV. 
+• If positive, the parents should be referred to STD clinic for further assessment and management. • Uncommon, accounting less than 1% of ophthalmia cases
+• High index of suspicion in infants with unilateral chemosis, serosanguineous discharge that 
+rarely becomes purulent, presence of vesicular lesions surrounding eyelids or oral ulcers and 
+lymphadenopathy
+• Early detection and prompt treatment to prevent complications including disseminated disease and 
+meningoencephalitis.
+• Systemic treatment 
+ ÊIV Acyclovir 30mg/kg/d in 3 divided doses for 14 days 
+ ÊTopical 0.15% Ganciclovir or 1% Trifluridine
+
+=== PAGE 175 ===
+
+158 159
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 6         NEONATOLOGYChapter 27:
+Perinatally Acquired Varicella and Postnatal exposure to 
+Varicella infection
+Introduction
+• In maternal infection (onset of rash) within 7 days before and 7 days after delivery 17-30% develops 
+neonatal varicella with lesions appearing 5-10 days of life. Mortality can be as high as 20% since these 
+infants have not acquired maternal protecting antibodies. Cause of death is due to severe pulmonary 
+disease or widespread necrotic lesions of viscera.
+• When maternal varicella occurs 7-21 days before delivery, lesions typically appear in the first 4 days 
+of life and prognosis is good with no associated mortality. The mild course is probably due to the 
+production and transplacental passage of maternal antibodies that modify the course of illness in 
+newborns.
+• Infants born to mothers who develop varicella between 7 days before delivery or 7 days after delivery 
+should receive as prophylaxis 
+• Varicella Zoster immunoglobulin (VZIG) 125 IU IM as soon as possible after delivery or within 
+96 hours of initial exposure (to reduce the occurrence of complications and fatal outcomes). 
+Attenuation of disease might still be achieved with administration of VariZIGTM up to 10 days after 
+exposure.
+• For infants born to mothers who develop varicella between 5 days before and 2 days post delivery, 
+add IV acyclovir 15 mg/kg/dose over 1 hour every 8hrly (total 45 mg/kg/day) for 5 days.
+• If Zoster immunoglobulin is not available give IV Immunoglobulin 400 mg/kg (this is less effective) 
+AND IV Acyclovir 15 mg/kg/dose over 1 hour every 8hrly (total 45 mg /kg/day) for 5 days.
+• On sending home, warn parents to look out for new vesicles or baby being unwell, for 28 days 
+after exposure. If so, parents to bring the infant to the nearest hospital as soon as possible (62% of 
+healthy such neonates given VZIG after birth)
+• If vesicles develop, give Acyclovir 15 mg/kg/dose over 1 hour every 8hrly (total 30-45 mg /kg/day) for 
+7-10 days.
+• Women with varicella at time of delivery should be isolated from their newborns, breast-feeding is 
+contraindicated. The newborn infant can receive expressed breast milk in the meantime and breast-
+feeding commenced when all the mother’s lesions have crusted.
+• Neonates with varicella lesions should be isolated from other infants but not from their mothers.
+• It has been generally accepted that passive immunization of the neonate can modify the clinical course 
+of neonatal varicella but it does not prevent the disease and, although decreased, the risk of death is 
+not completely eliminated
+• Infants whose mothers develop Zoster before or after delivery have maternal antibodies and they will 
+not need VZIG.
+• Recommend immunisation of family members who are not immune.
+
+=== PAGE 176 ===
+
+160
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 6         NEONATOLOGYPostnatal exposure to varicella in the hospitalAssessing the significance of varicella exposure
+• Give VZIG within 96 hours to those who have been exposed if they fit the following criteria: 
+• All infants born at < 28 weeks gestation or who weighed < 1000g at birth irrespective of maternal 
+history of chickenpox. This group has increased risk of severe varicella up to 6 weeks after birth.
+• All preterm infants born at ≥28 weeks gestation whose mothers have not had chickenpox or whose 
+status is unknown.
+• Infants with significant non-maternal exposure to VZV within the first 7 days of their life if mother 
+have never had varicella infection
+• All immunocompromised infants such as those undergoing immunosuppressive therapy, have 
+malignant disease or are immunodeficient, severe underlying skin disorder.
+• Note that infants who are more than 60 days old or has been given blood transfusion may be 
+VZIG negative even though there is a positive history of maternal varicella – to counsel parents to 
+observe for varicella lesions so infants can be treated early
+• Monitor at risk infant up till end of incubation period i.e. 28 days post initial exposure. Non-
+immunocompromised infant who can be monitored closely at home and have easy access to 
+hospital, can be discharged earlier.
+• Isolate infant who has varicella infection and susceptible infants who have been exposed to the 
+virus. Treatment of symptomatic infants with acyclovir as above.
+• Screen exposed, susceptible hospital staff for skin lesions, fever, headache and systemic symptoms. 
+They are potentially infective 10-21 days after exposure and should be placed on sick leave 
+immediately should any symptoms or skin lesion arise. If possible, they can also be reassigned 
+during the incubation period to areas where the infants are not as susceptible or non-patient care 
+areas.
+Other notes
+• In hospitals, airborne transmission of VZV has been demonstrated when varicella has occurred in 
+susceptible persons who have had no direct contact with the index case-infant.
+• Incubators are not positive pressure air flow & therefore do not provide isolation. Neonates may not be 
+protected given that they are frequently open for nursing purposes.
+•  All staff should preferably be screened, and susceptible staff vaccinated for varicella before 
+commencing work in neonatal, oncology and ICU wards. If not, they should receive post exposure 
+vaccination as soon as possible unless contraindications exist such as pregnancy. Post-exposure VZIG to 
+be given to non-immune pregnant staff up to 10 days post initial exposure to prevent complications in 
+the mother and may reduce the risk of fetal varicella syndrome.
+• The use of VZIG following exposure does not necessarily prevent varicella and may prolong the 
+incubation period by > 1 week and hence signs or symptoms should be observed for 28 days post 
+exposure.
+• VZIG is not presently recommended for healthy full-term infants who are exposed postnatally, even 
+if their mothers have no history of varicella infection. To emphasise to parents to bring back early for 
+treatment with acyclovir if any skin lesion appears within the next 3 weeks.• The index case could be the health care professional, a family member or a patient
+• There should be close contact with the index case: 
+• Maternal/neonatal contact.
+• Contact between health care professional or family member and patient
+• Contact in the same room, including large open wards, for 15 minutes or more.
+• Face to face contact, as in conversation.
+
+=== PAGE 177 ===
+
+160 161
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 6         NEONATOLOGYChapter 28:
+Management of Perinatal Hepatitis B Virus (HBV) transmission 
+(Exposed Infants)
+Introduction
+1. Postnatal Management
+2. Preterm and/or low birth weight infantsTable 1: Hepatitis B Newborn Prophylaxis Protocol
+• Low birth weight and preterm newborn infants have decreased immune response  to Hepatitis B 
+containing vaccines compared to full-term infants. 
+• For low-birth-weight infants (<1800 g) and/or those born at <32 weeks’ gestation (irrespective of 
+birth weight), it is recommended that the infants complete 4-doses Hepatitis B schedule vaccination 
+(the birth dose is not considered part of the vaccination series)The risk of a child developing chronic HBV infection is about 90% when infected perinatally. In Malaysia, 
+universal hepatitis B immunization of newborns has been implemented since 1989.  
+*Do not count the birth dose as part of the vaccine series.
+# High risk pregnant women who are identified as being at risk for HBV infection during pregnancy (e.g., having more than one sex 
+partner during the previous 6 months, been evaluated, or treated for an STI, recent or current injection-drug use, or having had an 
+HBsAg-positive sex partner)Maternal HBsAg status Recommendation
+HBsAg ± HBeAg positive • Administer HBIG (Hepatitis B Immunoglobulin) 
+• Administer single-antigen hepatitis B vaccine (birth dose) * within 12 
+hours of birth. 
+• If possible, both should be given at the same time but in separate 
+thighs  using separate needles and syringes.
+• Complete the 4-doses Hepatitis B vaccine series.
+• (3 Hepatitis B-containing combination vaccine at ages 2, 3, and 5 
+months with a booster at 18 months (according to the Malaysian 
+National Immunization Programme)
+Negative • Administer single-antigen Hepatitis B vaccine* within 24 hours of 
+birth. 
+• Complete the 4-doses Hepatitis B vaccine series
+Unknown (with high risk 
+factors #)• Test mother for HBsAg.
+• Administer single-antigen hepatitis B vaccine* within 12 hours of birth
+• Give HBIG if test positive (must be given within 7 days of birth )
+• Complete the 4-doses Hepatitis B vaccine series 
+
+=== PAGE 178 ===
+
+162
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 6         NEONATOLOGYFigure 1: Administration of Birth Dose of Hepatitis B vaccine by Birth weight and Maternal HBsAg status
+3. Postvaccination serologic testing (PVST)
+• PVST is done to evaluate the effect of hepatitis B immunization and identifying HBV infection in 
+infants.  The recommended testing for the infant:
+1)  Hepatitis B surface antigen (HBsAg) and level of anti-HBs (antibody to HBsAg) 
+2)  Timing of measurement:  
+a) 9-12 months of age, OR
+b) 1–2 months after the final dose of the vaccine series (if the series is delayed).Modified from American Academy of Pediatrics, Committee on Infectious Diseases, Committee on Fetus and Newborn. Elimination of 
+perinatal hepatitis B; providing the first vaccine dose within 24 hours of birth. Pediatrics,2017
+
+
+=== PAGE 179 ===
+
+162 163
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 6         NEONATOLOGYTable 2: Interpretation of Postvaccination Serologic Testing Results 4. Interpretation of PVST Results 
+PVST results Follow-up Management
+1a) Anti-HBs - Positive 
+Antibody Level ≥10 mIU/mL 
+  b) HBsAg - NegativeNo follow up necessary. Infant is protected.
+2a) Anti-HBs – Negative
+Antibody Level <10mIU/mL
+  b) HBsAg - NegativeNo response and infant is susceptible for infection. 
+Needs additional follow up and vaccines
+Revaccination with an additional dose of monovalent Hepatitis B vaccine 
+and receive PVST 1–2 months later. 
+If repeated PVST still shows no response (anti-HBs remains <10 mIU/mL) 
+the infant should receive two additional doses of monovalent Hepatitis B 
+vaccine to complete the second series, followed by PVST 1–2 months after 
+the final dose.
+3a) Anti-HBs -Negative
+Antibody Level < 10mIU/mL
+  b) HBsAg - positiveInfant is infected with Hepatitis B.  
+Consult with the Paediatric Gastroenterologist for appropriate 
+management and follow-up. 
+5. Breastfeeding Caution:
+6. CounsellingBreastfeeding is not a contraindication for infants born to mothers who are HBsAg positive. Mothers 
+who were not treated with antivirals during pregnancy are encouraged to breastfeed if their newborns 
+have received combined immunoprophylaxis composed of HBIG and hepatitis B vaccine.  1. Do not test the infant before 9 months of age, to avoid detecting anti-HBs from the HBIG given at birth 
+and to maximize the likelihood of detecting late HBV infection.
+2. Due to a decrease in antibody to hepatitis B surface antigen (anti-HBs), PVST should not be performed 
+after 12 months of age
+Counsel the mother regarding the necessity and importance of the following: 
+1. How hepatitis B spreads and how to prevent spreading it. 
+2. The need for and importance of her infant to complete the primary Hepatitis B vaccination program. 
+3. Testing her infant between 9 and 12 months of age to make sure the infant is protected and has no 
+infection. 
+4. The need to get medical follow-up for herself and family members who may be HBV carriers.
+
+=== PAGE 180 ===
+
+164
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 6         NEONATOLOGYChapter 29:
+Bronchopulmonary Dysplasia 
+Introduction
+Risk factors for Bronchopulmonary Dysplasia
+Diagnosis
+ManagementDiagnosis based on prospective NICHD Jensen 2019 studyBronchopulmonary dysplasia (BPD) is chronic lung disease that occurs in premature infants. Survivors with 
+BPD have serious consequences ranging from chronic cardiopulmonary morbidity to growth failure and 
+developmental delay. 
+Bronchopulmonary Dysplasia is a multifactorial disease affecting over 35% of extremely preterm infants
+Inflammation is one of the key drivers in the pathogenesis of BPD. Interactions of many antenatal, 
+intrapartum and postnatal risk factors induce ongoing inflammation and subsequent aberrant repair 
+process in the preterm lungs.
+Preterm <32 weeks gestational age with persistent parenchymal lung disease confirmed by radiography and 
+at 36 weeks post menstrual age requires the following intervention
+Prevention strategies 
+a. Avoid intubation and mechanical ventilation. Consider early CPAP use at delivery room for 
+spontaneously breathing preterm infants
+b. If invasive ventilation is required, to consider using volume targeted ventilation and early timely 
+extubation to non-invasive respiratory support
+c. Minimally invasive surfactant therapy (MIST)/Less Invasive Surfactant Administration (LISA) has been 
+shown to reduce incidence of BPD.Prenatal risk factors Perinatal risk factors Postnatal risk factors
+Intrauterine growth 
+restriction
+Lack of antenatal 
+corticosteroids
+Maternal chorioamnionitis
+Preeclampsia
+Maternal smokingLow gestational age
+Low birth weight
+Male gender
+Low Apgar score
+Perinatal asphyxiaMechanical ventilation
+Supplemental oxygen
+Sepsis
+Necrotizing enterocolitis
+Systemic inflammatory response
+Patent ductus arteriosus
+GRADESInvasive 
+ventilationNIPPV/NCPAPNasal cannula 
+flow>2L/minNasal cannula 
+flow<2L/min
+I MILD - - - FIO 2>21%
+II MODERATE - FIO 2>21% FIO 2>21% -
+III SEVERE FIO 2>21% - - -
+
+=== PAGE 181 ===
+
+164 165
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 6         NEONATOLOGYd. Caffeine administration to all infants <30 weeks’ gestation reduces the risk of BPD and shortens 
+duration of ventilation and exposure to supplemental oxygen.
+e. In preterm infants, target oxygen saturation between 90%-95% ranges
+f. Postnatal Corticosteroids use
+• Postnatal systemic corticosteroids therapy improves short term lung function and pulmonary 
+outcome of infants with established BPD and reduces risk of BPD in high-risk preterm infants.
+• Postnatal steroid therapy is used to prevent and treat BPD. Its use is associated with short and long-
+term complications.
+• To minimize the complications, late systemic use (>8 days) is recommended over early corticosteroids. 
+• Current recommendations are that postnatal corticosteroids therapy should be reserved for preterm 
+infants who are ventilator-dependent after the first 7-14 days of life and any course should be of low 
+dose and of short duration to facilitate endotracheal extubation
+• Suggested low dose dexamethasome regimen (DART) (total cumulative dose 0.89mg/kg)
+• 75mcg/kg/dose 12 hourly for 3 days then
+• 50mcg/kg/dose 12 hourly for 3 days then
+• 25 mcg/kg/dose 12 hourly for 2 days then
+• 10 mcg/kg/dose 12 hourly for 2 day*Parents should be counselled on the complications of corticosteroid therapyShort term side effects Long term side effects
+Hyperglycemia
+Hypertension
+Intestinal /gastric perforation
+Late onset sepsis
+Adrenal suppressionIncreased risk of cerebral palsy and 
+neurodevelopmental impairment
+Hypertrophied cardiomyopathy
+Severe Retinopathy of prematurity
+Long Term Management of Bronchopulmonary Dysplasia
+General MeasuresFor those with established BPD, the aim of management should be to decrease the risk of early childhood 
+death, prevent cardiovascular disease, optimize growth and ensure appropriate neurodevelopmental 
+outcomes.
+a. Adequate nutrition for high energy needs in infants with BPD to ensure adequate lung growth and 
+repair.
+b. Consider fluid restriction at 150mls/kg/day with caloric-dense feeds to improve lung function and gas 
+exchange. (Low evidence)
+c. Immunization – following the national immunization schedule for Malaysia. Passive immunization 
+e.g. Palivizumab or Nirsevimab should be considered for RSV prevention in infants born ≤28 weeks’ 
+gestation with an established diagnosis of BPD. Consider annual Infuenza/Flu immunization for the high-
+risk BPD cohort. 
+d. Family counselling regarding awareness of environmental irritants, mainly secondary smoke inhalation 
+and minimizing risk of infection. This is to minimize further lung damage.
+e. Monitoring with lung imaging for those with severe BPD, severe respiratory symptoms and/or recurrent 
+hospitalizations for respiratory morbidity.
+
+=== PAGE 182 ===
+
+166
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 6         NEONATOLOGYOxygen supplementationPharmacological intervention
+a. All infants with BPD and extreme preterm infants (<28 weeks’ gestation) should ideally have an 
+overnight pulse oximetry monitoring prior to discharge, with or without oxygen
+b. For infants with BPD, supplemental oxygen therapy is recommended to maintain a minimum mean SpO 2 
+of 93%
+c. All aspects of care need to be optimized prior to initiation of long-term oxygen therapy (consider airway 
+problems, assess for pulmonary hypertension, manage reflux disease and nutritional requirements, as 
+well as complete repair of inguinal hernia by 36 weeks).
+d. Home oxygen therapy will require a multi-disciplinary team approach, with a referral to the Paediatric 
+Respiratory team. Four aspects to be considered are:
+• The infant needs to be fit for discharge
+• A dedicated caretaker for the infant
+• Suitable and safe home 
+• Availability of equipment.
+e. Follow-up should be arranged in an ambulatory setting to facilitate patient care.
+The clinical course in infants with BPD is complex, with multiple morbidities, frequent hospitalizations 
+and often poor continuity of care. The formation of multi-disciplinary care has the potential to improve 
+outcomes and survival in these infants.a. Bronchodilators can be considered if there are features of airway hyperreactivity. Routine use is not 
+recommended unless there is clinical evidence of acute bronchoconstriction from acute pulmonary 
+decompensation and needs to be weaned off as soon as no long-term benefit is seen. Be aware of the 
+malacic airway in this group of infants.
+b. Inhaled corticosteroids can be considered in subgroups with severe BPD, severe respiratory symptoms, 
+recurrent hospitalization due to respiratory morbidity and symptoms not controlled with regular use 
+of bronchodilators. Clinical effects should be closely monitored during a trial period and discontinued 
+when no positive impact or benefit is seen.f. Acute episodes of pulmonary decompensation, in the form of exacerbations should be managed 
+based upon the underlying aetiology (infections, severe airway reactivity, pulmonary oedema, 
+tracheobronchomalacia, etc.)
+g. Assess for complications of BPD, including monitoring for pulmonary hypertension, systemic 
+hypertension, left ventricular hypertrophy, cardiac dysfunction, growth failure and neurodevelopmental 
+impairment.
+
+=== PAGE 183 ===
+
+166 167
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 6         NEONATOLOGYChapter 30:
+Non- invasive Ventilation in Preterm Infants
+Continuous positive airway pressure (CPAP)
+Biphasic CPAP, Bilevel CPAP, Duo PAP • CPAP is an established mode of non-invasive ventilation (NIV) for infants.
+• Clinical benefits:  improves oxygenation, maintains functional residual capacity (FRC), decreases apnea, 
+reduces work of breathing and splints the upper airways.
+• Limitations and risk:  nasal trauma, air leak syndromes, gastric distension (“CPAP belly”)
+• Clinical indications:  
+a. Primary mode of respiratory support - as first line respiratory support for preterm infants. It can be 
+used shortly after birth in spontaneous breathing preterm infants as prophylactic or early CPAP to 
+prevent intubation and mechanical ventilation (MV).
+b. Post-extubation respiratory support 
+c. Treatment of apnea of prematurity
+• Clinical management:
+a. Optimum CPAP pressure is not known and depends on the underlying pathophysiology and severity 
+of illness.
+b. CPAP pressures are generally set between 5-8 cm H 2O. Higher CPAP pressures can be associated 
+with air leaks.
+c. Starting at a pressure 5-6 cm H 2O and increasing by 1 cm H2O increments, adjusting based on O2 
+requirements and clinical assessment of work of breathing (WOB)
+d. Short binasal prongs and nasal mask are recommended over single or nasopharyngeal prongs.
+e. Various types of devices may be used to deliver CPAP -no definitive evidence to suggest which CPAP 
+device is superior. 
+f. It is more important for the clinical team to be familiar with the devices available and their 
+management.
+g. The evidence regarding the optimum method of weaning is unclear. Gradual weaning of pressure 
+has higher chance of success compared to sudden stopping of CPAP (sudden wean).
+• Flow drivers are used to deliver alternating cycles of low pressure and high-pressure at pre-specified 
+intervals 
+• The high pressures (PIP) used vary between devices and generally range between 9 - 11cm H 2O. The 
+high and low pressures difference is ≤ 4 cm H 2O
+• The inspiratory time (IT) is longer (0.5–1 s) and respiratory rates are lower at 20-40/min.
+
+=== PAGE 184 ===
+
+168
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 6         NEONATOLOGYNasal intermittent positive pressure ventilation (NIPPV)
+Heated Humidified High Flow Nasal Cannula (HHHFNC)• NIPPV provides two levels of pressure: 
+a. A constant positive end-expiratory pressure (PEEP) and 
+b. A higher positive inspiratory pressure (PIP) without an endotracheal tube. 
+• Set PIP typically in the range of 15 - 22cm H 2O. 
+• The rate and IT for the PIP is set, making this a time-cycled pressure limited mode of NIV, mimicking 
+invasive mechanical ventilation.
+• NIPPV can be synchronized (S-NIPPV) or non-synchronized (NS-NIPPV). Synchronized NIPPV is preferred 
+to non-synchronized NIPPV.
+• Most of the conventional mechanical ventilator can deliver NS-NIPPV
+• S-NIPPV can be delivered by some ventilators with specific triggering devices.
+• Clinical indications of Biphasic CPAP, Bilevel CPAP, Duo PAP and NIPPV: 
+a. Primary mode of respiratory support in situations where higher mean airway pressure than CPAP 
+may be required.
+b. Post extubation respiratory support 
+c. Treatment of apnea of prematurity
+• HHHFNC uses smaller binasal prongs (cannula) than CPAP , with a simpler interface, and delivers heated, 
+humidified gas at flows of more than 1 L/min.
+• Typical flows between 2-8L/min is used. 
+• The pharyngeal distending pressure is not monitored and dependent on multiple factors: flow rate, size 
+of nasal cannula, leak, airway anatomy, and weight of the infants.
+• Do not occlude the nostrils and the preferred cannula to nares ratio ~ 0.5.
+• Limited data on its use in extremely preterm infants < 28 weeks’ gestational age or term infants
+• Clinical benefits: less nasal trauma, reduced pneumothorax, more comfortable for the neonate and 
+parent and nursing staff preference
+• Clinical indications:
+a. Primary mode of respiratory support is associated with a higher rate of treatment failure compared 
+with CPAP and is not recommended.
+For clinicians and units who wish to use as primary respiratory support, it is recommended that its 
+use is limited to infants ≥ 30 weeks’ gestation and FiO 2 30% on admission.*
+b. Post-extubation respiratory support in infants ≥ 28 weeks’ gestation.* 
+*CPAP should be available as a ‘rescue therapy’ to avoid intubation and MV in the event of failure.
+c. Apnea of prematurity - There is insufficient evidence to recommend its use 
+d. ‘Weaning’ from CPAP . There is insufficient evidence to recommend its use. However, given its 
+benefits, it may be an alternative in those infants with  nasal trauma from CPAP .
+• Clinical management
+a. Start at gas flow 4-6L /min. Choice of starting gas flow should consider the gestational age, disease 
+pathophysiology and current clinical status (O 2 requirement and work of breathing)
+b. Consider escalating to CPAP if FiO 2 consistently > 0.4, continues to have increased work of 
+breathing, increase rates of apnea or bradycardia.
+c. There is no consensus on how to wean HHHFNC. Consider weaning FiO 2 to < 0.3 before weaning 
+flow.
+
+=== PAGE 185 ===
+
+168 169
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+RESPIRATORYSection 7
+
+=== PAGE 186 ===
+
+170
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 7         RESPIRATORYChapter 31:
+Asthma
+Definition
+Diagnosis of asthma in children younger than 5 years old• Asthma is a heterogenous disease with many phenotypes
+• It is characterized by chronic airway inflammation, leading to variable/recurrent respiratory symptoms 
+(such as wheeze, shortness of breath, chest tightness and cough) AND variable expiratory airflow 
+limitation.
+• Evidence of  variable expiratory airflow limitation is demonstrated by:
+• Low FEV1/FVC ratio (at least once during diagnostic process) 
+• Significant bronchodilator response/reversibility: > 12% improvement in FEV1 in children < 12 
+years old (> 12% AND > 200 ml improvement in > 12 years old) in response to administration of a 
+bronchodilator PEF improvement 
+ ͳPEF improvement >15% post bronchodilator can be used if spirometry is not available.
+• Average diurnal variability >15% in children
+• > 12% improvement in FEV1 from baseline in children after 4 weeks of anti-inflammatory asthma 
+treatment (>12% AND > 200 ml improvement in > 12 years old).
+• Fractional Exhaled Nitric Oxide (FeNO) is an invasive biomarker of airway inflammation; thus, it helps to 
+establish asthma diagnosis and monitor effectiveness of asthma medication (if the test is available).
+• Whenever possible, try to document evidence for the diagnosis of asthma before starting controller 
+treatment (it is more difficult to confirm diagnosis afterwards)The prevalence of asthma in Malaysian children (up to 18 years old) is 7.1% based on the Third National 
+Health and Morbidity Survey (NHMS III) in 2006.
+A diagnosis of asthma in young children is often challenging as cough and wheeze are common symptoms 
+either due to preschool wheezing disorders (i.e., viral-induced wheeze or multi-triggered wheeze) or acute 
+bronchiolitis.
+The diagnosis is mainly based on symptoms patterns combined with a careful clinical history and physical 
+findings. 
+A structured clinical assessment to assess the probability of asthma should be based on: 
+A history of recurrent episodes of symptoms (symptoms of wheeze, cough, breathlessness and chest 
+tightness that vary over time, usually precipitated by allergens, exercise, environmental triggers (e.g., 
+tobacco smoke, dust, air pollutants) or respiratory infections. The variation of symptoms may occur 
+spontaneously or with usage of β2 agonist bronchodilator and ideally demonstrated by variable peak flow 
+measurement, if feasible.
+• Recorded observation of wheeze heard by a healthcare professional
+• Personal/family history of other atopic conditions (atopic eczema, allergic rhinitis) or asthma in first 
+degree relative
+• No other features to suggest alternative diagnoses
+
+=== PAGE 187 ===
+
+170 171
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 7         RESPIRATORYA probability-based approach  (Table 1), based on the pattern of symptoms during and between viral 
+respiratory infections may be helpful in the diagnosis, allowing individual decisions to be made about 
+whether to give a  trial of controller treatment.
+Table 1: Probability-based Approach of Asthma
+Some Pointers:
+1. For high probability of asthma, a therapeutic trial of low to moderate dose ICS for at least 6 weeks  may 
+be commenced and clinical improvement with preventer treatment and worsening of symptoms when 
+treatment is stopped is suggestive of asthma.
+2. For low probability of asthma, evaluate for other diagnosis.
+3. For intermediate probability of asthma, watchful waiting or a diagnostic trial of low dose of ICS for 3 
+months and assess response.Clinical History Physical Examination
+Current symptoms
+Pattern of symptoms
+Precipitating factors
+Present treatment
+Previous hospital/PICU admission
+ Typical exacerbations
+Home/school environment
+Impact on life style
+History of atopy
+Response to prior treatment
+Prolonged URTI symptoms
+Family historySigns of chronic illness
+Harrison’s sulci
+Hyperinflated chest
+Eczema/dry skin
+Hypertrophied turbinate
+Signs in acute exacerbation
+Tachypnoea
+Wheeze, rhonchi
+Hyperinflated chest
+Accessory muscles
+Cyanosis
+Drowsiness
+TachycardiaImportant Points to Note in:
+Note: Absence of Physical Signs Does Not Exclude Asthma!
+Probability of asthma: Low Moderate High
+Duration of symptoms 
+(cough, wheeze, heavy 
+breathing) during URTI< 10 days > 10 days > 10 days
+Number of exacerbations 2-3 per year >3 per year, or 
+severe episodes>3 per year, or severe episodes
+Interval symptoms (between 
+episodes or exacerbations)No symptoms occasional cough 
+or wheezecough and/or wheeze during 
+play/ laughing/exercise
+Atopy Nil Nil Present
+Family history of  asthma Nil Nil Present
+
+=== PAGE 188 ===
+
+172
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 7         RESPIRATORYRed Flags and Pointers of Other Diagnosis:
+• Failure to thrive
+• Neonatal or very early onset of symptoms 
+• Vomiting/feeding problems with respiratory symptoms
+• Chronic wet cough (> 4 weeks)
+• Fixed monophonic wheeze/stridor
+• Failure to respond to controller medications
+• No associations of symptoms with typical triggers (eg. URTI)
+• Focal / asymmetrical lung findings 
+• Cardiovascular signs
+• Finger clubbing
+• Hypoxaemia outside context of acute illness
+The long-term goals of asthma management for in all age groups are to achieve good symptoms control 
+and risk reduction of asthma exacerbations, asthma-related death, and persistent airflow limitation and 
+medications side-effects.
+Good asthma control can be achieved through careful assessment, adjustment of medications and review of 
+treatment response.
+Treatment is individualised, taking into account patient’s own goals and preference. 
+Partnership and effective communication skills are important part of management of any chronic diseases.
+Inhaled Corticosteroids (ICS) are the recommended preventer drug for asthma treatment. 
+Newly diagnosed patients should be properly evaluated as to their degree of asthma severity or underlying 
+background asthma (Table 3) and treatment should be started at the most appropriate step to the initial 
+severity (Table 4 & 5) A positive family history of allergic disease or the presence of atopy/allergic sensitisation in the child with 
+recurrent wheeze may predict the likelihood of evolving into atopic asthma and its risk may be determined 
+by the modified Asthma Predictive Index (mAPI) (Table 2).  
+Major Criteria Minor Criteria
+Parental history of asthma Eosinophilia (>4%)
+Atopic Eczema (doctor diagnosed) Wheeze unrelated to colds 
+Aero- allergen sensitisation Allergic sensitisation to food i.e. milk, egg, peanuts
+MANAGEMENT OF CHRONIC ASTHMA Table 2: Modified Asthma Predictive Index (mAPI)
+Four or more wheeze episodes per year with at least 1 major OR 2 minor criterias

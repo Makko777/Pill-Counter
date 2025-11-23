@@ -1,0 +1,1946 @@
+
+=== PAGE 1 ===
+
+1 1
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+PAEDIATRICPROTOCOLS
+5th EditionFor Malaysian Hospitals
+Hussain Imam Hj Muhammad Ismail
+Ng Hoong Phak
+Sabeera Begum Kader Ibrahim
+Muhammad Ghazali bin Ahmad Narihan
+Janet Hii Lin Yee
+Tan Yuong Chin
+Kementerian Kesihatan Malaysia
+
+
+=== PAGE 2 ===
+
+2
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+
+=== PAGE 3 ===
+
+2 3
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+PAEDIATRIC
+PROTOCOLS
+5th EditionFor Malaysian Hospitals
+Hussain Imam Hj Muhammad Ismail
+Ng Hoong Phak
+Sabeera Begum Kader Ibrahim
+Muhammad Ghazali bin Ahmad Narihan
+Janet Hii Lin Yee
+Tan Yuong Chin
+Kementerian Kesihatan Malaysia
+
+
+=== PAGE 4 ===
+
+4
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+FOREWORD
+DIRECTOR-GENERAL OF HEALTH
+III am honoured to be given the opportunity to provide the 
+foreword for the 5th edition of Paediatric Protocols for Malaysian 
+Hospitals.
+In this edition, the authors and contirbutors, many of 
+whom are respected experts in the the field of paediatrics, 
+have once again delivered an outstanding publication. The 
+book has broadened its scope, encompassing topics that 
+range from fundamental aspects of paediatric care to the 
+latest advancements and innovations in chlid health. It stands 
+as a comprehensive and authoritative refence, reflecting the 
+remarkable growth and maturity of paediatric expertise in 
+Malaysia.
+This compact guide is designed for medical professionals and healthcare workers involved in the care 
+of infants, children, adolescents. The protocols serve as practical guides for clinical practice, based on the 
+best available evidence at the time of its development.
+Its is essential that frontline medical practitioners are well-prepared to manage common paediatric 
+emergencies, enabling timely and appropriate care based on clinical presentations right form the start.
+I am confident that this 5th edition will significantly contribute to enhancing the quality of paediatric 
+care across Ministry of Health facilities throughout the country.
+The collaborative efforts of all involved are truly commendable. I extend my sincere thanks to the 
+Editors for their commitment in bringing this important edition for fruition.
+Datuk Dr. Mahathar bin Abd Wahab
+Director General of Health Malaysia
+
+
+=== PAGE 5 ===
+
+4 5
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+II IIIFOREWORD
+TO THE 5TH EDITION
+At the 2004 annual meeting of Paediatric Heads of Departments, it was decided to produce a national 
+protocol book based on the Sarawak model. The first edition was ready in time for the 2005 annual meeting 
+of HODs. However, there were a few hiccups in that production largely because the text was sent to the 
+printers as a Word document. Many tables and algorithms were distorted in the final product. Learning 
+from this, all subsequent editions were sent in PDF format with the help of Dr. Terrance, who joined the 
+editorial board for the 2nd Edition.
+This 5th Edition comes after a seven-year lapse. In many ways, this is a transitional edition. Dr. 
+Terrance has migrated to Singapore and for the two remaining senior members, HIMI and NHP this will be 
+their final production. Three young paediatricians and the current head of service have joined the editorial 
+board and will hopefully go on to produce the 6th Edition when the time comes. This is also the first time 
+that the officers from the Medical Development Division of the Ministry of Health have been involved in 
+formatting the text and the result is a much more elegant product. 
+From the beginning, the primary aim of the protocol book has been to improve the care of children in 
+primary and secondary care settings within the Ministry of Health. Over time, colleagues in private practice 
+and medical students have also benefited from it. This has been made possible by the Malaysian Paediatric 
+Association’s willingness to print and distribute additional copies at close to cost price. Most of the 
+contributors are tertiary specialists. Despite their busy schedule, they once again volunteered to update the 
+material in keeping with new developments and guidelines since the last edition. It is this teamwork and 
+collaboration at all levels between members of the fraternity that has contributed to the progress of the 
+paediatric services in the country to the current level. We pray that this spirit persists in the years to come.
+
+=== PAGE 6 ===
+
+6
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+LIST OF
+CONTRIBUTORS
+EDITORS
+Dato’ Dr. Hussain Imam bin
+Hj Muhammad Ismail
+Professor of Paediatrics
+RCSI UCD Malaysia Campus
+Pulau Pinang
+Dr. Ng Hoong Phak
+Consultant Paediatrician
+Hospital Umum Sarawak
+Sarawak
+Dr. Sabeera Begum binti Kader Ibrahim
+Consultant Paediatric Dermatologist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Muhammad Ghazali bin Ahmad Narihan
+Paediatrician
+Hospital Umum Sarawak
+Sarawak
+Associate Professor Dr. Janet Hii Lin Yee
+Consultant Paediatrician
+Faculty of Medicine & Health Sciences,
+Universiti Malaysia Sarawak
+Sarawak
+Dr. Tan Yuong Chin
+Paediatrician
+Hospital Tunku Azizah
+Kuala Lumpur
+ivDr. Ahmad Khaldun bin Ismail
+Profesor Madya & Consultant Emergency Physician
+Faculty of Medicine UKM, HCTM
+Kuala Lumpur
+Dr. Ahmad Rithauddin bin Mohamed
+Consultant Paediatric Neurologist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Aina Mariana binti Abdul Manaf
+Consultant Paediatrician (Paediatrics and Child Health)
+Hospital Tuanku Ja’afar
+Negeri Sembilan
+Dr. Ang Ee Lee
+Consultant Paediatrician & Neonatologist
+Hospital Tengku Ampuan Rahimah
+Selangor
+Dr. Angeline Wan Seng Lian
+Consultant Neonatologist 
+Hospital Melaka
+Melaka
+Dr. Anisah binti Adnan
+Senior Consultant Emergency Physician and Clinical 
+Toxicologist
+Hospital Melaka
+Melaka
+Dr. Anita Codati
+Consultant Child & Adolescent Psychiatrist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Arini Nuran binti Md Idris
+Consultant Paediatric Endocrinologist
+Hospital Putrajaya
+Putrajaya
+Dr. Chan Mei Yan
+Clinical Geneticist
+Hospital Kuala Lumpur
+Kuala Lumpur
+
+=== PAGE 7 ===
+
+6 7
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+iv vDr. Cheah Hui Shan
+Paediatric Surgeon
+Sunway Medical Center
+Kuala Lumpur
+Dr. Chee Seok Chiong
+Associate Professor of Paediatrics
+Taylor’s University
+Selangor 
+Dr. Cheong Ching Yee
+Paediatric Intensivist
+Hospital Raja Permaisuri Bainun
+Perak
+Dr. Chew Hui Bein
+Consultant Clinical Geneticist
+Hospital Kuala Lumpur 
+Kuala Lumpur
+Dr. Chong Chooi Siang
+Paediatrician (Neonatologist)
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Choo Chong Ming
+Consultant Paediatrician and Paediatric Infectious 
+Diseases
+Hospital Pulau Pinang
+Pulau Pinang
+Dr. David Ng Chun-Ern
+Consultant Paediatrican (Infectious Disease)
+Hospital Tuanku Ja’afar
+Negeri Sembilan
+Dr. Dg Zuraini Sahadan
+Consultant Paediatric Respiratory Physician
+Hospital Sultan Idris Shah
+Selangor
+Dr. Elaine Wong Ee Lane
+Consultant Paediatrician and Neonatologist
+Gleneagles Hospital
+Kuala LumpurDr. Eric Ang Boon Kuang
+Consultant Paediatrician and Neonatologist
+Hospital Sultanah Bahiyah
+Kedah
+Dr. Farah Inaz binti Syed Abdullah
+Consultant Paediatrician & Neonatologist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Fong Siew Moy
+Consultant Paediatrican (Infectious Disease)
+Hospital Wanita Dan Kanak-kanak Sabah
+Sabah
+Dr. Hafatin Fairos binti Tamaddun
+Paediatric Surgeon
+Hospital Tunku Azizah 
+Kuala Lumpur
+Dr. Haiza Hani binti Amidon @ Hamidon
+Consultant Paediatrician & Head of Paediatrics 
+Department
+Hospital Sultanah Nora Ismail
+Johor
+Dr. Heng Hock Sin
+Consultant Paediatric Neurologist
+Hospital Wanita Dan Kanak-Kanak Sabah
+Sabah
+Dr. Janet Hong Yeow Hua
+Consultant Paediatrician and Paediatric Endocrinologist
+Hospital Putrajaya
+Putrajaya
+Dr. Jeya Bawani a/p Sivabalakrishnan
+Paediatric Cardiologist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Karmila binti Abu Bakar
+Consultant Paediatric Nephrologist
+Universiti Malaya
+Kuala Lumpur
+
+=== PAGE 8 ===
+
+8
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+viDr. Kavitha Rethanavelu
+Consultant Clinical Geneticist
+Hospital Kuala Lumpur 
+Kuala Lumpur
+Dr. Keng Wee Teik
+Consultant Clinical Geneticist
+Hospital Kuala Lumpur, HPKK UKM 
+Kuala Lumpur
+Dr. Khanisa binti Md Khalid
+Consultant Paediatrician
+Hospital Raja Perempuan Zainab II
+Kelantan
+Dr. Khoo Teik Beng
+Consultant Paediatric Neurologist
+Hospital Lam Wah Ee
+Penang
+Dr. Koay Han Siang
+Paediatric Cardiologist
+Loh Guan Lye Specialist Centre
+Pulau Pinang
+Dr. Koay Yeang Wee
+Paediatric Surgeon
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Kogilavani Gunasagaran
+Paediatric Hemato-oncologist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Koh Ghee Tiong
+Paediatric Cardiologist
+Hospital Sultan Idris Shah
+Kuala Lumpur
+Dr. Lee Chee Chan
+Palliative Care Paediatrician
+Hospital Tunku Azizah
+Kuala LumpurDr. Lee Von Yen
+Neonatologist
+Hospital Tengku Ampuan Rahimah
+Selangor
+Dr. Leong Huey Yin
+Consultant Clinical Geneticist
+Hospital Kuala Lumpur
+Kuala Lumpur
+Dr. Leong Kin Fon
+Senior Consultant Paediatric Dermatologist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Leong Ming Chern
+Paediatric Cardiologist
+Institut Jantung Negara
+Kuala Lumpur
+Dr. Lim Han Nee
+Consultant Paediatric Nephrologist
+Regency Specialist Hospital
+Johor
+Dr. Lim Song Hai
+Consultant Paediatrician and Endocrinologist
+Hospital Wanita Dan Kanak-Kanak Sabah
+Sabah
+Dr. Maizatul Akmar binti Musa
+Paediatrician & Neonatologist
+Hospital Sultan Idris Shah Serdang
+Selangor
+Dr. Malini Mahalingam
+Paediatric Neurologist
+Hospital Raja Permaisuri Bainun
+Perak
+Dr. Maneet Kaur
+Consultant Paediatrician and Neonatologist
+Hospital Raja Permaisuri Bainun
+Perak
+
+=== PAGE 9 ===
+
+8 9
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+vi viiDr. Mariana binti Daud
+Consultant Paediatrian & Paediatric Pulmonologist
+Hospital Raja Perempuan Zainab II
+Kelantan
+Dr. Martin Wong Ngie Long
+Paediatric Cardiologist
+Pusat Jantung Sarawak
+Selangor
+Dr. Mohamad Azlan bin Hamdan
+Paediatric Infectious Disease Specialist
+Hospital Sungai Buloh
+Selangor
+Assoc Prof. Mohamad Ikram Ilias
+Paediatric Nephrologist
+Hospital Pakar USM
+Kelantan
+Dr. Mohammad Tamim bin Jamil
+Paediatric Cardiologist
+Hospital Pulau Pinang
+Pulau Pinang
+Dr. Mohd Shukruddeen bin Salleh
+Consultant Emergency Physician
+Hospital Sultan Ismail Petra
+Kelantan
+Dr. Mohd Yusof bin Abdullah
+Head of Service Paediatric Surgery
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Mohd Yusran bin Othman
+Paediatric surgeon
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Mohd Zaki Fadzil bin Senek
+Consultant Emergency Physician
+Hospital Sultanah Nur Zahirah 
+Kuala TerengganuDr. Muzhirah Haniffa
+Consultant Clinical Geneticist
+Hospital Kuala Lumpur
+Kuala Lumpur
+Dr. Nalini M Selveindran
+Consultant Paediatric Endocrinologist
+Hospital Putrajaya
+Putrajaya
+Dr. Neoh Siew Hong
+Associate Professor
+Taylor’s University
+Selangor
+Dr. Ng Su Yuen
+Consultant Paediatric Dermatologist
+Hospital Raja Permaisuri Bainun
+Perak
+Dr. Ngu Lock Hock
+Consultant Clinical Geneticist
+Hospital Kuala Lumpur 
+Kuala Lumpur
+Dr. Nicholas Chang Lee Wen
+Paediatric Respiratory Physician
+Hospital Pulau Pinang
+Pulau Pinang
+Dr. Nik Khairulddin bin Nik Yusoff
+Consultant Paediatrican (Infectious Disease)
+Hospital Raja Perempuan Zainab II
+Kelantan
+Dr. Nirmala Ponnuthurai
+Paediatric Dermatologist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Noor Ain Noor Affendi
+Paediatric Respiratory Specialist
+Hospital Sultanah Nur Zahirah
+Terengganu
+
+=== PAGE 10 ===
+
+10
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+viiiDr. Nor Azni bin Yahaya
+Consultant Paediatric Neurologist
+Hospital Raja Perempuan Zainab II
+Kelantan
+Dr. Noraihan binti Ibrahim
+Consultant Paediatrician and Neonatologist
+Hospital Raja Perempuan Zainab II
+Kelantan
+Dr. Norliza binti Ali
+Paediatric Cardiologist
+Hospital Sultan Idris Shah
+Kuala Lumpur
+Dr. Oh Hoey Hoey
+Paediatric Dermatologist
+Hospital Pulau Pinang
+Pulau Pinang
+Dr. Olive Lee Pei Ee
+Consultant Paediatrician and Paediatric Intensivist
+Sunway Medical Centre
+Selangor
+Dr. Ooi Yinn Khurn
+Paediatric Cardiologist
+Hospital Sultan Idris Shah
+Kuala Lumpur
+Dr. Pauline Choo Poh Ling
+Senior Consultant Paediatrician and Neonatologist
+Hospital Tuanku Ja’afar
+Negeri Sembilan
+Dr. Pon Kah Min
+Consultant Paediatric Intensivist
+Hospital Pulau Pinang
+Pulau Pinang
+Dr. Poongkodi Nagappan
+Consultant Urologist and Paediatric Urologist
+Hospital Kuala Lumpur
+Kuala LumpurDr. Pravin a/l Sugunan @ Vasanthan
+Consultant Paediatric Intensivist
+Hospital Raja Permaisuri Bainun
+Perak
+Dr. Quah Shiao Wei
+Paediatric Hemato-Oncologist
+Hospital Raja Permaisuri Bainun
+Perak
+Dr. Rachel Teh Sheau Loei
+Consultant Paediatrician and Paediatric 
+Nephrologist
+Gleneagles Hospital
+Johor
+Dr. Radhiah Abu Bakar
+Paediatrician & Neonatologist
+Hospital Sultanah Nur Zahirah 
+Terengganu
+Dr. Ranjini S Sivanesom
+Consultant Developmental Paediatrician
+Prince Court Medical Centre
+Kuala Lumpur
+Dr. Rohani binti Abdul Jalil
+Neonatologist
+Hospital Taiping
+Perak
+Dr. Rohazly Ismail
+Consultant Paediatric Radiologist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Rozitah binti Razman
+Consultant Pediatrician & Neonatologist
+Hospital Raja Perempuan Zainab II
+Kelantan
+Dr. Ruth Sabrina binti Safferi
+Consultant Emergency Physician and Clinical 
+Toxicologist
+Hospital Raja Permaisuri Bainun
+Perak
+
+=== PAGE 11 ===
+
+10 11
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+viii ixDr. Sabeera Begum binti Kader Ibrahim
+Consultant Paediatric Dermatologist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Sangita Dharshini Terumalay
+Consultant Pediatrician and Paediatric Neurologist
+Thomson Hospital Kota Damansara
+Selnagor
+Dr. Sathyabama Ramachandram
+Consultant Developmental Paediatrician
+Hospital Pulau Pinang
+Pulau Pinang
+Dr. See Kwee Ching
+Consultant Paediatrician and Neonatologist
+Parkcity Medical Centre 
+Kuala Lumpur
+Dr. Selva Kumar Sivapunniam
+Consultant Paediatric Nephrologist
+Hospital Selayang
+Selangor
+Dr. Selvasingam Ratnasingam
+Senior Consultant Child & Adolescent Psychiatrist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Shangari Kunaseelan
+Paediatric Respiratory Specialist
+Senior Consultant Child & Adolescent Psychiatrist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Sheila Gopal Krishnan
+Senior Lecturer of Paediatrics
+Faculty of Medicine, MAHSA University
+Selangor
+Dr. Shereen Toh May Yi
+Paediatric Cardiologist
+Hospital Pulau Pinang
+Pulau PinangDr. Siva Rao a/l Muniandy
+Paediatric Cardiologist
+Hospital Queen Elizabeth II
+Sabah
+Dr. Sumitha Murugesu
+Paediatric Neurologist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Tan Mei See
+Paediatric and Child Health Specialist
+Bagan Specialist Centre
+Pulau Pinang
+Dr. Tang Swee Ping
+Consultant Paediatric Rheumatologist
+Selayang Hospital
+Selangor
+Dr. Teh Chee Ming
+Consultant Paediatric Neurologist
+Hospital Pulau Pinang
+Pulau Pinang
+Dr. Tengku Hasnita Tengku Hussain
+Paediatric Nephrologist
+Hospital Sultanah Nur Zahira
+Terengganu
+Dr. Teo Yan Lian
+Paediatric Neurologist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Teoh Yen Lin
+Consultant Paediatrician (Paediatrics and Child Health)
+Hospital Seberang Jaya
+Pulau Pinang
+Dr. Thahira binti A Jamal Mohamed
+Senior Paediatrician & Paediatric Infectious Diseases 
+Consultant
+Hospital Tunku Azizah
+Kuala Lumpur
+
+=== PAGE 12 ===
+
+12
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+xDr. Thiyagar Nadarajaw
+Head, Senior Consultant Paediatrician & Adolescent 
+Medicine Specialist
+Hospital Sultanah Bahiyah
+Kedah
+Dato’ Dr. Vigneswari M Ganesan
+Consultant Paediatric Neurologist
+Hospital Pulau Pinang
+Pulau Pinang
+Dr. Winnie Ong Peitee
+Consultant Clinical Geneticist
+Hospital Kuala Lumpur
+Kuala Lumpur
+Dr. Wong Ann Cheng
+Consultant Paediatrician and Neonatologist
+Hospital Miri
+Sarawak
+Dr. Wong Chee Sing
+Neonatologist
+Sunway Medical Centre Ipoh
+Perak
+Dr. Wong Hoi Ling (Mimi)
+Consultant Paediatrician and Paediatric 
+Dermatologist
+Gleneagles Hospital
+Kuala Lumpur
+Dr. Wong Ke Juin
+Pediatric Infectious Disease Consultant
+Hospital Wanita Dan Kanak-Kanak Sabah
+Sabah
+Dr. Wong Sze Lyn Jeanne
+Consultant Paediatric Endocrinologist
+Sunway Medical Centre Damansara
+SelangorDr. Yap Hsiao Ling
+Paediatric Emergency Medicine
+Hospital Kuala Lumpur
+Kuala Lumpur
+Dr. Yap Suet Li
+Consultant Paediatric Nephrologist
+Borneo Medical Centre Kuching
+Sarawak
+Dr. Yap Yok Chin
+Consultant Paediatric Nephrologist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Zainah Shaikh Hedra@Hidrah
+Consultant Paediatrician
+Hospital Sultanah Nora Ismail
+Johor
+Dr. Zainalabidin bin Mohamed @ Ismail
+Consultant Emergency Physician
+Hospital Tengku Ampuan Afzan
+Kuantan
+Pahang
+Dr. Zulaiha Muda
+Senior Consultant Paediatric Hemato-oncologist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Zurina binti Zainudin
+Consultant Paediatrician and Neonatologist
+Hospital Sultan Abdul Aziz Shah
+Universiti Putra Malaysia, Serdang
+Selangor
+
+=== PAGE 13 ===
+
+12 13
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+   Section 1      GENERAL PAEDIATRICS
+   Section 2      DEVELOPMENTAL PAEDIATRICS
+   Section 5      INTENSIVE CARE   Section 3      ADOLESCENT PAEDIATRICS
+   Section 4      PALLIATIVE CAREChapter 1: Normal Values in Children
+Chapter 2: Childhood Immunisations
+Chapter 3: Developmental Milestones in Normal Children
+Chapter 4: Global Developmental Delay
+Chapter 5: Communication Disorders and Sensory Impairment
+Chapter 6: Specific Learning Disorder
+Chapter 9: Paediatric Fluid and Electrolyte Guidelines
+Chapter 10: Acute Gastroenteritis
+Chapter 11: Sepsis and Septic Shock
+Chapter 12: Hypotension in ChildrenChapter 7: The H.E.A.D.S.S. Assessment
+Chapter 8: End of Life Care in Children2
+9
+30
+36
+38
+42
+60
+72
+80
+8548
+52TABLE OF
+CONTENTS
+8.7.6.5.4. 1
+29
+47
+51
+59FOREWORD BY THE DIRECTOR-GENERAL OF HEALTH, MALAYSIA
+FOREWORD TO THE FIFTH EDITION, 1ST PRINT
+LIST OF CONTRIBUTORS1.
+2.
+3.ii
+iii
+iv
+x xi   Section 6      NEONATOLOGY
+Chapter 13: Principles of Transport of the Sick Newborn
+Chapter 14: General Pointers of Care for Infants in NICU
+Chapter 15: The Preterm Infant
+Chapter 16: Enteral Feeding in Preterm and High-risk Infants
+Chapter 17: Parenteral Nutrition for Newborns
+Chapter 18: Neonatal Hypoglycemia 
+Chapter 19: Neonatal Sepsis
+Chapter 20: Neonatal Encephalopathy and Hypothermia Therapy
+Chapter 21: Neonatal Jaundice
+Chapter 22: Exchange Transfusion
+Chapter 23: Vascular Spasm and Thrombosis
+Chapter 24: Patent Ductus Arteriosus in the Preterm
+Chapter 25: Persistent Pulmonary Hypertension of the Newborn
+Chapter 26: Ophthalmia Neonatorum 88
+94
+100
+105
+109
+112
+118
+122
+130
+140
+143
+150
+154
+1579. 87
+
+=== PAGE 14 ===
+
+14
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+xii   Section 7      RESPIRATORY
+   Section 8      CARDIOLOGYChapter 31: Asthma
+Chapter 32: Acute Bronchiolitis
+Chapter 33: Viral Croup
+Chapter 34: Pneumonia
+Chapter 35: Empyema Thoracis in Children
+Chapter 36: Sleep Disordered Breathing
+Chapter 37: Chronic Wet Cough and Bronchiectasis
+Chapter 38: Paediatric Electrocardiography (ECG)
+Chapter 39: Critical Congenital Heart Disease
+Chapter 40: Hypercyanotic Spell 
+Chapter 41: Heart Failure
+Chapter 42: Rheumatic Heart Disease
+Chapter 43: Infective Endocarditis
+Chapter 44: Kawasaki Disease
+Chapter 45: Paediatric Arrhythmias170
+188
+192
+195
+202
+207
+214
+224
+229
+232
+233
+237
+240
+247
+25111.10. 169
+223Chapter 27: Perinatally Acquired Varicella and Postnatal exposure to Varicella infection
+Chapter 28: Management of Perinatal Hepatitis B Virus (HBV) transmission (Exposed Infants)
+Chapter 29: Bronchopulmonary Dysplasia
+Chapter 30: Non-invasive Ventilation in Preterm Infants159
+161
+164
+167
+   Section 10      ENDOCRINOLOGY
+Chapter 58: Approach to Short Stature
+Chapter 59: Congenital Hypothyroidism
+Chapter 60: Diabetes Mellitus
+Chapter 61: Diabetic Ketoacidosis and Hyperglycemic Hyperosmolar State
+Chapter 62: Disorders of Sexual Development
+Chapter 63: Congenital Adrenal Hyperplasia (CAH)308
+312
+319
+329
+337
+34313.257
+307   Section 9      NEUROLOGY
+Chapter 46: Neonatal Seizures 
+Chapter 47: Status Epilepticus: Management of Convulsive Status Eilepticus
+Chapter 48: Epilepsy 
+Chapter 49: Febrile Seizures
+Chapter 50: Meningitis
+Chapter 51: Autoimmune Encephalitis (AE)
+Chapter 52: Status Dystonicus(SD)
+Chapter 53: Acquired Demyelinating Syndromes (ADS)
+Chapter 54: Acute Flaccid Paralysis
+Chapter 55: Approach to the Child with Altered Consciousness
+Chapter 56: Childhood Stroke
+Chapter 57: Infection-related Encephalopathies of Childhood 258
+264
+267
+278
+280
+284
+287
+291
+293
+297
+300
+30412.
+
+=== PAGE 15 ===
+
+14 15
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+   Section 15      DERMATOLOGY 18.
+Chapter 95: Atopic Dermatitis
+Chapter 96: Common Cutaneous Infections
+Chapter 97: Infantile Haemangiomas (IH)
+Chapter 98: Scabies
+Chapter 99: Stevens-Johnson Syndrome550
+555
+561
+564
+568   Section 11      NEPHROLOGY
+   Section 14      INFECTIOUS DISEASE   Section 13      GASTROENTEROLOGY   Section 12      HAEMATOLOGY ONCOLOGYChapter 64: Acute Glomerulonephritis
+Chapter 65: Nephrotic Syndrome
+Chapter 66: Acute Kidney Injury (AKI)
+Chapter 67: Acute Dialysis
+Chapter 68: Neurogenic Bladder
+Chapter 69: Urinary Tract Infection and Vesicoureteric Reflux
+Chapter 70: Perinatal Urinary Tract Dilatation
+Chapter 71: Hypertension (HTN) in Children
+Chapter 72: Chronic Kidney Disease (CKD) in Children 
+Chapter 73: Congenital anomalies kidney and urinary tract (CAKUT)
+Chapter 87: Paediatric HIV
+Chapter 88: Malaria
+Chapter 89: Tuberculosis
+Chapter 90: BCG Lymphadenitis
+Chapter 91: Dengue Viral Infections
+Chapter 92: Diphtheria
+Chapter 93: Congenital Syphilis
+Chapter 94: Paediatric COVID-19Chapter 80: Approach to Severely Malnourished Children
+Chapter 81: Gastro-Oesophageal Reflux Disease (GORD)
+Chapter 82 : Chronic Diarrhoea
+Chapter 83: Functional Constipation (FC) in Children
+Chapter 84: Prolonged Jaundice and Neonatal Cholestasis
+Chapter 85: Evaluation and Management of Children with Liver Disease
+Chapter 86: Approach to Gastrointestinal BleedingChapter 74: Approach to a Child with Anaemia
+Chapter 75: Thalassaemia
+Chapter 76: Immune Thrombocytopaenia
+Chapter 77: Haemophilia
+Chapter 78: Oncology Emergencies
+Chapter 79: Acute Lymphoblastic Leukaemia 348
+354
+363
+367
+374
+380
+386
+391
+397
+402
+498
+509
+514
+521
+524
+538
+541
+543438
+443
+442
+455
+463
+475
+494406
+412
+419
+422
+427
+433
+17.16.15.14.
+437
+497
+549347
+405
+xii xiii
+
+=== PAGE 16 ===
+
+16
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+REFERENCE 26.25.24.23.
+   Section 21      PAEDIATRIC EMERGENCY   Section 20      CHILD PHSYCHIATRY
+   Section 22      PRACTICAL PROCEDURESChapter 116: Anaphylaxis
+Chapter 117: Recognition and Assessment of Pain
+Chapter 118: Sedation and Analgesia for Diagnostic and Therapeutic ProceduresChapter 115: Children & Young People’s Mental Health
+Chapter 119: Practical Procedures736
+740
+741730
+74622.21.    Section 18      RHEUMATOLOGY
+   Section 19      POISON AND TOXINSChapter 111: Juvenile Idiopathic Arthritis (JIA)
+Chapter 112: Systemic Lupus Erythematosus
+Chapter 113: Snake Related Injuries & Envenomation
+Chapter 114: Common Poisons666
+673
+684
+693665
+683
+729
+735
+745
+769
+xiv20.19.    Section 16      GENETIC AND METABOLIC
+   Section 17      PAEDIATRIC SURGERYChapter 100: Diagnosis and Management of Inborn Errors of Metabolism
+Chapter 101: Common Genetic Syndromes in Paediatrics
+Chapter 102: Investigating Children Suspected of Having a Condition with Genetic Basis 
+Chapter 103: Appendicitis
+Chapter 104: Vomiting in the Neonate and Child
+Chapter 105: Intussusception
+Chapter 106: Inguinal Hernias and Hydrocoele
+Chapter 107: Undescended Testis
+Chapter 108: The Acute Scrotum
+Chapter 109: Penile Conditions
+Chapter 110: Neonatal Surgery572
+604
+625
+632
+635
+641
+644
+646
+647
+651
+653571
+631
+
+=== PAGE 17 ===
+
+16 1
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+GENERAL 
+PAEDIATRICSSection 1
+xiv
+
+=== PAGE 18 ===
+
+2
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 1         GENERAL PAEDIATRICSChapter 1:
+Normal Values in Children
+VITAL SIGNS
+Normal Values for Respiratory Rate (RR) and Heart rate (HR).1
+Estimation of Blood Pressure (BP).1AgeGuide
+weight (kg)RR at rest
+(Breaths per minute)
+5th to 95th CentileHR
+(Beats per minute)
+5th to 95th Centile
+Birth
+1 months3.5
+425 - 50 120 - 170
+3 months 5 25 - 45 115 - 160
+6 months
+12 months8
+1020 - 40 110 - 160
+2 years
+3 years
+4 years
+5 years
+6 years
+7 years12
+14
+16
+18
+20
+2220 - 30 100 - 150
+90 - 140
+80 - 135
+80 - 130
+8 years
+9 years
+10 years
+11 years25
+28
+32
+3515 - 25 70 - 120
+12 years
+14 years
+Adult43
+50
+7012 - 24 65 - 115
+60 - 110
+Age 5th centile Blood Pressure
+< 1 year 65 - 75
+1-2 years 70 - 75
+2-3 years 70 - 80
+4-11 years 80 - 90
+>12 years 90 - 105
+The calculation for expected systolic blood pressure is:
+65 + (2 x age in years) mmHg for 5th centile
+Blood pressure <5th centile is a DANGER SIGN!
+
+=== PAGE 19 ===
+
+2 3
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 1         GENERAL PAEDIATRICSBlood Pressure (BP) Levels in Girls for Age and Height Percentile.2
+Age
+(Yr)BP Percentile
+Height Percentile 5% 50% 95% 5% 50% 95%
+1 Height (cm)
+50%
+90%
+95%75.4
+84
+98
+10180.8
+86
+100
+10386.1
+88
+102
+10575.4
+41
+54
+5980.8
+43
+56
+6086.1
+46
+58
+62
+2 Height (cm)
+50%
+90%
+95%84.9
+87
+101
+10491.1
+89
+103
+10697.4
+91
+106
+10984.9
+45
+58
+6291.1
+48
+60
+6497.4
+51
+62
+66
+3 Height (cm)
+50%
+90%
+95%91
+88
+102
+10697.6
+90
+104
+108104.6
+93
+107
+11091
+48
+60
+6497.6
+50
+62
+66104.6
+53
+65
+69
+4 Height (cm)
+50%
+90%
+95%97.2
+89
+103
+107104.5
+92
+106
+109112.2
+94
+108
+11297.2
+50
+62
+66104.5
+53
+65
+69112.2
+55
+67
+71
+5 Height (cm)
+50%
+90%
+95%103.6
+90
+104
+108111.5
+93
+107
+110120
+96
+110
+113103.6
+52
+64
+68111.5
+55
+67
+71120
+57
+70
+73
+6 Height (cm)
+50%
+90%
+95%110
+92
+105
+109118.4
+94
+108
+111127.7
+97
+111
+114110
+54
+67
+70118.4
+56
+69
+72127.7
+59
+71
+74
+7 Height (cm)
+50%
+90%
+95%115.9
+92
+106
+109124.9
+95
+109
+112134.7
+99
+112
+115115.9
+55
+68
+72124.9
+57
+70
+73134.7
+60
+72
+75SBP (mmHg)
+Height Percentile or cmDBP (mmHg)
+Height Percentile or cm
+
+=== PAGE 20 ===
+
+4
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 1         GENERAL PAEDIATRICSBlood Pressure (BP) Levels in Girls for Age and Height Percentile (cont.)
+Age
+(Yr)BP Percentile
+Height Percentile 5% 50% 95% 5% 50% 95%
+8 Height (cm)
+50%
+90%
+95%121
+93
+107
+110130.6
+97
+110
+113140.9
+100
+113
+117121
+56
+69
+72130.6
+59
+72
+74140.9
+61
+73
+75
+9 Height (cm)
+50%
+90%
+95%125.3
+95
+108
+112135.6
+98
+111
+114146.6
+101
+114
+118125.3
+57
+71
+74135.6
+60
+73
+75146.6
+61
+73
+75
+10 Height (cm)
+50%
+90%
+95%129.7
+96
+109
+113141
+99
+112
+116152.8
+103
+116
+120129.7
+58
+72
+75141
+60
+73
+76152.8
+62
+73
+76
+11 Height (cm)
+50%
+90%
+95%135.6
+98
+111
+115147.8
+102
+114
+118160
+106
+120
+124135.6
+60
+74
+76147.8
+61
+74
+77160
+64
+75
+77
+12 Height (cm)
+50%
+90%
+95%142.8
+102
+114
+118154.8
+105
+118
+122166.4
+108
+122
+126142.8
+61
+75
+78154.8
+62
+75
+78166.4
+65
+76
+79
+13 Height (cm)
+50%
+90%
+95%148.1
+104
+116
+121159.2
+107
+121
+124170.2
+109
+123
+127148.1
+62
+75
+79159.2
+64
+76
+79170.2
+66
+76
+81
+14 Height (cm)
+50%
+90%
+95%150.6
+105
+118
+123161.3
+108
+122
+125172.1
+109
+123
+127150.6
+63
+76
+80161.3
+65
+76
+80172.1
+66
+77
+82SBP (mmHg)
+Height Percentile or cmDBP (mmHg)
+Height Percentile or cm
+
+=== PAGE 21 ===
+
+4 5
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 1         GENERAL PAEDIATRICSBlood Pressure (BP) Levels in Boys for Age and Height Percentile.2
+Age
+(Yr)BP Percentile
+Height Percentile 5% 50% 95% 5% 50% 95%
+1 Height (cm)
+50%
+90%
+95%77.2
+85
+98
+10282.4
+86
+100
+10387.9
+88
+101
+10577.2
+40
+52
+5482.4
+41
+53
+5587.9
+42
+54
+57
+2 Height (cm)
+50%
+90%
+95%86.1
+87
+100
+10492.1
+89
+102
+10698.5
+91
+104
+10886.1
+43
+55
+5792.1
+44
+56
+5998.5
+46
+58
+61
+3 Height (cm)
+50%
+90%
+95%92.5
+88
+101
+10699
+90
+103
+107105.8
+92
+105
+10992.5
+45
+58
+6099
+47
+59
+62105.8
+49
+61
+64
+4 Height (cm)
+50%
+90%
+95%98.5
+90
+102
+107105.9
+92
+105
+108113.2
+94
+107
+11098.5
+48
+60
+63105.9
+50
+62
+66113.2
+52
+64
+68
+5 Height (cm)
+50%
+90%
+95%104.4
+91
+103
+107112.4
+94
+106
+109120.3
+96
+108
+112104.4
+51
+63
+66112.4
+53
+65
+69120.3
+55
+67
+71
+6 Height (cm)
+50%
+90%
+95%110.3
+93
+105
+108118.9
+95
+107
+111127.5
+98
+110
+114110.3
+54
+66
+69118.9
+56
+68
+71127.5
+58
+69
+73
+7 Height (cm)
+50%
+90%
+95%116.1
+94
+106
+110125.1
+97
+109
+112134.5
+99
+111
+116116.11
+56
+68
+71125.1
+58
+70
+73134.5
+59
+71
+74SBP (mmHg)
+Height Percentile or cmDBP (mmHg)
+Height Percentile or cm
+
+=== PAGE 22 ===
+
+6
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 1         GENERAL PAEDIATRICSBlood Pressure (BP) Levels in Boys for Age and Height Percentile (cont.)
+Age
+(Yr)BP Percentile
+Height Percentile 5% 50% 95% 5% 50% 95%
+8 Height (cm)
+50%
+90%
+95%121.4
+95
+107
+111131
+98
+110
+114141
+100
+112
+117121.4
+57
+69
+72131
+59
+71
+74141
+60
+73
+75
+9 Height (cm)
+50%
+90%
+95%126
+96
+107
+112136.3
+99
+110
+115147.1
+101
+114
+119126
+57
+70
+74136.3
+60
+73
+76147.1
+62
+74
+77
+10 Height (cm)
+50%
+90%
+95%130.2
+97
+108
+112141.3
+100
+112
+116152.7
+103
+116
+121130.2
+59
+72
+76141.3
+62
+74
+77152.7
+63
+76
+78
+11 Height (cm)
+50%
+90%
+95%134.7
+99
+110
+114146.4
+102
+114
+118158.6
+106
+118
+124134.7
+61
+74
+77146.4
+63
+75
+78158.6
+63
+76
+78
+12 Height (cm)
+50%
+90%
+95%140.3
+101
+113
+116152.7
+104
+117
+121165.5
+109
+122
+128140.3
+61
+75
+78152.7
+62
+75
+78165.5
+63
+76
+79
+13 Height (cm)
+50%
+90%
+95%147
+103
+115
+119160.3
+108
+121
+125173.4
+112
+126
+131147
+61
+74
+78160.3
+62
+75
+78173.4
+65
+77
+81
+14 Height (cm)
+50%
+90%
+95%153.8
+105
+119
+123167.5
+111
+126
+130180.1
+113
+129
+134153.8
+60
+74
+77167.5
+64
+77
+81180.1
+67
+80
+84SBP (mmHg)
+Height Percentile or cmDBP (mmHg)
+Height Percentile or cm
+
+=== PAGE 23 ===
+
+6 7
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 1         GENERAL PAEDIATRICSANTHROPOMETRIC MEASUREMENTS
+Age Weight Height Head circumference
+Birth 3.5 kg 50 cm 35 cm
+6 months 7 kg 68 cm 42 cm
+1 year 10 kg 75 cm 47 cm
+2 years 12 kg 85 cm 49 cm
+3 years 14 kg 95 cm 49.5 cm
+4 years 100 cm 50 cm
+5-12 years 5 cm/year 0.33 cm/ year
+Points to Note
+Weight
+• In the first 7 to 10 days, babies lose 10% of their birth weight.
+• Babies gain their birth weight by the second week.
+• In the first 3 months of life, the rate of weight gain is 25 g/day
+• Babies double their birth weight by 5 months old and triple by 1 year old
+• Weight estimation for children (in Kg):
+Infants: (Age in months X 0.5) + 4
+Children 1 – 10 years: (Age in yrs + 4) X 2
+Head circumference
+• Rate of growth in preterm infants is 1 cm/week, but reduces with age.
+• Head growth follows that of term infants when chronological age reaches term
+• Head circumference increases by 12 cm in the 1st year of life (6 cm in first 3 months, then 3 cm in 
+second 3 months, and 3 cm in last 6 months)
+Other normal values are found in the relevant chapters of the book.
+References:
+1. Advanced Life Support Group (ALSG). 2023. Advanced Paediatric Life Support: A Practical Approach to 
+Emergencies, 7th Edition . Wiley-Blackwell
+2. Robert M. Kliegman; MD, Richard E. Behrman; MD, Hal B.J. 2007. N elson textbook of Pediatrics, 18th 
+edition . Elsevier, Saunders.
+
+=== PAGE 24 ===
+
+8
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 1         GENERAL PAEDIATRICS
+Age Hb PCV Retics MCV fl MCH pg TWBC Neutrophil Lymphocyte
+gldl % % Lowest Lowest x1000 Mean Mean
+Cord Blood 13-7-20.1 45-65 5.0 110 - 9-30 61 31
+2 weeks 13.0-20.0 42-66 1.0 - 29 5-21 40 63
+3 months 9.5-14.5 31-41 1.0 - 27 6-18 30 48
+6 mths - 6 yrs 10.5-14.0 33-42 1.0 70-74 25-31 6-15 45 38
+7 - 12 years 11.0-16.0 34-40 1.0 76-80 26-32 4.5-13.5 55 38
+Adult male 14.0-18.0 42-52 1.6 80 27-32 5-10 55 35
+Adult Female 12.0-16.0 37-47 1.6 80 26-34 5-10 55 35
+Differential counts
+< 7 days age                           neutrophils > lymphocytes
+1 wk - 4 years                        lymphocytes > neutrophils
+4 - 7 years                              neutrophils = lymphocytes
+> 7 years                                neutrophils > lymphocytesPoints to note
+• Differential WBC: eosinophils: 2-3%; monocytes: 6-9 %
+• Platelets counts are lower in first months of age; but normal range by 6 
+months
+• Erythrocyte sedimentation rate (ESR) is < 16 mm/hr in children, provided 
+PCV is at least 35%.HAEMATOLOGICAL PARAMETERS
+
+=== PAGE 25 ===
+
+8 9
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 1         GENERAL PAEDIATRICSChapter 2:
+Childhood Immunisations
+Vaccine Birth 1 2 3 4 5 6 9 12 15 18 21 7 13 15
+BCG 1
+Hepatitis B 1
+6 in 1 (Hexaxim)
+DTaP-IPV-Hep B-Hib1 2 3 4 DT (B) T (B)
+Pneumococcal 1 2 3(B)
+Measles Sabah
+MMR 1 2
+JE (Sarawak) 1 2
+HPV 2 doses
+Legend :
+BCG , Bacille Calmette-Guerin;
+DTaP , Diphteria, Tetanus, acellular Pertussis; IPV, Inactivated Polio Vaccine; Hib, Haemophilus influenzae type B;
+DT, Diphtheria, Tetanus; T, Tetanus; (B), Booster doses;
+MMR , Measles, Mumps, Rubella; JE, Japanese Encephalitis; HPV, Human Papilloma Virus;NATIONAL IMMUNISATION SCHEDULE FOR MALAYSIA
+(MINISTRY OF HEALTH, MALAYSIA)
+Age in MONTHS Age in YEARS
+
+=== PAGE 26 ===
+
+10
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 1         GENERAL PAEDIATRICSGeneral Notes2
+• Vaccines (inactivated or live) can be given simultaneously (does not impair antibody response or 
+increase adverse effect). Administer at different sites unless using combined preparations.
+• Sites of administration
+ -Oral – rotavirus, live typhoid vaccines
+ -Intradermal (ID) - BCG. Left deltoid area (proximal to insertion of deltoid muscle)
+ -Intramuscular (IM) - 6 in 1 DTaP-hepB-IPV-Hib (Hexaxim)
+ -Deep SC, IM injections. (ALL vaccines except the above)
+• Anterolateral aspect of thigh – preferred site in children
+• Upper arm – preferred site in adults
+• Upper outer quadrant of buttock - associated with lower antibody level production
+Immunisation: General contraindications
+• Absolute contraindication for any vaccine: severe anaphylaxis reactions to previous dose of the vaccine 
+or to a component of the vaccine.
+• Postponement during acute febrile illness
+• Live vaccines: Absolute contraindications
+ -Immunosuppressed children  - malignancy; irradiation, leukaemia, lymphoma, post-transplant, 
+primary immunodeficiency syndromes (but NOT asymptomatic HIV): need to defer (see below)
+ -Pregnancy (live vaccine - theoretical risk to foetus) UNLESS there is significant exposure to serious 
+conditions like polio or yellow fever in which case the importance of vaccination outweighs the risk 
+to the foetus.
+ -Live vaccines may be given together. If not administering simultaneously then an interval ≥ 4 weeks 
+is required.
+ -Tuberculin skin test (Mantoux test) and MMR: after a Mantoux test, MMR should be delayed until 
+the skin test has been read.
+ -There should be ≥ 4 weeks interval for Mantoux test after MMR given.
+• Killed vaccines are safe . Absolute contraindications: SEVERE local induration (involving > 2/3 of the 
+limbs) or severe generalised reactions in previous dose.
+The following are not contraindications to vaccination
+• Mild illness without fever e.g. mild diarrhoea, cough, runny nose
+• Asthma, eczema, hay fever, impetigo, heat rash (avoid injection in affected area)
+• Treatment with antibiotics, locally acting steroids or inhaled steroids
+• Child’s mother is pregnant.
+• Breastfed child (does not affect polio uptake)
+• Neonatal jaundice
+• Underweight or malnourished
+• Over the recommended age
+• Past history of pertussis, measles or rubella (unless confirmed medically)
+• Stable neurological conditions: cerebral palsy, mental retardation, febrile convulsions, stable epilepsy
+• Family history of convulsions
+• History of heart disease, acquired or congenital
+• Prematurity (immunise according to schedule irrespective of gestational age)
+
+=== PAGE 27 ===
+
+10 11
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 1         GENERAL PAEDIATRICSIMMUNISATION: SPECIAL CIRCUMSTANCES4,5
+Immunisation of the Immunocompromised child:
+Includes malignancy; leukaemia, lymphoma, post-transplant, congenital immunodeficiency syndromes (but 
+NOT asymptomatic HIV), immunosuppressive therapy:
+• BCG is contraindicated
+• Non-live vaccines can be given but may need to be repeated depending on underlying condition and 
+individual vaccine due to suboptimal response
+• For oncology patients on chemotherapy:
+ ͳAvoid live vaccines for two weeks before, during and for 6 months after completion of 
+chemotherapy
+ ͳSafe to give influenza and pneumococcal vaccines, if indicated
+• For post- Haematopoeitic Stem Cell Transplant (HSCT) and Solid Organ Transplant (SOT):
+ ͳNon-live vaccines can be given 6 months after HSCT or SOT
+ ͳLive vaccines to be given at least 2 years after HSCT and no graft versus host disease and not on 
+immunosuppressive therapy (and acceptable CD4 count and IgM levels)
+ ͳLive vaccines contraindicated in SOT as most likely on immunosuppressive therapy
+• Patients on Corticosteroid Therapy:
+ ͳOn high-dose steroids i.e. Prednisolone ≥2 mg/kg/day for >14 days, delay live vaccines for at least 1 
+month after cessation of steroids
+ ͳOn low-dose systemic steroids of 1mg/ kg/day <2 weeks or EOD for >2 weeks, can administer live 
+vaccines
+ ͳAny dose for ≥28 days, delay live vaccines for at least 1 month after cessation of steroids.
+Immunisation of children with immunomodulatory & biologics therapy6,7
+• Vaccination with non-live, attenuated vaccines in children on immunomodulation therapies and 
+biologics is safe.
+• It is recommended to withhold live-attenuated vaccines for these patients on immunomodulatory 
+therapies and biologics. However, vaccination can be considered on a case-to-case basis weighing the 
+benefit of vaccination against the risk of inducing infection through vaccination.
+• Live-attenuated booster vaccinations against Varicella Zoster Virus and MMR can be considered in 
+patients on low dose immunosuppressive drugs.
+• For vaccination against HPV in patients with Rheumatic Diseases. Given the higher risk of HPV infection 
+in female SLE patients, these patients should be advised to be vaccinated in the adolescence. However, 
+physicians should be vigilant on potential thromboembolic events.
+
+=== PAGE 28 ===
+
+12
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 1         GENERAL PAEDIATRICSImmunisation of children with HIV infection
+(Please refer to Paediatric HIV section)
+Immunisation with Antibody-containing preparation:8,9 
+• Immunoprophylaxis against viral illness provide susceptible individuals with immunologic protection 
+against it.
+• Palivizumab is a humanized monoclonal antibody against the RSV F glycoprotein, used for the 
+prevention of serious RSV lower respiratory tract disease in specialized group of children at high risk of 
+RSV infection. It does not interfere with response to routine immunization with live virus vaccines (eg, 
+measles, mumps, rubella, varicella)
+Children with bleeding disorders including persistent thrombocytopenia, 
+haemophilia or patients on anti-coagulant therapy10
+• Children with bleeding disorders or on long term anti-coagulant therapy may develop haematoma at 
+intramuscular vaccine injection sites
+• Thus, it is preferred to use the subcutaneous route instead of the intramuscular route
+• Seek expert advice before using an alternative route.
+Immunisation of Children with Egg Allergy11 
+• Egg allergy is not a contraindication to immunization with MMR.Interval between administration of Immunoglobulins or blood products
+and measles- or varicella-containing vaccine4
+Recommended interval Product Dosage
+3 months Hepatitis B IG
+Tetanus IG (TIG)0.06ml/kg; (10mg IgG/kg) IM
+250u; (10mg IgG/kg) IM
+4 months Rabies IG (RIG) 20 IU/kg; (22mg IgG/kg) IM
+5 months Varicella IG 125u/10kg IM
+6 months Packed RBC
+Whole blood
+Measles Prophylaxis IG10ml/kg (60mg IgG/kg) IV
+10ml/kg (80-100 mg IgG/kg IV
+0.5ml/kg; (80mg IgG/kg) IM
+7 months Plasma/platelet product 10ml/kg (160mg IgG/kg) IV
+8 months IV Immunoglobulin 300-400 mg/kg IV
+10 months IV Immunoglobulin 1g/kg IV (eg: ITP)
+11 months IV Immunoglobulin 2g/kg IV (eg: Kawasaki)
+Note: If measles- or varicella-containing vaccine is given <2 weeks before
+administration of Immunoglobulins or blood products, then repeat immunisation.
+Does not include Zoster vaccine. It may be given with antibody-containing product
+
+=== PAGE 29 ===
+
+12 13
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 1         GENERAL PAEDIATRICSMeasures to protect inpatients exposed to another inpatient with measles
+• Protect all immunocompromised children  with Immunoglobulin (NHIG) 0.25-0.5 mls/kg. (Measles may 
+be fatal in children in remission from leukaemia)
+• Check status of measles immunisation in the other children. Give measles specific Immunoglobulin, if 
+none available to give IVIG to unimmunised children  within 24 hrs of exposure. Immunisation within 72 
+hours aborts clinical measles in 75% of contacts.
+• Discharge the inpatient child with uncomplicated measles.
+• Do not forget to notify the Health Office.
+Close contacts of immunodeficient children and adults  
+• Must be immunized, particularly against measles, polio (IPV), varicella.
+Children with Asplenia  (Elective or emergency splenectomy; asplenic syndromes;
+sickle cell anaemia) are susceptible to encapsulated bacteria and malaria.
+• Pneumococcal, Meningococcal A, C, Y & W-135, Haemophilus influenza b vaccines should be given.
+• For elective splenectomy (and also chemotherapy or radiotherapy): give the vaccines preferably 2 or 
+more weeks before the procedure. However, they can be given even after the procedure.
+• Penicillin prophylaxis should continue ideally for life. If not, until 16 years old for children or 5 years post 
+splenectomy in adults.
+In patients with past history or family history of febrile seizures , neurological or developmental 
+abnormalities that would predispose to febrile seizures:
+• Febrile seizures may occur 5 - 10 days after measles (or MMR) vaccination or within the first 72 hours 
+following pertussis immunisation.
+• Paracetamol prophylaxis following immunisation is not recommended.
+Maternal Chicken Pox during perinatal period
+(Please refer to Perinatally acquired varicella section)
+In contacts of a patient with invasive Haemophilus influenzae B disease
+• Immunise:
+• Index case irrespective of age.
+• All household, nursery or kindergarden contacts < 4 years of age.
+• Chemoprophylaxis: Rifampicin at 20 mg/kg once daily (Maximum 600 mg) for 4 days (except pregnant 
+women - give one IM dose of ceftriaxone)
+• All household < 4 years who is unimmunised or incompletely immunised
+• For preschool and child care facility should be at the discretion of local health department
+Babies born to mothers who are Hbe Ag OR Hbs Ag positive  should be given Hepatitis B immunoglobulin 
+(200 IU) and vaccinated with the Hepatitis B vaccine within 12 hours and not later than 48 hours. Given in 
+different syringes and at different sites
+Premature infants  may be immunised at the same chronological age as term infants. (Please refer The 
+Premature Infant section).
+
+=== PAGE 30 ===
+
+14
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 1         GENERAL PAEDIATRICS
+VACCINES, INDICATIONS, CONTRAINDICATIONS, DOSES AND SIDE EFFECTS12
+Vaccine Indication/Dose Contraindication Possible Side Effects Notes
+BCG To be given at
+birth.14Not to be given to 
+symptomatic HIV infected 
+children.
+Can be given to newborns of 
+HIV infected mother as the 
+infant is usually asymptomatic 
+at birth.BCG adenitis may occur. Intradermal.
+Local reaction: a papule at
+vaccination site may occur in 2 - 6 
+weeks. This grows and flattens with 
+scaling and crusting. Occasionally a 
+discharging ulcer may occur.
+This heals leaving a scar of
+at least 4 mm in successful
+vaccination.
+Hepatitis B All infants, including 
+those born to HBsAg 
+positive mothers
+All health care
+personnel.Severe hypersensitivity to
+aluminium. The vaccine is
+also not indicated for HBV
+carrier or immuned patient
+( i.e. HBsAg or Ab positive)Local reactions. Fever and
+flu-like symptoms in first
+48 hours. Rarely, erythema
+multiforme or urticaria.Intramuscular.
+Give with Hep B immunoglobulin for 
+infants of HBsAg positive mothers at 
+contralateral limb.
+Diphtheria,
+Tetanus
+(DT)All infants should receive 
+5 doses including booster
+doses at 18 months
+and Standard 1Severe hypersensitivity to
+aluminium and thiomersalSwelling, redness and pain
+A small painless nodule may 
+develop at injection site – 
+harmless.
+Transient fever, headaches,
+malaise, rarely anaphylaxis.
+Neurological reactions rare.Intramuscular
