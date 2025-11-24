@@ -195,7 +195,18 @@ def parse_counseling_text(file_path):
     with open(file_path, 'r') as f:
         lines = f.readlines()
 
-    full_text = " ".join([line.strip() for line in lines])
+    processed_lines = []
+    for line in lines:
+        clean_line = line.strip()
+        # Handle headers that appear on their own lines to avoid false positives in text
+        if clean_line == "Others":
+            processed_lines.append("<HEADER_OTHERS>")
+        elif re.match(r'^Storage\*?$', clean_line):
+            processed_lines.append("<HEADER_STORAGE>")
+        else:
+            processed_lines.append(clean_line)
+
+    full_text = " ".join(processed_lines)
     full_text = re.sub(r'\s+', ' ', full_text)
     
     # Replace headers with markers
@@ -206,8 +217,7 @@ def parse_counseling_text(file_path):
     text = re.sub(r'\bMethod\s+of\s+Administration\s*\*?', '<HEADER_METHOD>', text, flags=re.IGNORECASE)
     text = re.sub(r'\bSpecial\s+Considerations\b', '<HEADER_SPECIAL>', text, flags=re.IGNORECASE)
     text = re.sub(r'\bSide\s+Effects\s+and\s+their\s+Management\s*\*?', '<HEADER_SIDE_EFFECTS>', text, flags=re.IGNORECASE)
-    text = re.sub(r'\bStorage\s*\*?', '<HEADER_STORAGE>', text, flags=re.IGNORECASE)
-    text = re.sub(r'\bOthers\b', '<HEADER_OTHERS>', text)
+    # Storage and Others are now handled during line processing to prevent false positives
     
     name_pattern = r'(.{0,100})<HEADER_NAME>'
     matches = list(re.finditer(name_pattern, text))
@@ -229,30 +239,58 @@ def parse_counseling_text(file_path):
         
         drug_content = text[start_pos:end_pos]
         
+        ALL_HEADERS = ['<HEADER_GROUP>', '<HEADER_INDICATION>', '<HEADER_METHOD>', '<HEADER_SPECIAL>', '<HEADER_SIDE_EFFECTS>', '<HEADER_STORAGE>', '<HEADER_OTHERS>']
+
         # Extract sections
-        def extract_section(content, start_marker, end_markers):
+        def extract_section(content, start_marker, explicit_end_markers):
             if start_marker and start_marker not in content:
                 return ""
             start_idx = content.find(start_marker) + len(start_marker) if start_marker else 0
             end_idx = len(content)
-            for marker in end_markers:
+            
+            # Use all headers as potential stop markers to prevent bleeding
+            # This ensures we stop at the NEXT header, whatever it is
+            stop_markers = set(explicit_end_markers + ALL_HEADERS)
+            if start_marker in stop_markers:
+                stop_markers.remove(start_marker)
+                
+            for marker in stop_markers:
                 idx = content.find(marker, start_idx)
                 if idx != -1 and idx < end_idx:
                     end_idx = idx
             result = content[start_idx:end_idx]
             return clean_text(result)
 
-        group = extract_section(drug_content, '<HEADER_GROUP>', ['<HEADER_INDICATION>', '<HEADER_METHOD>'])
-        indication = extract_section(drug_content, '<HEADER_INDICATION>', ['<HEADER_METHOD>', '<HEADER_SPECIAL>'])
-        method = extract_section(drug_content, '<HEADER_METHOD>', ['<HEADER_SPECIAL>', '<HEADER_SIDE_EFFECTS>'])
-        special = extract_section(drug_content, '<HEADER_SPECIAL>', ['<HEADER_SIDE_EFFECTS>', '<HEADER_STORAGE>'])
-        side_effects = extract_section(drug_content, '<HEADER_SIDE_EFFECTS>', ['<HEADER_STORAGE>', '<HEADER_OTHERS>'])
-        storage = extract_section(drug_content, '<HEADER_STORAGE>', ['<HEADER_OTHERS>'])
+        group = extract_section(drug_content, '<HEADER_GROUP>', [])
+        indication_and_dosage = extract_section(drug_content, '<HEADER_INDICATION>', [])
+        method = extract_section(drug_content, '<HEADER_METHOD>', [])
+        special = extract_section(drug_content, '<HEADER_SPECIAL>', [])
+        side_effects = extract_section(drug_content, '<HEADER_SIDE_EFFECTS>', [])
+        storage = extract_section(drug_content, '<HEADER_STORAGE>', [])
         others = extract_section(drug_content, '<HEADER_OTHERS>', [])
 
         # Clean specific fields
-        indication = re.sub(r'^1\.\s*Indication\s*:', '', indication, flags=re.IGNORECASE).strip()
-        indication = re.sub(r'^Indication\s*:', '', indication, flags=re.IGNORECASE).strip()
+        indication_and_dosage = re.sub(r'^1\.\s*Indication\s*:', '', indication_and_dosage, flags=re.IGNORECASE).strip()
+        indication_and_dosage = re.sub(r'^Indication\s*:', '', indication_and_dosage, flags=re.IGNORECASE).strip()
+        
+        # Split indication and dosage
+        # Look for common dosage markers
+        dosage_match = re.search(r'(?:Dosage|Dose)\s*:', indication_and_dosage, re.IGNORECASE)
+        if dosage_match:
+            indication = indication_and_dosage[:dosage_match.start()].strip()
+            dosage = indication_and_dosage[dosage_match.start():].strip()
+            # Clean dosage prefix
+            dosage = re.sub(r'^(?:Dosage|Dose)\s*:', '', dosage, flags=re.IGNORECASE).strip()
+        else:
+            # If no clear split, use the whole text for indication and extract dosage info
+            indication = indication_and_dosage
+            # Try to find dosage patterns (mg, mcg, etc.)
+            dosage_pattern = r'(?:^|\n)(?:\d+(?:\.\d+)?\s*(?:mg|mcg|g|ml|%|units?|tablets?|capsules?).*?)(?=\n|$)'
+            dosage_matches = re.findall(dosage_pattern, indication_and_dosage, re.IGNORECASE | re.MULTILINE)
+            if dosage_matches:
+                dosage = ' '.join(dosage_matches).strip()
+            else:
+                dosage = "See indication for dosage details"
         
         # Remove footer text
         others = remove_footer_text(others)
@@ -269,7 +307,7 @@ def parse_counseling_text(file_path):
             "name": name,
             "pharmacologicalGroup": group,
             "indication": indication,
-            "dosage": indication,
+            "dosage": dosage,
             "methodOfAdministration": method,
             "specialConsiderations": special_considerations,
             "sideEffects": side_effects_list,
