@@ -2407,23 +2407,6 @@ export const COUNSELING_MEDICATIONS = [
     others: {"storage": "1. Store in a cool, dry and dark place. 2. Keep away from the reach of children.", "other_points": "NA"}
   },
   {
-    id: "counsel-143",
-    name: "Name & Signature Date: Nasal Spray",
-    pharmacologicalGroup: "1. Steroid nasal spray 2. Antihistamine steroid combination nasal spray 3. Decongestant nasal spray 4. Vasopressin 5. Local Anaesthetic",
-    indication: "To counsel based on specific medication’ s indication and dosage as prescribed by doctor",
-    dosage: "See indication for dosage details",
-    methodOfAdministration: "PRIMING 1. Prime the nasal spray before using a nasal spray for the first time. 2. Shake well and remove the cap. 3. Pump the bottle until a uniform mist appears. Refer to the respective product leaflet for the number of sprays to be released before the nasal spray is ready for use. ADMINISTRA TION 1. If possible, blow your nose gently before spraying (if blocked). 2. Wash your hands thoroughly with soap and water . 3. Shake nasal spray gently . (Shake the nasal spray vigorously for preparation with thick suspension i.e. Avamys). 4. Remove cap. 5. Hold nasal spray upright, thumb beneath bottle and fingers on either side of the nozzle. (Press the button firmly all the way in with your thumb for Avamys and use two hands if you experience any difficulty pressing with one). 6. Close one nostril with your finger . Tilt your/patient head forward slightly and, keeping the bottle upright, carefully insert the nozzle into the other nostril. 7. Point the nozzle away from the centre ridge of your/patient nose (septum), towards the outside corner of your eye on the same side. 8. Breathe in gently through your nose and press the applicator/pump firmly . 9. Remove the nozzle from the nostril and breathe out gently through the mouth. 10. If the patient requires more than 1 spray in each nostril, repeat steps 5 till 8. 11. Repeat steps 5 till 8 for the other nostril. 12. Wipe the nasal applicator with a clean and dry tissue and replace the plastic cap. ADMINISTRA TION (PAEDIA TRIC) 1. Wipe your child’ s nose and ask them to blow it if needed. 2. Wash your hands thoroughly with soap and water . 3. Shake nasal spray gently or according to the instructions for a particular product. 4. Remove cap. 5. Hold nasal spray upright, thumb beneath bottle and fingers on either side of the nozzle. 6. Get your child into any of these positions to give the nasal sprays: a. Tilt your child’ s head back 42 b. Lay your child flat on their back c. Ask someone to hold your child in a safe position as above d. Wrap your baby or young child in a light blanket or sheet to keep their arms still 7. Close one nostril of your child with your finger and keep the bottle upright, carefully insert the nozzle into the other nostril. 8. Point the nozzle away from the centre ridge of your patient nose (septum), towards the outside corner of your eye on the same side. 9. Ask your child to breathe through the mouth and press the applicator/pump firmly . 10. Remove the nozzle from the nostril. 11. Keep your child in the position for two minutes to allow the medication to spread through the nose. 12. If your child requires more than 1 spray in each nostril, repeat step 3 till 11. 13. Repeat step 3 till 11 for the other nostril. 14. Wipe the nozzle with dry cloth. 15. Replace cap on bottle right away . Missed dose management: If you forget to take a dose, take it as soon as you remember . However , if it is almost time to take the next dose, wait until then. Do not take a double dose to make up for a forgotten dose. Do not stop taking your medication unless advised to do so by your prescriber",
-    specialConsiderations: {
-        pregnancy: "only if the benefits to the mother outweigh the potential risks to the mother or fetus. 2. Desmopressin: Fetal risk can not be ruled out.",
-        breastfeeding: "Infant risk cannot be ruled out. 2. Lignocaine HCL 5% and Phenylephrine 5% present in milk but too small amounts to be harmful.",
-        elderly: "Steroid nasal spray 1. Consider initiating at the low end of the dosing range.",
-        paediatric: "age limit for specific drug, please refer to medication product insert.",
-        fasting: "Refer to the latest advisory by religious authority ."
-      },
-    sideEffects: [],
-    others: {"storage": "1. Keep away from sunlight or heat and moisture 2. Keep away from reach of children 3. Store between 20-25°C (refer product insert)", "other_points": "Decongestant nasal spray: 1. Use for no longer than 7 days, to avoid rebound congestion (please refer to product insert). Desmopressin 100mcg/ml 1. Renal impairment: contraindicated CrCl<50 ml/min Side Effects and 1. Dryness or irritation of nose and throat 43 their Management* 2. Blood-tinged mucus or phlegm 3. Nose bleeds Management: 1. Rinse mouth with water or drink water 2. Refer to a doctor ."}
-  },
-  {
     id: "counsel-144",
     name: "Oral Ovulation Induction Drugs",
     pharmacologicalGroup: "1. Letrozole 2.5mg Tablet (Aromatase Inhibitors) 2. Clomiphene Citrate 50mg Tablet (Selective Oestrogen Receptor Modulator (SERM))",
@@ -2615,7 +2598,7 @@ export const COUNSELING_MEDICATIONS = [
 export const COUNSELING_METADATA = {
   title: "Borang Penilaian Kaunseling",
   subtitle: "Pegawai Farmasi",
-  totalMedications: 154,
+  totalMedications: 153,
   lastUpdated: "2025-11-24",
   source: "borang-penilaian-kemahiran-kaunseling-pegawai-farmasi.pdf"
 };

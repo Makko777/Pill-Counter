@@ -235,8 +235,8 @@ def parse_counseling_text(file_path):
         # Filter out common non-drug text patterns
         skip_patterns = [
             r'^Name\s*:?\s*$',  # Just "Name:" with no actual name
-            r'^Signature',
-            r'^Date',
+            r'Signature',  # Contains "Signature" anywhere
+            r'Date\s*:',  # Contains "Date:" anywhere
             r'^\d{1,2}[/-]\d{1,2}[/-]\d{2,4}',  # Dates
             r'^Reviewed\s+by',
             r'^Prepared\s+by',
@@ -246,6 +246,7 @@ def parse_counseling_text(file_path):
             r'^Page\s+\d+',
             r'^Remarks',
             r'^References',
+            r'^Name\s*&\s*Signature',  # "Name & Signature" pattern
         ]
         
         should_skip = False
