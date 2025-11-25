@@ -300,63 +300,31 @@ const DilutionView = () => {
     }, [searchTerm]);
 
     return (
-        <div className="max-w-4xl mx-auto px-4 py-6 space-y-6 md:space-y-8">
-            {/* Hero Card */}
-            <div className="bg-gradient-to-r from-amber-600 to-orange-600 dark:from-amber-700 dark:to-orange-700 rounded-2xl p-6 md:p-8 text-white shadow-xl relative overflow-hidden">
-                <div className="absolute top-0 right-0 w-64 h-64 bg-white/5 rounded-full -mr-16 -mt-16 blur-3xl"></div>
-                <div className="absolute bottom-0 left-0 w-48 h-48 bg-orange-500/10 rounded-full -ml-10 -mb-10 blur-2xl"></div>
-
-                <div className="relative flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
-                    <div>
-                        <h2 className="text-2xl md:text-3xl font-bold mb-3 flex items-center gap-3">
-                            <Beaker size={32} className="text-amber-200" />
-                            <span>{DILUTION_METADATA.title}</span>
-                        </h2>
-                        <p className="text-amber-50 text-sm md:text-base max-w-2xl leading-relaxed mb-2">
-                            {DILUTION_METADATA.author}
-                        </p>
-                        <p className="text-amber-100 text-xs">
-                            <strong>Version:</strong> {DILUTION_METADATA.version} | <strong>Published:</strong> {DILUTION_METADATA.publicationDate}
-                        </p>
-                    </div>
-                    <div className="flex flex-col gap-2 w-full md:w-auto">
-                        <div className="bg-amber-500/30 px-4 py-2 rounded-lg border border-amber-400/30">
-                            <p className="text-xs font-bold text-amber-50">{DILUTION_DATA.length} Injectable Drugs</p>
+        <div className="max-w-4xl mx-auto px-4 py-6">
+            {/* Sticky Search Header */}
+            <div className="sticky top-0 z-20 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md -mx-4 px-4 pb-4 mb-6">
+                {/* Compact Header */}
+                <div className="flex items-center justify-between py-3 border-b border-slate-200 dark:border-slate-700 mb-4">
+                    <div className="flex items-center gap-3">
+                        <Beaker size={24} className="text-amber-600 dark:text-amber-400" />
+                        <div>
+                            <h2 className="font-bold text-slate-800 dark:text-slate-100">Dilution Protocol</h2>
+                            <p className="text-xs text-slate-500 dark:text-slate-400">{DILUTION_DATA.length} Injectable Drugs</p>
                         </div>
                     </div>
                 </div>
-            </div>
 
-            {/* Disclaimer */}
-            <div className="bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800 rounded-xl p-4">
-                <div className="flex items-start gap-3">
-                    <AlertTriangle size={20} className="text-amber-600 dark:text-amber-400 flex-shrink-0 mt-0.5" />
-                    <div>
-                        <h4 className="font-bold text-amber-800 dark:text-amber-400 mb-1 text-sm">Important Notice</h4>
-                        <p className="text-xs text-amber-700 dark:text-amber-300 leading-relaxed">
-                            {DILUTION_METADATA.disclaimer}
-                        </p>
-                    </div>
+                {/* Search Bar */}
+                <div className="relative">
+                    <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-slate-400 dark:text-slate-500" size={20} />
+                    <input
+                        type="text"
+                        placeholder="Search by drug name or category..."
+                        className="w-full pl-12 pr-4 py-3.5 bg-slate-100 dark:bg-slate-800 border-transparent focus:bg-white dark:focus:bg-slate-700 focus:border-amber-500 dark:focus:border-amber-400 focus:ring-4 focus:ring-amber-500/10 dark:focus:ring-amber-900/50 rounded-2xl text-slate-800 dark:text-slate-200 placeholder-slate-400 dark:placeholder-slate-500 transition-all outline-none text-base font-medium shadow-sm"
+                        value={searchTerm}
+                        onChange={(e) => setSearchTerm(e.target.value)}
+                    />
                 </div>
-            </div>
-
-            {/* Search Bar */}
-            <div className="relative">
-                <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-slate-400 dark:text-slate-500" size={20} />
-                <input
-                    type="text"
-                    placeholder="Search by drug name or category..."
-                    className="w-full pl-12 pr-4 py-3.5 bg-slate-100 dark:bg-slate-800 border-transparent focus:bg-white dark:focus:bg-slate-700 focus:border-amber-500 dark:focus:border-amber-400 focus:ring-4 focus:ring-amber-500/10 dark:focus:ring-amber-900/50 rounded-2xl text-slate-800 dark:text-slate-200 placeholder-slate-400 dark:placeholder-slate-500 transition-all outline-none text-base font-medium shadow-sm"
-                    value={searchTerm}
-                    onChange={(e) => setSearchTerm(e.target.value)}
-                />
-            </div>
-
-            {/* Results Count */}
-            <div className="flex items-center justify-between px-2">
-                <span className="text-xs font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider">
-                    Showing {filteredDrugs.length} of {DILUTION_DATA.length} drugs
-                </span>
             </div>
 
             {/* Drug Grid */}
@@ -541,31 +509,49 @@ const PaediatricProtocolView = () => {
     };
 
     return (
-        <div className="max-w-4xl mx-auto px-4 py-6 space-y-6 md:space-y-8">
-            {/* Hero Card */}
-            <div className="bg-gradient-to-r from-purple-600 to-pink-600 dark:from-purple-700 dark:to-pink-700 rounded-2xl p-6 md:p-8 text-white shadow-xl relative overflow-hidden">
-                <div className="absolute top-0 right-0 w-64 h-64 bg-white/5 rounded-full -mr-16 -mt-16 blur-3xl"></div>
-                <div className="absolute bottom-0 left-0 w-48 h-48 bg-pink-500/10 rounded-full -ml-10 -mb-10 blur-2xl"></div>
-
-                <div className="relative flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
-                    <div>
-                        <h2 className="text-2xl md:text-3xl font-bold mb-3 flex items-center gap-3">
-                            <Syringe size={32} className="text-pink-200" />
-                            <span>Paediatric Medications</span>
-                        </h2>
-                        <p className="text-purple-50 text-sm md:text-base max-w-2xl leading-relaxed mb-2">
-                            Quick reference dosing guide from Paediatric Protocols 5th Edition
-                        </p>
-                        <p className="text-purple-100 text-xs">
-                            <strong>Source:</strong> MOH Paediatric Protocols 5th Edition
-                        </p>
+        <div className="max-w-4xl mx-auto px-4 py-6">
+            {/* Sticky Search Header */}
+            <div className="sticky top-0 z-20 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md -mx-4 px-4 pb-4 mb-6">
+                {/* Compact Header */}
+                <div className="flex items-center justify-between py-3 border-b border-slate-200 dark:border-slate-700 mb-4">
+                    <div className="flex items-center gap-3">
+                        <Baby size={24} className="text-purple-600 dark:text-purple-400" />
+                        <div>
+                            <h2 className="font-bold text-slate-800 dark:text-slate-100">Paediatric Medications</h2>
+                            <p className="text-xs text-slate-500 dark:text-slate-400">{PAEDIATRIC_MEDICATIONS.length} Medications</p>
+                        </div>
                     </div>
-                    <button
-                        onClick={openPDF}
-                        className="w-full md:w-auto bg-pink-500 hover:bg-pink-400 text-white px-6 py-3 rounded-xl font-bold shadow-lg shadow-pink-900/20 transition-all transform hover:-translate-y-0.5 flex items-center justify-center gap-2 whitespace-nowrap"
-                    >
-                        Full Protocols PDF <ExternalLink size={18} />
+                    <button onClick={openPDF} className="text-xs font-bold text-purple-600 dark:text-purple-400 hover:underline flex items-center gap-1">
+                        <FileText size={14} /> View PDF
                     </button>
+                </div>
+
+                {/* Search Bar */}
+                <div className="relative mb-4">
+                    <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-slate-400 dark:text-slate-500" size={20} />
+                    <input
+                        type="text"
+                        placeholder="Search medications by name or indication..."
+                        className="w-full pl-12 pr-4 py-3.5 bg-slate-100 dark:bg-slate-800 border-transparent focus:bg-white dark:focus:bg-slate-700 focus:border-purple-500 dark:focus:border-purple-400 focus:ring-4 focus:ring-purple-500/10 dark:focus:ring-purple-900/50 rounded-2xl text-slate-800 dark:text-slate-200 placeholder-slate-400 dark:placeholder-slate-500 transition-all outline-none text-base font-medium shadow-sm"
+                        value={searchTerm}
+                        onChange={(e) => setSearchTerm(e.target.value)}
+                    />
+                </div>
+
+                {/* Category Filter */}
+                <div className="flex gap-2 overflow-x-auto pb-2">
+                    {categories.map(category => (
+                        <button
+                            key={category}
+                            onClick={() => setSelectedCategory(category)}
+                            className={`px-4 py-2 rounded-lg text-xs font-bold whitespace-nowrap transition-all ${selectedCategory === category
+                                ? 'bg-purple-600 text-white shadow-sm'
+                                : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700'
+                                }`}
+                        >
+                            {category}
+                        </button>
+                    ))}
                 </div>
             </div>
 
@@ -596,34 +582,6 @@ const PaediatricProtocolView = () => {
                         </p>
                     </div>
                 </div>
-            </div>
-
-            {/* Search Bar */}
-            <div className="relative">
-                <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-slate-400 dark:text-slate-500" size={20} />
-                <input
-                    type="text"
-                    placeholder="Search medications by name or indication..."
-                    className="w-full pl-12 pr-4 py-3.5 bg-slate-100 dark:bg-slate-800 border-transparent focus:bg-white dark:focus:bg-slate-700 focus:border-purple-500 dark:focus:border-purple-400 focus:ring-4 focus:ring-purple-500/10 dark:focus:ring-purple-900/50 rounded-2xl text-slate-800 dark:text-slate-200 placeholder-slate-400 dark:placeholder-slate-500 transition-all outline-none text-base font-medium shadow-sm"
-                    value={searchTerm}
-                    onChange={(e) => setSearchTerm(e.target.value)}
-                />
-            </div>
-
-            {/* Category Filter */}
-            <div className="flex gap-2 overflow-x-auto pb-2">
-                {categories.map(category => (
-                    <button
-                        key={category}
-                        onClick={() => setSelectedCategory(category)}
-                        className={`px-4 py-2 rounded-lg text-xs font-bold whitespace-nowrap transition-all ${selectedCategory === category
-                            ? 'bg-purple-600 text-white shadow-sm'
-                            : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700'
-                            }`}
-                    >
-                        {category}
-                    </button>
-                ))}
             </div>
 
             {/* Results Count */}
@@ -991,34 +949,31 @@ const CounselingView = () => {
     }, []);
 
     return (
-        <div className="max-w-4xl mx-auto px-4 py-6 space-y-6 md:space-y-8">
-            <div className="bg-gradient-to-r from-emerald-600 to-teal-600 dark:from-emerald-700 dark:to-teal-700 rounded-2xl p-6 md:p-8 text-white shadow-xl relative overflow-hidden">
-                <div className="absolute top-0 right-0 w-64 h-64 bg-white/5 rounded-full -mr-16 -mt-16 blur-3xl"></div>
-                <div className="absolute bottom-0 left-0 w-48 h-48 bg-teal-500/10 rounded-full -ml-10 -mb-10 blur-2xl"></div>
-                <div className="relative flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
-                    <div>
-                        <h2 className="text-2xl md:text-3xl font-bold mb-3 flex items-center gap-3">
-                            <MessageSquare size={32} className="text-emerald-200" />
-                            <span>{COUNSELING_METADATA.title}</span>
-                        </h2>
-                        <p className="text-emerald-50 text-sm md:text-base max-w-2xl leading-relaxed mb-2">
-                            {COUNSELING_METADATA.description}
-                        </p>
-                        <p className="text-emerald-100 text-xs">
-                            <strong>Total Medications:</strong> {COUNSELING_METADATA.totalMedications} | <strong>Version:</strong> {COUNSELING_METADATA.version}
-                        </p>
+        <div className="max-w-4xl mx-auto px-4 py-6">
+            {/* Sticky Search Header */}
+            <div className="sticky top-0 z-20 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md -mx-4 px-4 pb-4 mb-6">
+                {/* Compact Header */}
+                <div className="flex items-center justify-between py-3 border-b border-slate-200 dark:border-slate-700 mb-4">
+                    <div className="flex items-center gap-3">
+                        <MessageSquare size={24} className="text-emerald-600 dark:text-emerald-400" />
+                        <div>
+                            <h2 className="font-bold text-slate-800 dark:text-slate-100">Counseling Points</h2>
+                            <p className="text-xs text-slate-500 dark:text-slate-400">{COUNSELING_MEDICATIONS.length} Medications</p>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div className="relative mb-6">
-                <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-slate-400 dark:text-slate-500" size={20} />
-                <input
-                    type="text"
-                    placeholder="Search medications..."
-                    className="w-full pl-12 pr-4 py-3.5 bg-slate-100 dark:bg-slate-800 border-transparent focus:bg-white dark:focus:bg-slate-700 focus:border-emerald-500 dark:focus:border-emerald-400 focus:ring-4 focus:ring-emerald-500/10 dark:focus:ring-emerald-900/50 rounded-2xl text-slate-800 dark:text-slate-200 placeholder-slate-400 dark:placeholder-slate-500 transition-all outline-none text-base font-medium shadow-sm"
-                    value={searchTerm}
-                    onChange={(e) => setSearchTerm(e.target.value)}
-                />
+
+                {/* Search Bar */}
+                <div className="relative">
+                    <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-slate-400 dark:text-slate-500" size={20} />
+                    <input
+                        type="text"
+                        placeholder="Search medications..."
+                        className="w-full pl-12 pr-4 py-3.5 bg-slate-100 dark:bg-slate-800 border-transparent focus:bg-white dark:focus:bg-slate-700 focus:border-emerald-500 dark:focus:border-emerald-400 focus:ring-4 focus:ring-emerald-500/10 dark:focus:ring-emerald-900/50 rounded-2xl text-slate-800 dark:text-slate-200 placeholder-slate-400 dark:placeholder-slate-500 transition-all outline-none text-base font-medium shadow-sm"
+                        value={searchTerm}
+                        onChange={(e) => setSearchTerm(e.target.value)}
+                    />
+                </div>
             </div>
             {
                 filteredMedications.length === 0 ? (
@@ -1427,6 +1382,23 @@ export default function FormularyApp() {
 
                                         <div className="flex flex-wrap gap-2 mb-4">
                                             <Badge type="category">{drug.category}</Badge>
+                                            {drug.notes && drug.notes.toLowerCase().includes('kuota') && (
+                                                <Badge type="highAlert">KUOTA</Badge>
+                                            )}
+                                            {drug.notes && (() => {
+                                                // Extract departments from notes (e.g., "Dept: Pembedahan, Perubatan")
+                                                const deptMatch = drug.notes.match(/Dept:\s*([^\)\n]+)/i);
+                                                if (deptMatch) {
+                                                    const depts = deptMatch[1]
+                                                        .split(/[,;]/)  // Split by comma or semicolon
+                                                        .map(d => d.trim())
+                                                        .filter(d => d.length > 0);  // Filter out empty strings
+                                                    return depts.map((dept, idx) => (
+                                                        <Badge key={idx} type="prescriber">{dept}</Badge>
+                                                    ));
+                                                }
+                                                return null;
+                                            })()}
                                             {drug.prescriberCat && drug.prescriberCat !== "N/A" && (
                                                 <Badge type="prescriber">Cat: {drug.prescriberCat}</Badge>
                                             )}
