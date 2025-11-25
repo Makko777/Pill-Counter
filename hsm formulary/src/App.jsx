@@ -1190,8 +1190,28 @@ const CounselingView = () => {
 
 
 
+// --- HOOKS ---
+function useDebounce(value, delay) {
+    const [debouncedValue, setDebouncedValue] = useState(value);
+
+    useEffect(() => {
+        const handler = setTimeout(() => {
+            setDebouncedValue(value);
+        }, delay);
+
+        return () => {
+            clearTimeout(handler);
+        };
+    }, [value, delay]);
+
+    return debouncedValue;
+}
+
+
 export default function FormularyApp() {
     const [searchTerm, setSearchTerm] = useState("");
+    const debouncedSearchTerm = useDebounce(searchTerm, 300);
+    const [visibleCount, setVisibleCount] = useState(20);
     const [favorites, setFavorites] = useState([]);
     const [selectedDrug, setSelectedDrug] = useState(null);
     const [view, setView] = useState('list');
@@ -1241,6 +1261,16 @@ export default function FormularyApp() {
         localStorage.setItem('formulary_favorites', JSON.stringify(favorites));
     }, [favorites]);
 
+    // Reset visible count when search changes
+    useEffect(() => {
+        setVisibleCount(20);
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }, [debouncedSearchTerm, view, appMode]);
+
+    const loadMore = () => {
+        setVisibleCount(prev => prev + 20);
+    };
+
     const toggleFavorite = (e, drugId) => {
         e.stopPropagation();
         if (favorites.includes(drugId)) {
@@ -1260,134 +1290,78 @@ export default function FormularyApp() {
         }
 
         return data.filter(drug => {
-            const searchLower = searchTerm.toLowerCase();
+            const searchLower = debouncedSearchTerm.toLowerCase();
             const matchesSearch =
                 (drug.genericName && drug.genericName.toLowerCase().includes(searchLower)) ||
                 (drug.brandName && drug.brandName.toLowerCase().includes(searchLower));
 
             return matchesSearch;
         });
-    }, [searchTerm, favorites, view, formularyData]);
+    }, [debouncedSearchTerm, favorites, view, formularyData]);
 
 
 
     return (
         <div className="min-h-screen bg-gray-50 dark:bg-slate-900 font-sans text-gray-900 dark:text-gray-100 transition-colors">
             {/* Header */}
-            <div className="sticky top-0 z-30 bg-white dark:bg-slate-800 border-b border-gray-200 dark:border-slate-700 shadow-sm">
-                <div className="max-w-4xl mx-auto px-4 py-3 md:py-4">
-                    <div className="flex flex-col md:flex-row md:items-center justify-between mb-3 md:mb-4 gap-3 md:gap-4">
-                        <div className="flex items-center justify-between md:justify-start space-x-3">
-                            <div className="flex items-center gap-3">
-                                <div className="bg-white p-1 rounded-full shadow-lg border border-slate-100 dark:border-slate-700 w-14 h-14 flex items-center justify-center overflow-hidden">
-                                    <img src="/hsm-logo.jpg" alt="HSM Logo" className="w-full h-full object-cover" />
-                                </div>
-                                <div>
-                                    <h1 className="text-xl md:text-2xl font-extrabold text-slate-800 dark:text-slate-100 leading-none tracking-tight">
-                                        HOSPITAL SERI MANJUNG
-                                    </h1>
-                                    <p className="text-xs md:text-sm text-slate-500 dark:text-slate-400 font-semibold mt-1 tracking-wide uppercase">
-                                        Official Formulary & Guidelines
-                                    </p>
-                                </div>
+            <div className="sticky top-0 z-30 bg-white/95 dark:bg-slate-800/95 backdrop-blur-sm border-b border-slate-200 dark:border-slate-700 shadow-sm transition-all">
+                <div className="max-w-4xl mx-auto px-4 py-2">
+                    <div className="flex items-center justify-between mb-2 gap-3">
+                        <div className="flex items-center gap-2 md:gap-3">
+                            <div className="bg-white p-0.5 rounded-full shadow-sm border border-slate-100 dark:border-slate-700 w-10 h-10 md:w-12 md:h-12 flex items-center justify-center overflow-hidden shrink-0">
+                                <img src="/hsm-logo.jpg" alt="HSM Logo" className="w-full h-full object-cover" />
                             </div>
-
-                            {/* Dark Mode Toggle - Mobile Position */}
-                            <button
-                                onClick={() => setDarkMode(!darkMode)}
-                                className="md:hidden p-2 rounded-lg bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 transition-colors"
-                                aria-label="Toggle dark mode"
-                            >
-                                {darkMode ? <Sun size={20} className="text-amber-400" /> : <Moon size={20} className="text-slate-600" />}
-                            </button>
+                            <div>
+                                <h1 className="text-lg md:text-xl font-extrabold text-slate-800 dark:text-slate-100 leading-none tracking-tight">
+                                    HOSPITAL SERI MANJUNG
+                                </h1>
+                                <p className="text-[10px] md:text-xs text-slate-500 dark:text-slate-400 font-semibold mt-0.5 tracking-wide uppercase">
+                                    Official Formulary & Guidelines
+                                </p>
+                            </div>
                         </div>
 
-                        {/* Mode Switcher & Tools */}
-                        <div className="flex items-center gap-3 flex-wrap">
-                            <div className="hidden md:flex items-center px-3 py-1 bg-rose-50 dark:bg-rose-900/20 border border-rose-100 dark:border-rose-800 rounded-full">
-                                <span className="w-2 h-2 rounded-full bg-rose-500 animate-pulse mr-2"></span>
-                                <span className="text-[10px] font-bold text-rose-600 dark:text-rose-400 uppercase tracking-wider">For Internal Use Only</span>
+                        {/* Tools & Dark Mode */}
+                        <div className="flex items-center gap-2">
+                            <div className="hidden md:flex items-center px-2 py-0.5 bg-rose-50 dark:bg-rose-900/20 border border-rose-100 dark:border-rose-800 rounded-full">
+                                <span className="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse mr-1.5"></span>
+                                <span className="text-[9px] font-bold text-rose-600 dark:text-rose-400 uppercase tracking-wider">Internal Use</span>
                             </div>
 
-                            <div className="flex flex-wrap items-center gap-1 bg-slate-100 dark:bg-slate-700 p-1 rounded-xl">
-                                <button
-                                    onClick={() => setAppMode('formulary')}
-                                    className={`px-3 md:px-4 py-2 rounded-lg text-xs md:text-sm font-bold transition-all min-h-[40px] whitespace-nowrap ${appMode === 'formulary'
-                                        ? 'bg-white dark:bg-slate-600 text-teal-700 dark:text-teal-400 shadow-sm'
-                                        : 'text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-300'}`}
-                                >
-                                    Formulary
-                                </button>
-                                <button
-                                    onClick={() => setAppMode('nag')}
-                                    className={`px-3 md:px-4 py-2 rounded-lg text-xs md:text-sm font-bold transition-all flex items-center gap-1 min-h-[40px] whitespace-nowrap ${appMode === 'nag'
-                                        ? 'bg-white dark:bg-slate-600 text-blue-600 dark:text-blue-400 shadow-sm'
-                                        : 'text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-300'}`}
-                                >
-                                    <Shield size={14} /> NAG
-                                </button>
-                                <button
-                                    onClick={() => setAppMode('dilution')}
-                                    className={`px-3 md:px-4 py-2 rounded-lg text-xs md:text-sm font-bold transition-all flex items-center gap-1 min-h-[40px] whitespace-nowrap ${appMode === 'dilution'
-                                        ? 'bg-white dark:bg-slate-600 text-amber-600 dark:text-amber-400 shadow-sm'
-                                        : 'text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-300'}`}
-                                >
-                                    <Beaker size={14} /> Dilution
-                                </button>
-                                <button
-                                    onClick={() => setAppMode('paediatric')}
-                                    className={`px-3 md:px-4 py-2 rounded-lg text-xs md:text-sm font-bold transition-all flex items-center gap-1 min-h-[40px] whitespace-nowrap ${appMode === 'paediatric'
-                                        ? 'bg-white dark:bg-slate-600 text-purple-600 dark:text-purple-400 shadow-sm'
-                                        : 'text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-300'}`}
-                                >
-                                    <Baby size={14} /> Paediatric
-                                </button>
-                                <button
-                                    onClick={() => setAppMode('counseling')}
-                                    className={`px-3 md:px-4 py-2 rounded-lg text-xs md:text-sm font-bold transition-all flex items-center gap-1 min-h-[40px] whitespace-nowrap ${appMode === 'counseling'
-                                        ? 'bg-white dark:bg-slate-600 text-emerald-600 dark:text-emerald-400 shadow-sm'
-                                        : 'text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-300'}`}
-                                >
-                                    <MessageSquare size={14} /> Counseling
-                                </button>
-                            </div>
-
-                            {/* Dark Mode Toggle - Desktop Position */}
                             <button
                                 onClick={() => setDarkMode(!darkMode)}
-                                className="hidden md:flex p-2 rounded-lg bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 transition-colors min-h-[40px] min-w-[40px] items-center justify-center"
+                                className="p-2 rounded-full bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 transition-colors"
                                 aria-label="Toggle dark mode"
                             >
-                                {darkMode ? <Sun size={20} className="text-amber-400" /> : <Moon size={20} className="text-slate-600" />}
+                                {darkMode ? <Sun size={18} className="text-amber-400" /> : <Moon size={18} className="text-slate-600" />}
                             </button>
                         </div>
                     </div>
 
                     {/* SHOW SEARCH ONLY IN FORMULARY MODE */}
                     {appMode === 'formulary' && (
-                        <>
-                            <div className="flex items-center gap-2 mb-3 justify-end flex-wrap">
-                                <button
-                                    onClick={() => setView(view === 'list' ? 'favorites' : 'list')}
-                                    className={`p-2 rounded-full transition-colors min-h-[40px] min-w-[40px] flex items-center justify-center ${view === 'favorites'
-                                        ? 'bg-rose-50 dark:bg-rose-900/30 text-rose-600 dark:text-rose-400'
-                                        : 'hover:bg-slate-100 dark:hover:bg-slate-700 text-slate-300 dark:text-slate-600'}`}
-                                >
-                                    <Heart size={20} fill={view === 'favorites' ? "currentColor" : "none"} />
-                                </button>
-                            </div>
-
-                            <div className="relative mb-4 md:mb-6">
-                                <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-slate-400 dark:text-slate-500" size={20} />
+                        <div className="relative mb-1">
+                            <div className="relative group">
+                                <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-slate-400 dark:text-slate-500 transition-colors group-focus-within:text-teal-500" size={18} />
                                 <input
                                     type="text"
                                     placeholder="Search by generic or brand name..."
-                                    className="w-full pl-12 pr-4 py-3.5 bg-slate-100 dark:bg-slate-800 border-transparent focus:bg-white dark:focus:bg-slate-700 focus:border-teal-500 dark:focus:border-teal-400 focus:ring-4 focus:ring-teal-500/10 dark:focus:ring-teal-900/50 rounded-2xl text-slate-800 dark:text-slate-200 placeholder-slate-400 dark:placeholder-slate-500 transition-all outline-none text-base font-medium shadow-sm"
+                                    className="w-full pl-10 pr-12 py-2.5 bg-slate-100 dark:bg-slate-800/50 border border-transparent focus:bg-white dark:focus:bg-slate-800 focus:border-teal-500 dark:focus:border-teal-400 focus:ring-4 focus:ring-teal-500/10 dark:focus:ring-teal-900/50 rounded-xl text-slate-800 dark:text-slate-200 placeholder-slate-400 dark:placeholder-slate-500 transition-all outline-none text-sm md:text-base font-medium shadow-sm"
                                     value={searchTerm}
                                     onChange={(e) => setSearchTerm(e.target.value)}
                                 />
+                                {/* Favorites Toggle Integrated in Search Bar */}
+                                <button
+                                    onClick={() => setView(view === 'list' ? 'favorites' : 'list')}
+                                    className={`absolute right-2 top-1/2 transform -translate-y-1/2 p-1.5 rounded-lg transition-all ${view === 'favorites'
+                                        ? 'bg-rose-50 dark:bg-rose-900/30 text-rose-500 dark:text-rose-400'
+                                        : 'text-slate-400 dark:text-slate-500 hover:text-slate-600 dark:hover:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700'}`}
+                                    title="Toggle Favorites"
+                                >
+                                    <Heart size={18} fill={view === 'favorites' ? "currentColor" : "none"} />
+                                </button>
                             </div>
-                        </>
+                        </div>
                     )}
                 </div>
             </div>
@@ -1423,7 +1397,7 @@ export default function FormularyApp() {
                             </div>
                         ) : (
                             <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-2">
-                                {filteredDrugs.map(drug => (
+                                {filteredDrugs.slice(0, visibleCount).map(drug => (
                                     <div
                                         key={drug.id}
                                         onClick={() => setSelectedDrug(drug)}
@@ -1476,6 +1450,18 @@ export default function FormularyApp() {
                                         </div>
                                     </div>
                                 ))}
+                            </div>
+                        )}
+
+                        {/* Load More Button */}
+                        {filteredDrugs.length > visibleCount && (
+                            <div className="mt-8 text-center">
+                                <button
+                                    onClick={loadMore}
+                                    className="bg-white dark:bg-slate-800 hover:bg-slate-50 dark:hover:bg-slate-700 text-slate-600 dark:text-slate-300 font-bold py-3 px-8 rounded-xl shadow-sm border border-slate-200 dark:border-slate-700 transition-all transform hover:-translate-y-0.5"
+                                >
+                                    Load More Results ({filteredDrugs.length - visibleCount} remaining)
+                                </button>
                             </div>
                         )}
                     </div>
@@ -1570,8 +1556,49 @@ export default function FormularyApp() {
                 )}
             </Modal>
 
+            {/* Bottom Navigation (Visible on all screens) */}
+            <div className="fixed bottom-0 left-0 right-0 bg-white dark:bg-slate-800 border-t border-slate-200 dark:border-slate-700 z-40 pb-safe">
+                <div className="max-w-4xl mx-auto flex justify-around items-center h-16">
+                    <button
+                        onClick={() => setAppMode('formulary')}
+                        className={`flex flex-col items-center justify-center w-full h-full space-y-1 ${appMode === 'formulary' ? 'text-teal-600 dark:text-teal-400' : 'text-slate-400 dark:text-slate-500'}`}
+                    >
+                        <Search size={20} />
+                        <span className="text-[10px] font-medium">Formulary</span>
+                    </button>
+                    <button
+                        onClick={() => setAppMode('nag')}
+                        className={`flex flex-col items-center justify-center w-full h-full space-y-1 ${appMode === 'nag' ? 'text-blue-600 dark:text-blue-400' : 'text-slate-400 dark:text-slate-500'}`}
+                    >
+                        <Shield size={20} />
+                        <span className="text-[10px] font-medium">NAG</span>
+                    </button>
+                    <button
+                        onClick={() => setAppMode('dilution')}
+                        className={`flex flex-col items-center justify-center w-full h-full space-y-1 ${appMode === 'dilution' ? 'text-amber-600 dark:text-amber-400' : 'text-slate-400 dark:text-slate-500'}`}
+                    >
+                        <Beaker size={20} />
+                        <span className="text-[10px] font-medium">Dilution</span>
+                    </button>
+                    <button
+                        onClick={() => setAppMode('paediatric')}
+                        className={`flex flex-col items-center justify-center w-full h-full space-y-1 ${appMode === 'paediatric' ? 'text-purple-600 dark:text-purple-400' : 'text-slate-400 dark:text-slate-500'}`}
+                    >
+                        <Baby size={20} />
+                        <span className="text-[10px] font-medium">Paeds</span>
+                    </button>
+                    <button
+                        onClick={() => setAppMode('counseling')}
+                        className={`flex flex-col items-center justify-center w-full h-full space-y-1 ${appMode === 'counseling' ? 'text-emerald-600 dark:text-emerald-400' : 'text-slate-400 dark:text-slate-500'}`}
+                    >
+                        <MessageSquare size={20} />
+                        <span className="text-[10px] font-medium">Counsel</span>
+                    </button>
+                </div>
+            </div>
+
             {/* Footer */}
-            <footer className="bg-white dark:bg-slate-800 border-t border-slate-200 dark:border-slate-700 py-8 mt-auto">
+            <footer className="bg-white dark:bg-slate-800 border-t border-slate-200 dark:border-slate-700 py-8 mt-auto mb-16">
                 <div className="max-w-4xl mx-auto px-4 text-center">
                     <div className="flex items-center justify-center gap-2 mb-4 text-teal-600 dark:text-teal-400">
                         <Stethoscope size={24} />
@@ -1584,7 +1611,7 @@ export default function FormularyApp() {
                         For additions or to report issues, please contact <span className="font-semibold text-slate-600 dark:text-slate-300">Syahidah</span>
                     </p>
                     <p className="text-xs text-slate-400 dark:text-slate-500 uppercase tracking-widest font-semibold">
-                        Authorized Personnel Only • Internal Use
+                        AUTHORIZED PERSONNEL ONLY. FOR THE USE OF HOSPITAL SERI MANJUNG STAF ONLY
                     </p>
                 </div>
             </footer>

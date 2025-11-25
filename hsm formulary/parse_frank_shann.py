@@ -1,80 +1,215 @@
 import re
 import json
+import unicodedata
+
+def normalize_unicode(text):
+    """Convert Unicode characters to ASCII where possible"""
+    # Normalize Unicode to decomposed form, then remove combining characters
+    text = unicodedata.normalize('NFKD', text)
+    text = text.encode('ascii', 'ignore').decode('ascii')
+    return text
 
 def clean_text(text):
-    """Remove page markers and common artifacts, fix OCR errors"""
-    # Page artifacts
+    """Comprehensive text cleaning with OCR error correction"""
+    # First, normalize Unicode
+    text = normalize_unicode(text)
+    
+    # Remove page artifacts and headers/footers
     text = re.sub(r'=== PAGE \d+ ===', ' ', text)
-    text = re.sub(r'\$9\.95 \+ postage from orders@drugdoses\.com Page \d+', ' ', text)
+    text = re.sub(r'\$\d+\.\d+ \+ postage from orders@drugdoses\.com Page \d+', ' ', text)
     text = re.sub(r'drugdoses\.com', ' ', text)
+    text = re.sub(r'Page \d+', ' ', text)
     
-    # OCR Typos - Units (attached to numbers)
-    text = re.sub(r'(?<=\d)rng', 'mg', text)
-    text = re.sub(r'(?<=\d)rncg', 'mcg', text)
-    text = re.sub(r'(?<=\d)rnin', 'min', text)
-    text = re.sub(r'(?<=\d)l<g', 'kg', text)
-    text = re.sub(r'(?<=\d)1<g', 'kg', text)
-    text = re.sub(r'(?<=\d)1<\[', 'kg', text)
-    text = re.sub(r'(?<=\d)m g', 'mg', text)
-    
-    # Standalone unit typos
+    # Fix common OCR character confusions - UNITS (comprehensive)
+    # mg variations
+    text = re.sub(r'(?<=\d)\s*rng\b', 'mg', text)
+    text = re.sub(r'(?<=\d)\s*rn\s*g\b', 'mg', text)
+    text = re.sub(r'(?<=\d)\s*rnq\b', 'mg', text)
     text = re.sub(r'\brng\b', 'mg', text)
+    text = re.sub(r'\bmg\s+(?=\d)', 'mg/', text)  # "mg 12" -> "mg/12"
+    
+    # mcg variations
+    text = re.sub(r'(?<=\d)\s*rncg\b', 'mcg', text)
+    text = re.sub(r'(?<=\d)\s*mc\s*g\b', 'mcg', text)
     text = re.sub(r'\brncg\b', 'mcg', text)
-    text = re.sub(r'\brnin\b', 'min', text)
+    
+    # kg variations (extensive)
+    text = re.sub(r'(?<=\d)\s*l<g\b', 'kg', text)
+    text = re.sub(r'(?<=\d)\s*1<g\b', 'kg', text)
+    text = re.sub(r'(?<=\d)\s*I<g\b', 'kg', text)
+    text = re.sub(r'(?<=\d)\s*k\(J\b', 'kg', text)
+    text = re.sub(r'(?<=\d)\s*1\(g\b', 'kg', text)
+    text = re.sub(r'(?<=\d)\s*k\[J\b', 'kg', text)
+    text = re.sub(r'(?<=\d)\s*kq\b', 'kg', text)
     text = re.sub(r'\bl<g\b', 'kg', text)
     text = re.sub(r'\bI<g\b', 'kg', text)
     text = re.sub(r'\bk\(J\b', 'kg', text)
+    text = re.sub(r'\bk\[J\b', 'kg', text)
+    text = re.sub(r'\bkq\b', 'kg', text)
+    
+    # ml variations
+    text = re.sub(r'(?<=\d)\s*rnl\b', 'ml', text)
+    text = re.sub(r'(?<=\d)\s*rn I\b', 'ml', text)
     text = re.sub(r'\brnl\b', 'ml', text)
+    text = re.sub(r'\bm\s+l\b', 'ml', text)
+    text = re.sub(r'\bmll\b', 'ml', text)
+    
+    # min/hr/H variations
+    text = re.sub(r'(?<=\d)\s*rnin\b', 'min', text)
+    text = re.sub(r'\brnin\b', 'min', text)
+    text = re.sub(r'\bllr\b', 'hr', text)
+    text = re.sub(r'\blhr\b', 'hr', text)
+    text = re.sub(r'\b1hr\b', '1hr', text)
+    text = re.sub(r'(?<=\d)\s*/H\b', 'H', text)  # "6-12/H" -> "6-12H"
+    text = re.sub(r'\bti-1\s*/H\b', '6-12H', text)  # Common pattern
+    text = re.sub(r'\b8-l2H\b', '8-12H', text)
+    
+    # Fix spacing around numbers and units
+    text = re.sub(r'(\d+)\s+(\.\s*\d+)', r'\1\2', text)  # "0 . 5" -> "0.5"
+    text = re.sub(r'(\d+)\s*\.\s*(\d+)', r'\1.\2', text)  # "0 . 5" -> "0.5"
+    text = re.sub(r'0_\s*1', '0.1', text)  # "0_ 1" -> "0.1"
+    text = re.sub(r'(\d+)\s*_\s*(\d+)', r'\1.\2', text)  # "0_ 1" -> "0.1"
     
     # Common word OCR errors
-    text = re.sub(r'\bornl\b', 'oral', text)
-    text = re.sub(r'\boml\b', 'oral', text)
+    text = re.sub(r'\bornl\b', 'oral', text, flags=re.IGNORECASE)
+    text = re.sub(r'\boml\b', 'oral', text, flags=re.IGNORECASE)
+    text = re.sub(r'\borul\b', 'oral', text, flags=re.IGNORECASE)
     text = re.sub(r'\bOrnin\b', '0min', text)
+    text = re.sub(r'\bOmin\b', '0min', text)
     text = re.sub(r'\bbeforo\b', 'before', text)
     text = re.sub(r'\btl1on\b', 'then', text)
     text = re.sub(r'\btl1en\b', 'then', text)
-    text = re.sub(r'\bparacetarno1\b', 'paracetamol', text)
-    text = re.sub(r'\bparacetarnol\b', 'paracetamol', text)
+    text = re.sub(r'\bparacetarno1\b', 'paracetamol', text, flags=re.IGNORECASE)
+    text = re.sub(r'\bparacetarnol\b', 'paracetamol', text, flags=re.IGNORECASE)
     text = re.sub(r'\bangioplasly\b', 'angioplasty', text)
     text = re.sub(r'\bsoltn\b', 'solution', text)
     text = re.sub(r'\bintratrac:l1eal\b', 'intratracheal', text)
-    text = re.sub(r'\bnarar\.r,tclt\b', 'paracetamol', text)
     text = re.sub(r'\bumoi\b', 'umol', text)
     text = re.sub(r'\bumolll\b', 'umol/L', text)
     text = re.sub(r'\burnoi\b', 'umol', text)
-    text = re.sub(r'\bOOOurnoi\b', '000umol', text)
+    text = re.sub(r'\brnux\b', 'max', text)
+    text = re.sub(r'\brnax\b', 'max', text)
+    text = re.sub(r'\btub\b', 'tab', text)
+    text = re.sub(r'\brepoat\b', 'repeat', text)
+    text = re.sub(r'\bdni!y\b', 'daily', text)
+    text = re.sub(r'\bdnily\b', 'daily', text)
     
-    # Specific number/letter confusions
-    text = re.sub(r'\b1 OOrng\b', '100mg', text)
-    text = re.sub(r'\b1 Orng\b', '10mg', text)
-    text = re.sub(r'\b1 1\.0g\b', '1.0g', text)
-    text = re.sub(r'\b0\. 1\b', '0.1', text)
-    text = re.sub(r'\b0\. 2\b', '0.2', text)
-    text = re.sub(r'\b0\. 5\b', '0.5', text)
+    # IV/IM variations
+    text = re.sub(r'\bUlV\b', 'IV', text)
+    text = re.sub(r'\bIVl\b', 'IM', text)
+    text = re.sub(r'\blVl\b', 'IM', text)
     
-    # Time intervals
+    # Common letter/number confusions in dosages
+    text = re.sub(r'\b1\s*!\s*i\s*0', '150', text)  # "1!i0" -> "150"
+    text = re.sub(r'\b!\s*i', '5', text)  # "!i" -> "5"
+    # Fix exclamation marks and special character confusions FIRST (before other substitutions)
+    # Most ! should be 't', but need to handle special cases
+    text = re.sub(r'!i', '5i', text)  # Temporarily mark "!i" pattern  
+    text = re.sub(r'!', 't', text)  # Convert remaining ! to t
+    text = re.sub(r'5i', 'ti', text)  # Convert back, now it's "ti"
+    text = re.sub(r'ti-1', '6-1', text)  # Fix "ti-1" -> "6-1"
+    
+    # Common letter/number confusions in dosages (do early)
+    text = re.sub(r'\b1\s*0\s*-\s*/\s*0', '10-20', text)  # "1 0-/0" or "10-/0" -> "10-20"
+    text = re.sub(r'\b([12]?\d)-/0', r'\1-20', text)  # "X-/0" -> "X-20"  
+    text = re.sub(r'/0mg', '20mg', text)  # "/0mg" -> "20mg"
+    text = re.sub(r'\b1 OO\s*(?=mg|mcg|ml|kg)', '100', text)
+    text = re.sub(r'\b1 O\s*(?=mg|mcg|ml|kg)', '10', text)
+    text = re.sub(r'\b0\s*\.\s*1\b', '0.1', text)
+    text = re.sub(r'\b0\s*\.\s*2\b', '0.2', text)
+    text = re.sub(r'\b0\s*\.\s*5\b', '0.5', text)
+    text = re.sub(r'\b1\s*\.\s*0\b', '1.0', text)
+    text = re.sub(r'\b2\.\s*5', '2.5', text)
+    
+    # Time intervals cleanup
     text = re.sub(r'\b8-24ft\b', '8-24H', text)
     text = re.sub(r'\b6-12JI\b', '6-12H', text)
     text = re.sub(r'\b4wl<\b', '4wk', text)
-    text = re.sub(r'\bl2hr\b', '12hr', text)
-    text = re.sub(r'\b4H\b', '4H', text)
+    text = re.sub(r'\b2wl<\b', '2wk', text)
+    text = re.sub(r'\b(\d+)wl<\b', r'\1wk', text)
+    text = re.sub(r'\bwl<\b', 'wk', text)
+    text = re.sub(r'\b(\d+)hr\b', r'\1H', text)  # Standardize to H
+    text = re.sub(r'\b21lr\b', '2hr', text)
+    text = re.sub(r'\b241lr\b', '24hr', text)
     
-    # Special characters and symbols
-    text = re.sub(r'\\u00b7', '-', text)  # Middle dot to hyphen
-    text = re.sub(r'~', '-', text)  # Tilde to hyphen
-    text = re.sub(r'­', '', text)  # Soft hyphen removal
+    # Fix "See X" references
+    text = re.sub(r'\bSee\s+([a-z])', r'See \1', text)
+    text = re.sub(r'\bSec\s+', 'See ', text)
+    text = re.sub(r'\bSoo\s+', 'See ', text)
+    text = re.sub(r'\bSeu\s+', 'See ', text)
     
+    # Clean up common garbage patterns
+    text = re.sub(r'\b[A-Z]{1}\\\\\w+\b', '', text)  # Remove patterns like "A\\dtJit"
+    text = re.sub(r'\\u00b7', '-', text)
+    text = re.sub(r'~', '-', text)
+    text = re.sub(r'--+', '-', text)
+    
+    # Remove soft hyphens and other invisible characters
+    text = re.sub(r'[\u00ad\u200b\u200c\u200d]', '', text)
+    
+    # Remove obvious garbage patterns
+    text = re.sub(r'\$\d+\.\d+\s+\+\s+po;;lnqc.*?drugd?u?sos\.com', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'from\s+oniom.*?drugdosos\.com', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'ordors@.*?\.com', '', text)
+    text = re.sub(r'Pane\s+\d+', '', text)
+    text = re.sub(r'turnourlysis:', 'tumour lysis:', text)
+    
+    # Fix double periods
+    text = re.sub(r'\.\.+', '.', text)
+    
+    # Normalize whitespace
     text = re.sub(r'\s+', ' ', text)
-    return text.strip()
+    text = re.sub(r'\s+\.', '.', text)
+    text = re.sub(r'\.\s+\.', '.', text)
     
-    # Fix "Abaca vir" -> "Abacavir" type errors (risky, be careful)
-    # text = re.sub(r'([A-Z][a-z]+)\s([a-z]+)', r'\1\2', text) # Too risky
-    
-    text = re.sub(r'\s+', ' ', text)
     return text.strip()
 
+def is_valid_drug_name(name):
+    """Check if a name looks like a valid drug name"""
+    # Must have letters
+    if not any(c.isalpha() for c in name):
+        return False
+    
+    # Not too long or too short
+    if len(name) < 2 or len(name) > 100:
+        return False
+    
+    # Not too many special characters
+    if name.count('.') > 3 or name.count('\\') > 0:
+        return False
+    
+    # Check for gibberish patterns
+    gibberish_patterns = [
+        r'\\[a-zA-Z]+',  # Backslash commands
+        r'[^\x00-\x7F]{3,}',  # Multiple non-ASCII characters in a row
+        r'\d{5,}',  # Too many digits
+        r'[^a-zA-Z0-9\s\-\+\(\),\.]{3,}',  # Too many special chars
+    ]
+    
+    for pattern in gibberish_patterns:
+        if re.search(pattern, name):
+            return False
+    
+    return True
+
+def is_valid_dosage(dosage):
+    """Check if dosage text looks valid"""
+    if not dosage:
+        return True  # Empty dosage is okay for cross-references
+    
+    if len(dosage) < 3:
+        return False
+    
+    # Check for excessive gibberish
+    # Count non-standard characters
+    clean = re.sub(r'[a-zA-Z0-9\s\-\+\(\),\.\:/]', '', dosage)
+    if len(clean) > len(dosage) * 0.3:  # More than 30% gibberish
+        return False
+    
+    return True
+
 def parse_frank_shann(file_path):
-    with open(file_path, 'r') as f:
+    with open(file_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
 
     parsed_data = []
@@ -91,10 +226,12 @@ def parse_frank_shann(file_path):
         'Its', 'Our', 'Their', 'NB', 'IV', 'IM', 'SC', 'PO', 'PR', 'PV', 'SL', 'TOP', 'INH', 'NEB', 'Contents',
         'Drug', 'Doses', 'Infusion', 'Rates', 'Table', 'Haemofiltration', 'Cytochrome', 'Alveolar', 'Muscle',
         'Pacemaker', 'Intravenous', 'Haematology', 'Fluid', 'Dialysis', 'Ventilation', 'Immunisation', 'Antibiotic',
-        'Normal', 'Values', 'Resuscitation', 'Pharmacokinetic', 'Prophylaxis', 'Treatment', 'Loading', 'Maintenance'
+        'Normal', 'Values', 'Resuscitation', 'Pharmacokinetic', 'Prophylaxis', 'Treatment', 'Loading', 'Maintenance',
+        'Severe', 'Slow', 'Extended', 'Newborn', 'NOT'
     }
 
     start_processing = False
+    skipped_count = 0
     
     for line in lines:
         line = line.strip()
@@ -108,10 +245,15 @@ def parse_frank_shann(file_path):
         if not start_processing:
             continue
 
+        # Skip obvious junk lines
         if '=== PAGE' in line or '$9.95' in line or 'drugdoses.com' in line or line.isdigit():
             continue
+        
+        # Skip lines that are clearly page numbers or headers
+        if re.match(r'^\d+$', line) or len(line) > 500:
+            continue
             
-        # OCR cleanup
+        # OCR cleanup for malformed starts
         if line.startswith('1\\') or line.startswith('|'):
              line = 'A' + line[2:]
         
@@ -119,24 +261,27 @@ def parse_frank_shann(file_path):
         is_new_entry = False
         first_word = line.split(' ')[0].strip('.,:;()')
         
-        # Heuristic 1: "Name." pattern
-        if first_word and first_word[0].isupper() and first_word not in NON_DRUG_STARTS:
-            if re.match(r'^[A-Z][a-zA-Z0-9\+\-\s\(\)]{2,60}?(\.|:)\s', line):
+        # Improved heuristics for drug name detection
+        if first_word and len(first_word) > 1 and first_word[0].isupper() and first_word not in NON_DRUG_STARTS:
+            # Pattern 1: "Name. dosage..."
+            if re.match(r'^[A-Z][a-zA-Z0-9\+\-\s\(\)]{2,60}?(\.|\:)\s', line):
                 is_new_entry = True
+            # Pattern 2: Combination drugs with +
             elif '+' in line and len(line.split('+')[0]) < 50 and not line.startswith('Adult'):
                  is_new_entry = True
-            elif len(line) < 60 and not any(c in line for c in ['=', '>', '<']) and line.endswith('.'):
+            # Pattern 3: Short capitalized line ending with period
+            elif len(line) < 60 and line.endswith('.') and not any(word in line for word in ['Adult', 'NOT/kg']):
                  is_new_entry = True
 
         if is_new_entry:
-            # Handle split
+            # Handle split between name and dosage
             if '.' in line:
                 parts = line.split('.', 1)
                 name = parts[0].strip()
                 dosage = parts[1].strip() if len(parts) > 1 else ""
                 
-                # Validation
-                if len(name) > 80:
+                # Validation: name shouldn't be too long
+                if len(name) > 80 or not is_valid_drug_name(name):
                     is_new_entry = False
             else:
                 name = line
@@ -153,29 +298,22 @@ def parse_frank_shann(file_path):
         if not is_new_entry:
             if current_entry:
                 # Check for "hidden" drug entry in this line (merged by OCR)
-                # Look for pattern: ". Name. "
-                # e.g. "...eye. Acetylcysteine. Liver failure..."
-                
-                # We split by ". " and check if any part looks like a drug name
-                # This is risky but necessary for merged lines
-                
-                # Only try this if the line contains a potential drug name pattern
-                potential_split = re.search(r'\.\s+([A-Z][a-z]{3,20})\.\s', line)
+                # Look for pattern: ". Name. " where Name is capitalized
+                potential_split = re.search(r'\.\s+([A-Z][a-z]{3,30})\.\s', line)
                 if potential_split:
                     possible_name = potential_split.group(1)
-                    if possible_name not in NON_DRUG_STARTS:
-                        # Found a split!
-                        # Split the line
+                    if possible_name not in NON_DRUG_STARTS and is_valid_drug_name(possible_name):
+                        # Found a merged entry - split it
                         pre_split = line[:potential_split.start()+1]
                         post_split = line[potential_split.start()+1:].strip()
                         
-                        # Add pre_split to current
+                        # Add pre_split to current entry
                         if current_entry['dosage']:
                             current_entry['dosage'] += " " + pre_split
                         else:
                             current_entry['dosage'] = pre_split
                             
-                        # Create new entry
+                        # Create new entry from post_split
                         parts = post_split.split('.', 1)
                         new_name = parts[0].strip()
                         new_dosage = parts[1].strip() if len(parts) > 1 else ""
@@ -186,52 +324,61 @@ def parse_frank_shann(file_path):
                             "dosage": new_dosage
                         }
                         parsed_data.append(current_entry)
-                        continue # Done with this line
+                        continue
 
+                # Append to current entry's dosage
                 if current_entry['dosage']:
                     current_entry['dosage'] += " " + line
                 else:
                     current_entry['dosage'] = line
-            else:
-                pass
 
-    # Post-processing
+    # Post-processing and validation
     final_data = []
+    rejected_count = 0
+    
     for entry in parsed_data:
-        if len(entry['name']) < 2: continue
-        if entry['name'] in NON_DRUG_STARTS: continue
-        
-        entry['dosage'] = clean_text(entry['dosage'])
+        # Clean the text
         entry['name'] = clean_text(entry['name'])
+        entry['dosage'] = clean_text(entry['dosage'])
+        
+        # Validate entry
+        if not is_valid_drug_name(entry['name']):
+            rejected_count += 1
+            continue
+            
+        if not is_valid_dosage(entry['dosage']):
+            rejected_count += 1
+            continue
+        
+        # Skip entries in the NON_DRUG_STARTS list
+        if entry['name'] in NON_DRUG_STARTS:
+            rejected_count += 1
+            continue
         
         # Fix common drug name OCR errors
         name_fixes = {
             "Abaca vir": "Abacavir",
-            "Abalacept": "Abatacept",
+            "Abalacept": "Abatacept", 
             "Ace!ylcysteinu": "Acetylcysteine",
-            "Acetyl<:ysteine": "Acetylcysteine",
-            "zidovudine": "zidovudine",  # Keep lowercase for now
-            "idovudine": "zidovudine"
+            "Acetylcysteine": "Acetylcysteine",
+            "Acyclovir": "Aciclovir",
+            "AlbuteroL": "Albuterol",
         }
         
         for wrong, correct in name_fixes.items():
             if wrong in entry['name']:
                 entry['name'] = entry['name'].replace(wrong, correct)
         
-        # Remove entries that are clearly fragments or junk
-        if len(entry['name']) > 100:  # Too long to be a drug name
-            continue
-        if entry['name'].count('.') > 3:  # Too many periods
-            continue
-        if not any(c.isalpha() for c in entry['name']):  # No letters
-            continue
-            
         final_data.append(entry)
-            
-    with open('frank_shann_data.json', 'w') as f:
-        json.dump(final_data, f, indent=4)
-        
-    print(f"Extracted {len(final_data)} entries.")
+    
+    # Save to file
+    output_file = 'src/frankShannData.json'
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(final_data, f, indent=4, ensure_ascii=False)
+    
+    print(f"✓ Extracted {len(final_data)} entries")
+    print(f"✓ Rejected {rejected_count} invalid entries")
+    print(f"✓ Output saved to {output_file}")
 
 if __name__ == "__main__":
     parse_frank_shann('frank_shann_extracted.txt')
