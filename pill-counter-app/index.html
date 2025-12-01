@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Pill Counter</title>
+    <meta name="description" content="Count pills automatically using AI-powered object detection">
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- PWA Setup -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#2563eb">
+    <link rel="apple-touch-icon" href="Pill-Counter-icon-logo.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+</head>
+
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1>
+                    <span class="icon">💊</span>
+                    AI Pill Counter
+                </h1>
+                <p class="subtitle">Powered by YOLOv8 Object Detection</p>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Control Panel -->
+            <div class="control-panel">
+                <div class="upload-section">
+                    <h2>Upload Image</h2>
+                    <div class="file-input-wrapper">
+                        <input type="file" id="fileInput" accept="image/*" class="file-input">
+                        <label for="fileInput" class="file-input-label">
+                            <span class="icon">📁</span>
+                            Choose File
+                        </label>
+                        <span id="fileName" class="file-name">No file chosen</span>
+                    </div>
+                </div>
+
+                <div class="divider">
+                    <span>OR</span>
+                </div>
+
+                <div class="camera-section">
+                    <h2>Use Camera</h2>
+                    <button id="cameraBtn" class="btn btn-camera">
+                        <span class="icon">📷</span>
+                        Activate Camera
+                    </button>
+                    <button id="captureBtn" class="btn btn-capture" style="display: none;">
+                        <span class="icon">📸</span>
+                        Capture & Detect
+                    </button>
+                    <button id="stopCameraBtn" class="btn btn-secondary" style="display: none;">
+                        <span class="icon">⏹️</span>
+                        Stop Camera
+                    </button>
+                </div>
+
+                <button id="detectBtn" class="btn btn-primary" disabled>
+                    <span class="icon">🔍</span>
+                    Detect Pills
+                </button>
+            </div>
+
+            <!-- Results Section -->
+            <div class="results-section">
+                <!-- Pill Count Display -->
+                <div id="pillCountDisplay" class="pill-count-display" style="display: none;">
+                    <div class="count-label">Total Pills Detected</div>
+                    <div id="pillCount" class="count-number">0</div>
+                    <div id="confidenceAvg" class="confidence-info"></div>
+                </div>
+
+                <!-- Loading Spinner -->
+                <div id="loadingSpinner" class="loading-spinner" style="display: none;">
+                    <div class="spinner"></div>
+                    <p>Detecting pills...</p>
+                </div>
+
+                <!-- Image Display Area -->
+                <div class="image-container">
+                    <div class="canvas-wrapper">
+                        <video id="cameraStream" class="camera-stream" autoplay playsinline
+                            style="display: none;"></video>
+                        <canvas id="canvas" class="canvas"></canvas>
+                        <canvas id="overlay" class="overlay-canvas"></canvas>
+                    </div>
+                    <div id="placeholder" class="placeholder">
+                        <span class="placeholder-icon">🖼️</span>
+                        <p>Upload an image or use camera to start</p>
+                    </div>
+                </div>
+
+                <!-- Detection Details Removed -->
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>
+                Built with ❤️ using YOLOv8 & Roboflow |
+                <a href="https://roboflow.com" target="_blank">Learn More</a>
+            </p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
