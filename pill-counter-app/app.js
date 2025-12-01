@@ -202,13 +202,21 @@ async function detectPills() {
         return;
     }
 
-    // Show loading
+    // Show loading with initial status
+    updateLoadingStatus('Preparing image...');
     showLoading();
     resetResults();
 
+    // Start performance timing
+    const perfStart = performance.now();
+    console.log('🕐 Detection started');
+
     try {
         // Resize image and convert to base64
+        const resizeStart = performance.now();
         const { base64: base64Image, dataUrl, width: inferenceWidth, height: inferenceHeight } = await resizeImage(selectedFile);
+        const resizeEnd = performance.now();
+        console.log(`📐 Image resize took: ${(resizeEnd - resizeStart).toFixed(0)}ms (Size: ${inferenceWidth}x${inferenceHeight})`);
 
         // UPDATE UI: Show the exact image being sent to the model
         // This ensures coordinates align perfectly (What You See Is What You Detect)
@@ -229,8 +237,11 @@ async function detectPills() {
         const apiUrl = `${ROBOFLOW_API_URL}/${ROBOFLOW_MODEL_ID}?api_key=${ROBOFLOW_API_KEY}&confidence=${CONFIDENCE_THRESHOLD}&overlap=${OVERLAP_THRESHOLD}`;
 
         console.log(`🔍 Sending request to Roboflow Inference API: ${ROBOFLOW_MODEL_ID}`);
+        console.log(`📦 Payload size: ${(base64Image.length / 1024).toFixed(2)} KB`);
+        updateLoadingStatus('Analyzing image...');
 
         // Make API request (POST method is preferred for base64)
+        const apiStart = performance.now();
         const response = await fetch(apiUrl, {
             method: 'POST',
             body: base64Image,
@@ -238,6 +249,8 @@ async function detectPills() {
                 'Content-Type': 'application/x-www-form-urlencoded'
             }
         });
+        const apiEnd = performance.now();
+        console.log(`🌐 API request took: ${(apiEnd - apiStart).toFixed(0)}ms`);
 
         if (!response.ok) {
             const errorText = await response.text();
@@ -245,7 +258,12 @@ async function detectPills() {
         }
 
         const data = await response.json();
-        console.log('✅ Detection complete:', data);
+        const totalEnd = performance.now();
+        console.log(`✅ Detection complete: ${(totalEnd - perfStart).toFixed(0)}ms total`);
+        console.log('📊 Breakdown:');
+        console.log(`   - Image preparation: ${(resizeEnd - resizeStart).toFixed(0)}ms`);
+        console.log(`   - API call (upload + processing + download): ${(apiEnd - apiStart).toFixed(0)}ms`);
+        console.log(`   - Total: ${(totalEnd - perfStart).toFixed(0)}ms`);
 
         // Process and display results (No scaling needed now!)
         processInferenceResults(data);
@@ -269,7 +287,7 @@ function resizeImage(file) {
         reader.onload = (e) => {
             const img = new Image();
             img.onload = () => {
-                const maxDim = 640;
+                const maxDim = 416; // Reduced to 416px for faster upload
                 let width = img.width;
                 let height = img.height;
 
@@ -292,7 +310,8 @@ function resizeImage(file) {
                 ctx.drawImage(img, 0, 0, width, height);
 
                 // Get Data URL (full string)
-                const dataUrl = canvas.toDataURL('image/jpeg', 0.8);
+                // Reduced quality to 0.5 for faster upload
+                const dataUrl = canvas.toDataURL('image/jpeg', 0.5);
                 // Get Base64 (without prefix)
                 const base64 = dataUrl.split(',')[1];
 
@@ -378,6 +397,13 @@ function showLoading() {
 function hideLoading() {
     loadingSpinner.style.display = 'none';
     detectBtn.disabled = false;
+}
+
+function updateLoadingStatus(text) {
+    const p = loadingSpinner.querySelector('p');
+    if (p) {
+        p.textContent = text;
+    }
 }
 
 function resetResults() {
