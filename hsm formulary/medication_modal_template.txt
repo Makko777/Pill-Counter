@@ -1,0 +1,132 @@
+// Medication Detail Modal Component
+// This will replace the section modal - showing dosing, contraindications, etc.
+
+{/* Medication Detail Modal */}
+<Modal isOpen={!!selectedMedication} onClose={() => setSelectedMedication(null)}>
+    {selectedMedication && (
+        <div className="bg-white dark:bg-slate-800 w-full">
+            {/* Modal Header */}
+            <div className="px-5 md:px-6 py-4 md:py-5 border-b border-slate-100 dark:border-slate-700 bg-purple-50 dark:bg-purple-900/20">
+                <div className="flex items-start gap-3 mb-2">
+                    <Syringe size={24} className="text-purple-600 dark:text-purple-400 flex-shrink-0 mt-1" />
+                    <div className="flex-1 min-w-0">
+                        <h2 className="text-xl md:text-2xl font-bold text-slate-900 dark:text-slate-100 leading-tight">
+                            {selectedMedication.name}
+                        </h2>
+                        <p className="text-sm text-slate-600 dark:text-slate-400 mt-1">{selectedMedication.category}</p>
+                    </div>
+                </div>
+                <div className="flex flex-wrap gap-2">
+                    {selectedMedication.indications.map((indication, idx) => (
+                        <Badge key={idx} type="default">{indication}</Badge>
+                    ))}
+                </div>
+            </div>
+
+            {/* Modal Content */}
+            <div className="p-5 md:p-6 space-y-4 max-h-[60vh] overflow-y-auto">
+                {/* Dosing Information */}
+                <div>
+                    <h3 className="text-sm font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider mb-3">Dosing Information</h3>
+                    <div className="space-y-3 bg-slate-50 dark:bg-slate-700/50 rounded-lg p-4">
+                        {Object.entries(selectedMedication.dosing).map(([key, value]) => (
+                            <div key={key} className="border-b border-slate-200 dark:border-slate-600 last:border-0 pb-3 last:pb-0">
+                                <h4 className="text-sm font-bold text-purple-700 dark:text-purple-300 mb-2 capitalize">
+                                    {key.replace(/_/g, ' ')}
+                                </h4>
+                                {typeof value === 'object' ? (
+                                    <div className="space-y-1 text-xs text-slate-700 dark:text-slate-300">
+                                        {Object.entries(value).map(([subKey, subValue]) => (
+                                            <p key={subKey} className="leading-relaxed">
+                                                <strong className="text-slate-900 dark:text-slate-100">{subKey.replace(/_/g, ' ')}:</strong> {subValue}
+                                            </p>
+                                        ))}
+                                    </div>
+                                ) : (
+                                    <p className="text-sm text-slate-700 dark:text-slate-300">{value}</p>
+                                )}
+                            </div>
+                        ))}
+                    </div>
+                </div>
+
+                {/* Routes */}
+                {selectedMedication.route && (
+                    <div>
+                        <h3 className="text-sm font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider mb-2">Routes of Administration</h3>
+                        <div className="flex flex-wrap gap-2">
+                            {selectedMedication.route.map((route, idx) => (
+                                <span key={idx} className="text-xs bg-blue-50 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 px-3 py-1 rounded-full font-medium">
+                                    {route}
+                                </span>
+                            ))}
+                        </div>
+                    </div>
+                )}
+
+                {/* Contraindications */}
+                {selectedMedication.contraindications && (
+                    <div>
+                        <h3 className="text-sm font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider mb-2">Contraindications</h3>
+                        <div className="bg-red-50 dark:bg-red-900/20 border border-red-200 dark:border-red-800 rounded-lg p-3">
+                            <ul className="text-xs text-red-800 dark:text-red-300 space-y-1">
+                                {selectedMedication.contraindications.map((contra, idx) => (
+                                    <li key={idx}>• {contra}</li>
+                                ))}
+                            </ul>
+                        </div>
+                    </div>
+                )}
+
+                {/* Monitoring */}
+                {selectedMedication.monitoring && (
+                    <div>
+                        <h3 className="text-sm font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider mb-2">Monitoring</h3>
+                        <div className="flex flex-wrap gap-2">
+                            {selectedMedication.monitoring.map((item, idx) => (
+                                <span key={idx} className="text-xs bg-amber-50 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300 px-3 py-1 rounded-full">
+                                    {item}
+                                </span>
+                            ))}
+                        </div>
+                    </div>
+                )}
+
+                {/* Side Effects */}
+                {selectedMedication.sideEffects && (
+                    <div>
+                        <h3 className="text-sm font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider mb-2">Common Side Effects</h3>
+                        <div className="bg-yellow-50 dark:bg-yellow-900/20 border border-yellow-200 dark:border-yellow-800 rounded-lg p-3">
+                            <ul className="text-xs text-yellow-800 dark:text-yellow-300 space-y-1">
+                                {selectedMedication.sideEffects.map((effect, idx) => (
+                                    <li key={idx}>• {effect}</li>
+                                ))}
+                            </ul>
+                        </div>
+                    </div>
+                )}
+
+                {/* Additional Notes */}
+                {selectedMedication.notes && (
+                    <div>
+                        <h3 className="text-sm font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider mb-2">Additional Notes</h3>
+                        <p className="text-xs text-slate-700 dark:text-slate-300 bg-slate-50 dark:bg-slate-700/50 p-3 rounded-lg">
+                            {selectedMedication.notes}
+                        </p>
+                    </div>
+                )}
+            </div>
+
+            {/* Footer */}
+            <div className="px-5 md:px-6 py-4 bg-slate-50 dark:bg-slate-800/50 border-t border-slate-100 dark:border-slate-700 flex gap-3">
+                <button
+                    onClick={openPDF}
+                    className="flex-1 bg-purple-600 hover:bg-purple-500 text-white px-4 py-2.5 rounded-lg font-bold transition-all flex items-center justify-center gap-2"
+                >
+                    <FileText size={16} />
+                    View Full Protocol
+                </button>
+            </div>
+        </div>
+    )}
+</Modal>

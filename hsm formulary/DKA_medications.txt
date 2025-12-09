@@ -1,0 +1,270 @@
+
+=== PAGE 329 ===
+
+312 313
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 10        ENDOCRINOLOGY• Clinical features suggesting of CH:
+• Sluggishness 
+• Constipation 
+• Hoarseness of voice 
+• Poor weight gain 
+• Dry skin 
+• Prolonged neonatal jaundice 
+• Macroglossia 
+• Umbilical hernia 
+• Cold extremities 
+• Wide posterior fontanelle (normal 0.5 x 0.5cm)
+• Goitre 
+*Beware that majority of newborns with CH do not manifest clinical features at birth until 3 — 6 
+months later. 
+• Obtain history of risk factors for CH (maternal history of thyroid disease; use of anti-thyroid drug; 
+excessive iodine intake e.g. seaweed; maternal iodine deficiency; parental consanguinity; family history 
+of thyroid disease; prematurity; low birth weight infant; use of iodine antiseptic solutions).
+• Other physical examinations include:
+• Growth parameters
+• Dysmorphic features
+• Features of pituitary hormones deficiency (central hypothyroidism) 
+• Congenital malformation e.g. facial midline defect (cleft lip, cleft palate, nasal encephalocele), 
+cardiac abnormality particularly atrial and ventricular septal defects, urogenital abnormalities. 
+• The venous TFT at Day 4-6 is confirmatory in most cases for diagnosis of CH. Please refer to figure 2  for 
+interpretation and recommendation of actions. For some special categories of babies, please refer to 
+section on  Special Categorie s. 
+• FT4 and TSH should not be interpreted in isolation of each other. 
+• The suggested thresholds of FT4 in the recommendations are based on expert opinion and only to 
+serve as a guide. An elevated TSH is often the primary determinant in deciding treatment for  primary  
+hypothyroidism. 
+• In some cases where the results are equivocal, a decision to repeat the test and monitor is a reasonable 
+option after discussion with the parents.Clinical evaluation 
+Diagnosis 1,3
+
+=== PAGE 330 ===
+
+314
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 10       ENDOCRINOLOGY• Treatment should be started as soon as diagnosis is made. Treatment initiation within 2 weeks of life 
+had shown restoration to near-normal IQ in moderate and severe CH. 
+• Levothyroxine (LT4) is the treatment of choice for CH. A brand LT4 rather than a generic formulation is 
+recommended.
+• An initial dose of LT4 at 10-15 mcg/kg/day (maximum 50 mcg/day) is recommended, the lowest dose 
+for mild disease and higher dose for severe disease.
+• Mild CH (FT4 > 10 pmol/L)                    10 mcg/kg/day 
+• Moderate CH (FT4 5–10 pmol/L)         10 mcg/kg/day
+• Severe CH (FT4 <5 pmol/L)                   15 mcg/kg/day
+• Subclinical CH                                          5-10 mcg/kg/day 
+• LT4 should be administered orally in tablet form. LT4 in suspension or syrup form is not recommended. 
+• LT4 tablets can be crushed, mixed in small amount of water or milk, and served using a spoon. LT4 
+should not be served in a milk-bottle. 
+• LT4 is administered in a single daily dose and at a consistent timing every day to ensure compliance. It 
+is recommended to take the medication in the morning upon awakening for all ages (expert consensus 
+opinion). 
+• LT4 can be taken before, with or after food. However, intake of soy, iron or calcium supplementation 
+within an hour of LT4 administration should be avoided.
+• Serum FT4 and TSH should be measured before, or at least 4 hours after the last LT4 administration. 
+• Frequency of TFT monitoring:
+• After initiation of LT4, the first clinical and biochemical follow-up should be 1-2 weeks later. If the 
+initial dose of LT4 is close to 15 mcg/kg/ day or 50 mcg/day, follow-up should be within 1 week of 
+treatment initiation.
+• Subsequent clinical and biochemical evaluation should be every 2 weeks until TSH normalises. 
+• Thereafter, the evaluation can be reduced to every 1 to 3 months until the age of 12 months. 
+• Between the ages of 1 and 3 years, the frequency of evaluations can be lowered to every 2 to 4 
+months; thereafter, every 3 to 6 months until growth is completed. 
+• TSH normalises slower compared to FT4. The aim is to achieve normalisation of FT4 within 2 weeks of 
+treatment, followed by normalisation of TSH within 4 weeks of treatment.
+• Serum concentration of TSH should be kept within the age-specific reference range and FT4 in the 
+upper half of the age-specific reference range. Over-suppression of TSH to <0.5 mIU/L should be 
+avoided. 
+• FT4 and TSH should be interpreted together in deciding adjustment of LT4 dose. 
+• Evaluations should be performed at more frequent intervals if there is abnormal FT4 or TSH level, or if 
+compliance is questioned. 
+• After any change in LT4 dose or LT4 formulation, extra follow-up evaluations should be done 4 to 6 
+weeks later until FT4 and TSH are normalised. 
+• Monitoring for  long term outcomes  includes: 
+• Psychomotor and speech development
+• Hearing test before school age 
+• Growth and puberty
+• Compliance to treatment, which is important to future cardiovascular health and pregnancy 
+outcome.Treatment 
+Monitoring of treatment 
+
+=== PAGE 331 ===
+
+314 315
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 10        ENDOCRINOLOGY• All babies treated for CH will need to be re-evaluated to determine if the CH is permanent or transient 
+and to establish a possible aetiology. 
+• Re-evaluation is done at or after 3 years of age when myelination in the central nervous system is 
+complete.4 
+• At re-evaluation, LT4 is stopped for 4 weeks or phased out over 4-6 weeks. At the end of this period, 
+venous FT4 and TSH are measured:
+• If FT4 & TSH are within the normal reference range — LT4 replacement is discontinued and 
+TFT monitored for the next 6 months. If TFT remains normal after 6 months, the patient can be 
+discharged. 
+• If TSH is >10mIU/L — this likely indicates permanent CH. LT4 replacement is resumed, and the 
+patient continues regular follow-up. 
+• If TSH is <10 mIU/L, but more than upper limit of reference range and FT4 normal — withhold 
+LT4 treatment for another 3-4 weeks and FT4 & TSH are re-tested. Long term LT4 replacement is 
+indicated if there is structural abnormality of the thyroid gland, or TSH increases to >10 mIU/L, or 
+FT4 falls to below the reference range for age, or there are symptoms and signs of hypothyroidism. 
+• Early re-evaluation can be done at or after the age of 6 months in a CH child who has been known to 
+have a gland-in-situ (GIS), and requires a low thyroxine dose of less than 3 mcg/kg/day at the age of 6 
+months, as they are likely to have a transient form of CH.
+• Re-evaluation may not be required if venous TSH has been persistently >10 mIU/L after 1 year of age 
+despite thyroxine replacement, as this most likely indicates a permanent form of CH. 
+• In patient confirmed to have permanent form of CH at re-evaluation, thyroid ultrasonography is useful 
+to determine the presence, location and anatomy of the thyroid gland. However, its accuracy is operator 
+dependent.
+• Thyroid scintigraphy may also be considered as it is a more reliable imaging modality to determine the 
+aetiology of CH, especially in thyroid ectopia and certain cases of dyshormonogenesis.
+The following groups of neonates are at high risk for later development of congenital hypothyroidism 
+post-screening. Even though they may have a normal screening tests, it is recommended to have their TFT 
+repeated.1 
+• Sick neonates  
+• Include newborns with perinatal asphyxia, sepsis, those who require respiratory or cardiovascular 
+support, or have undergone major surgical procedures. 
+• To repeat at 2 weeks after recovery from acute illness.
+• Preterm infants below 37 weeks gestation / low birth weight below 2.5kg
+• For late preterms who are not admitted or have a short stay in hospital, TFT should be repeated 2 
+weeks after initial screening. This may be done as outpatient or at the Maternal and Child Health 
+Clinic (MCHC) nearest to their homes. 
+• For those who have prolonged stay in hospital, TFT should be repeated at 2 weekly interval until 
+discharge and 2 weeks post discharge. In hospital with neonatologists or paediatrician, the interval 
+to repeat these tests can be based on the clinical judgement and discretion of attending specialists. 
+• LT4 therapy of isolated hypothyroxinaemia without clear elevation of TSH is not recommended. 
+• Down syndrome  
+• TFT should be repeated at 3-4 weeks of life, even if the newborn screening result is normal. 
+• Multiple births  
+• Re-testing of TFT should be done in monozygotic twins at 14 days of life. Due to mixing of foetal 
+blood, the affected infant may not be detected by the initial newborn screening. Re-evaluation of thyroid function in congenital hypothyroidism
+Special considerations
+
+=== PAGE 332 ===
+
+316
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 10       ENDOCRINOLOGY• Infant of mother with autoimmune thyroid disease (AITD)  
+• TFT to be repeated at day 4 – 6 and at day 10 – 14 of life. 
+• As the transplacental maternal autoantibodies persist for 3 — 6 months in the affected babies, 
+newborns treated for CH due to maternal AITD should be monitored for at least 6 months. The dose 
+of LT4 should be titrated against the TFT and tapered accordingly. 
+• Congenital central hypothyroidism (CCH)
+• Our TSH-based neonatal screening for CH will miss CCH where TSH is inappropriately low with a 
+low FT4. CCH is much rarer compared to congenital primary hypothyroidism, but delayed diagnosis 
+and treatment will result in severe consequences as well. Besides, majority of CCH (74-84%) is also 
+associated with multiple pituitary hormone deficiencies. 
+• Newborns with the following features are at risk of CCH: 
+• Facial mid-line defect e.g. cleft palate or cleft lip, nasal encephalocoele
+• Symptoms and signs of pituitary hormones deficiency in a neonate e.g. intractable 
+hypoglycaemia, prolonged cholestatic jaundice, micropenis 
+• Ocular abnormality e.g. optic nerve hypoplasia 
+• All newborns at risk of CCH should be recalled for re-test of venous FT4 and TSH at day 4-6, 
+regardless of their initial screening results, and followed up accordingly.
+• Newborns with symptoms and signs suggestive of pituitary hormone deficiencies should have 
+FT4 and TSH checked, in addition to other pituitary hormones. 
+• In babies with CCH and concomitant ACTH deficiency, adequate glucocorticoid replacement 
+should precede LT4 treatment to prevent adrenal crisis. 
+• The starting dose of LT4 is the same as in primary hypothyroidism. Treatment is monitored by 
+measuring FT4 and TSH and aim to keep FT4 in the upper half of the age-specific reference 
+range.
+
+=== PAGE 333 ===
+
+316 317
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 10        ENDOCRINOLOGY
+*In special circumstances such as in disadvantage families, logistic problems etc. 
+Figure 1: Cord blood TSH interpretation and recall of patients 
+
+=== PAGE 334 ===
+
+318
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 10       ENDOCRINOLOGYFigure 2: Interpretation of TFT at recall and decision to initiate treatment 
+Adapted from Consensus Guidelines on Screening, Diagnosis and 
+Management of Congenital Hypothyroidism in Malaysia, November 2021.
+
+
+=== PAGE 335 ===
+
+318 319
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 10        ENDOCRINOLOGYTable 1: Symptoms and Signs of Diabetes MellitusChapter 60:
+Diabetes Mellitus  
+• Type 1 diabetes mellitus (T1DM) is the most common type of diabetes mellitus in children and 
+adolescents. The incidence of type 2 diabetes mellitus (T2DM) is on the rising trend among adolescents 
+due to obesity. 
+• Monogenic diabetes or MODY is a familial form of diabetes that usually presents with a mild, non-
+ketotic diabetes presenting during adolescence or early adulthood. 
+• Neonatal diabetes should be suspected in infants less than 1 year old. 
+• Regardless of the type of diabetes, any child with severe hyperglycemia, ketonemia and metabolic 
+abnormalities will initially require insulin therapy.
+• The diagnosis of diabetes mellitus in children and adolescents should be made based on clinical 
+features and biochemical criteria (Refer Table 2: World Health Organization diagnostic criteria*). 
+• Autoantibodies testing (glutamic acid decarboxylase antibody, anti-islet antibody, insulin autoantibodies 
+and protein tyrosine phosphatase antibody, (other autoantibodies may be done if available) to confirm 
+the diagnosis of T1DM 
+• The diagnosis must be confirmed by repeat blood glucose testing in the absence of unequivocal 
+hyperglycaemia. 
+• The role of HbA1c alone in the diagnosis of diabetes mellitus remains unclear and diabetes cannot be 
+excluded when the value is <6.5%. Introduction 
+Diagnosis of T1DM 
+Symptom and Signs Diabetes Melitus
+Polydipsia
+Polyuria
+Weight loss
+Enurlesis (secondary)Vomiting
+Dehydration
+Abnormal pain
+Hypervenilation due to acidosis
+Drowsiness, coma
+Diagnostic criteria of Diabetes Mellitus
+• Classic symptomsa of diabetes or hyperglycaemic crisis, with plasma glucose concentration > 11.1 
+mmol/L
+OR
+• Fasting plasma glucoseb > 7.0 mmol/L
+OR
+• Two hour post-load glucose > 11.1 mmol/L in OGTTc
+OR
+• HbA1c >6.5%d
+classic symptoms consist of thirst, polyuria, polydipsia, recurrent infection and weight loss.
+Fasting is defined as no caloric intake for at least eight hours.
+The test should be perfomed using a glucose load containing the equivalent of 75 g anhydrous glucose 
+dissolved in water or 1.75 g/kg of body weight to a maximum of 75 g.
+The test should be perfomed in a laboratory using a method that is National Glycohaemoglobin 
+Standardisation Programme certified and standardised to the Diabetes Control and Complications Trial 
+(DCCT) assaya
+b
+c
+dTable 2: WHO diagnostic criteria of Diabetes Mellitus
+
+=== PAGE 336 ===
+
+320
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 10       ENDOCRINOLOGYTable 3: Clinical features of T1DM and T2DM. 
+T1DM T2DM
+Age of onset 6 months to young adulthood Usually pubertal or later 
+Clinical presentation Most often acute, rapid onset of symptoms Variable: often insidious onset of 
+symptoms 
+Autoimmunity Present No 
+Ketosis Common Rare 
+Body habitus Usually lean but can be overweight 
+following population frequency Often overweight/obese 
+Acanthosis nigricans Typically absent Commonly present 
+• Daily insulin dosage varies between individuals and changes over time.  
+• The basal-bolus regimen (intermediate-acting insulin/long-acting basal once or twice daily and rapid-
+acting/short-acting boluses with meals and snacks) mimics the physiological insulin secretion. 
+• Basal insulin constitutes about 30 - 50% of the total daily insulin dose (TDD) requirements; the 
+remainder is pre-prandial rapid-acting or short- acting insulin. 
+• Insulin pump therapy /continuous subcutaneous insulin infusion (CSII) offers flexibility, better metabolic 
+control and improvement in quality of life without the need for multiple insulin injections. In toddlers, 
+pump is a preferred method whenever affordable and expertise available.• During the honeymoon period (partial remission phase) total daily insulin dose is usually 0.5 IU/kg/day 
+or less
+• Prepubertal children (outside the partial remission phase) usually require insulin of 0.7–1.0 IU/kg/day.
+• During puberty, requirements may rise to 1 - 2 IU/kg/day.Management
+INTENSIVE INSULIN THERAPY Principles of insulin therapy in T1DM 
+Basal-bolus regimen 
+Pump therapy Guidelines on dosage:

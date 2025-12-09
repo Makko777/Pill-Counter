@@ -1,0 +1,222 @@
+
+=== PAGE 84 ===
+
+68
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 5         INTENSIVE CAREPOTASSIUM DISORDERS
+Hypokalaemia
+Treatment• The daily potassium requirement is 1-2mmol/kg/day.
+• Normal values of potassium are:
+• Birth - 2 weeks: 3.7 - 6.0mmol/l
+• 2 weeks – 3 months: 3.7 - 5.7mmol/l
+• 3 months and above: 3.5 - 5.0mmol/l
+• Identify and treat the underlying condition.
+• Unless symptomatic, a potassium level of 3.0-3.4 mmol/l is generally not supplemented  but rather 
+monitored.
+• The treatment of hypokalaemia will need to be individualized for each patient.
+Oral Supplementation
+• Oral Potassium chloride (KCL), to a maximum of 2 mmol/kg/day in divided doses is common 
+but more may be required in practice.
+Intravenous Supplementation (1gram KCL = 13.3 mmol KCL)
+• Potassium chloride is always given by IV infusion, NEVER by bolus injection .
+• Maximum concentration via a peripheral vein is 40 mmol/l  (concentrations of up to 60 
+mmol/l can be used with specialist advice).
+• Maximum infusion rate is 0.2mmol/kg/hour  (in non-ICU setting).
+Intravenous Correction (1gram KCL = 13.3 mmol KCL)
+• K+ < 2.5 mmol/L may be associated with significant cardiovascular compromise. In the 
+emergency situation, an IV infusion KCL may be given
+• Dose: initially 0.4 mmol/kg/hr into a central vein, until K+ level is restored.
+• Ideally this should occur in an intensive care setting.• Hypokalaemia is defined as serum K+ < 3.4 mmol/l
+(Treat if < 3.0mmol/l or clinically symptomatic and < 3.4 mmol/l)
+• Causes are:
+• Sepsis
+• Gastrointestinal losses - diarrhoea, 
+vomiting
+• Iatrogenic- e.g. diuretic therapy, 
+salbutamol, amphotericin B.
+• Diabetic ketoacidosis
+• Renal tubular acidosis
+• Hypokalaemia is often seen with chloride 
+depletion and metabolic alkalosis
+• Refractory hypokalaemia may occur with 
+hypomagnesaemia.ECG changes of Hypokalemia
+These occur when K+ < 2.5mmol/l
+Prominent U wave
+ST segment depression
+Flat, low or diphasic T waves
+Prolonged PR interval (severe hypoK+)
+Sinoatrial block (severe hypoK+)
+
+=== PAGE 85 ===
+
+68 69
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 5         INTENSIVE CAREPOTASSIUM DISORDERS
+Hyperkalaemia
+• Causes are:
+• Dehydration
+• Acute renal failure
+• Diabetic ketoacidosis
+• Adrenal insufficiency
+• Tumour lysis syndrome
+• Drugs e.g. oral potassium supplement,
+• K+ sparing diuretics, ACE inhibitors.
+• Symptoms of Hyperkalaemia:
+• Nausea and vomiting
+• Fatigue
+• Paraesthesia, muscle weakness, paralysis
+• Respiratory distress and failure
+• Palpitations, syncope, cardiac arrest
+Treatment:  Refer to Hyperkalaemia Treatment Algorithm on the next pageECG changes in Hyperkalaemia
+Tall, tented T waves.
+Prolonged PR interval.
+Prolonged QRS complex.
+Loss of P wave.
+Wide biphasic QRS.
+
+=== PAGE 86 ===
+
+70
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 5         INTENSIVE CAREHYPERKALAEMIA TREATMENT ALGORITHM
+Hyperkalaemia K+ > 5.5 mmol/L
+Drug doses:
+• IV Calcium 0.1 mmol/kg (IV Calcium gluconate 10% 0.5ml/kg - Max 20 ml or IV Calcium chloride 0.2ml/
+kg - Max 10ml). Give over2-5 minutes if unstable or 15-20 minutes if stable under cardiac monitoring.
+• Nebulised Salbutamol: 2.5-5mg, repeat as necessary.
+• IV Insulin with Glucose:
+• Start with IV Glucose 10% 5ml/kg/hr (or 20% at 2.5 ml/kg/hr). Once Blood sugar level >10mmol/l 
+and the K+ level is not falling, add IV Insulin 0.05 units/kg/hr and titrate according to glucose level.
+• IV Sodium Bicarbonate: 1-2 mmol/kg over 5 minutes if severe or over 30 minutes in mild to moderate 
+hyperkalaemia.
+• Calcium polystyrene sulfonate (Calcium Resonium) 0.3-0.6g/kg (Adult 15-30g) 6 hourly to be given 
+rectally or orally.Child unstable
+or symptomatic
+Abnormal ECG
+K+ > 7.0 mmol/L
+Discuss for dialysis
+IV Calcium
+Nebulised Salbutamol
+IV Insulin
+with glucose
+IV Bicarbonate
+± PR/PO ResoniumStop all K+ supplementation
+Stop medication causing hyperK+
+Cardiac monitoring
+Exclude pseudo hyperkalaemia
+Recheck with venous sample
+Child stable,
+asymptomatic
+Normal ECG
+6 < K+≤ 7 mmol/L
+Nebulised Salbutamol
+IV Insulin
+with glucose
+± IV Bicarbonate
+if acidosis
+± PR/PO ResoniumChild stable,
+asymptomatic
+Normal ECG
+5.5 ≤ K+ ≤ 6.0 mmol/L
+Consider treatment?
+± Nebulised Salbutamol
+± IV Bicarbonate
+if acidosis
+± PR/PO Resonium
+
+=== PAGE 87 ===
+
+70 71
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian HospitalsSection 5         INTENSIVE CAREMEDICATIONS FOR HYPERKALAEMIA
+MedicationResponse
+typeOnset of
+action
+(minutes)Duration of
+action
+(hours)Mechanism of actionExpected decrease in potassium
+level
+Calcium
+gluconaterapid 1-2 0.5-1 Protect cardiomyocytes 0.5-1.5 mEq/L
+Glucose + insulin
+Beta-agonists 
+Sodium bicarbonate
+(only in patients with 
+metabolic
+acidosis, bicarbonate
+<22mEq/L)intermediate 10-20
+3-5
+30-602-6
+1-4
+2-6Shift potassium intracellularly
+Shift potassium intracellularly
+Shift potassium intracellularly
+(questionable effect)0.5-1.5 mEq/L (dose dependent)
+Exchange resin
+Furosemide
+Haemodialysisdelayed 120-360
+5-304-6
+2-6Elimination of potassium from 
+the body
+1mmol/L in the first 60 minutes and 
+total of 2 mmol/L by 180 minutes.immediate
+
+=== PAGE 88 ===
+
+72
+PAEDIATRIC PROTOCOLS
+5th Edition For Malaysian Hospitals
+Section 5         INTENSIVE CAREChapter 10:
+Acute Gastroenteritis
+Introduction
+• Acute gastroenteritis (AGE) is a leading cause of childhood morbidity and mortality and an important 
+cause of malnutrition.
+• Many diarrhoeal deaths are caused by dehydration and electrolytes loss.
+• Dehydration can be safely and effectively treated with Oral Rehydration Solution (ORS) but severe 
+dehydration may require intravenous fluid therapy.
+First assess the state of perfusion of the child.
+Is the child in shock?
+• Signs of shock include tachycardia, weak peripheral pulses, delayed capillary refill time >2 seconds, cold 
+peripheries, depressed mental state with or without hypotension.
+For any child with shock go straight to Treatment Plan C.
+You can also use the WHO chart below to assess the degree of dehydration and then choose the treatment 
+plan A, B or C, as needed.
+Look  at child’s
+general conditionWell, alert. Restless or
+irritable.Lethargic or
+unconscious.
+Look  for sunken eyes No sunken eyes. Sunken eyes. Sunken eyes.
+Offer  the child
+fluidDrinks normally. Drinks eagerly, thirsty. Not able to drink or
+drinks poorly.
+Pinch  skin of
+abdomenSkin goes back
+immediately.Skin goes back
+slowly.Skin goes back very
+slowly (> 2 secs).
+Classify
+Mild Dehydration
+<5% Dehydrated*
+IMCI: No signs
+of Dehydration≥ 2 above signs:
+Moderate Dehydration
+5-10% Dehydrated
+IMCI: Some signs
+of Dehydration≥ 2 above signs:
+Severe Dehydration
+> 10% Dehydrated
+Treat Plan A
+Give fluid and food
+to treat diarrhoea
+at homePlan B
+Give fluid and food
+for some dehydrationPlan C
+Give fluid for severe
+dehydration.
+Provide food as soon as 
+child tolerates.Assess:
+*% of body weight (in g) loss in fluid (Fluid Deficit)
+e.g. a 10 kg child with 500g weight loss is estimated to have 5% dehydration.
+Fluid deficit = 5/100 x 10000g = 500 mls.
