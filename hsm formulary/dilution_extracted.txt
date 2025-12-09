@@ -1,0 +1,2138 @@
+
+
+=== PAGE 1 ===
+
+DILUTION GUIDELINE  
+FOR INJECTABLE DRUGS
+PHARMACEUTICAL SERVICES PROGRAMME
+MINISTRY OF HEALTH, MALAYSIAMOH /S/FAR/11.20(GU) -e
+
+
+=== PAGE 2 ===
+
+
+
+
+=== PAGE 3 ===
+
+DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+MOH/S/FAR/11.20(GU) -e
+No. Rujukan: A-GU-84
+No. Keluaran: 1
+December 2020
+© All Rights Reserved
+This isapublication ofthePharmaceutical Services Programme, Ministry ofHealth Malaysia.
+Permission ishereby granted toreproduce information contained herein provided that such
+reproduction begiven due acknowledgement and shall notmodify thetext.Enquiries aretobe
+directed totheaddress below .
+Pharmaceutical Services Programme
+Ministry ofHealth Malaysia
+Lot 36, Jalan Universiti ,
+46200 Petaling Jaya, Selangor, Malaysia  
+Tel:603–7841 3200 Fax: 603–7968 2222
+Website: www.pharmacy.gov.my
+
+
+
+=== PAGE 4 ===
+
+DILUTION GUIDELINE
+FOR INJECTABLE DRUGS
+(Part I –Antimicrobial)
+
+
+=== PAGE 5 ===
+
+1DILUTION GU ID E LIN E  FOR IN JE C T ABLE DRUGS
+DILUTION GUIDELINE FORINJECTABLEDRUGS
+Publication date December 2020
+Summary Dilution Guideline forInjectable Drugs serves asageneral reference for
+healthcare professionals onthe preparation ofinjectable drugs before
+administering tothepatient .
+The information provided inthis guideline ismainly extracted from the
+package insert forrelevant brand ofinjectable drugs used and valid atthe
+time ofpublication .Nevertheless, users arestrongly advised torefer tothe
+dilution instruction asstated intheproduct package insert currently used
+attherespective facilities and update regularly .
+Author Medication Safety Section
+Pharmacy Practice and Development Division  
+Pharmaceutical Services Programme
+Ministry of Health Malaysia
+Applies to Allgovernment and private healthcare facilities
+Audience Healthcare professionals
+Review Date December 2025
+
+
+=== PAGE 6 ===
+
+DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+TABLE OFCONTENT
+2CONTENTPAGE  
+NUMBER
+Disclaimer  4
+Preface 4
+Foreword 5
+Acknowledgement 6
+Reviewers 6
+Accreditors 7
+Editorial Board 8
+Abbreviations &Acronyms 9
+List ofDrugs
+■Acyclovir Injection 10
+■Amikacin Injection 11
+■Amoxicillin & Clavulanate Injection 12 
+■Amphotericin BInjection 13
+■Ampicillin Injection 14
+■Ampicillin & Sulbactam Injection 15
+■Anidulafungin Injection 16
+■Artesunate Injection 17
+■Azithromycin Injection 18
+■Benzathine Penicillin Injection 19
+■Benzylpenicillin Injection 20
+■Caspofungin Acetate Injection 21
+■Cefazolin Injection 23
+■Cefepime Injection 24
+■Cefoperazone Injection 25
+■Cefoperazone & Sulbactam Injection 26
+■Cefotaxime  Injection 27
+■Ceftazidime Injection 28
+■Ceftriaxone Injection 29
+■Cefuroxime Injection 31
+■Clindamycin Injection 32
+■Cloxacillin Injection 33
+■Ertapenem Injection 34
+
+
+=== PAGE 7 ===
+
+3DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+CONTENTPAGE  
+NUMBER
+■Erythromycin Lactobionate Injection 35
+■Ganciclovir Injection 36
+■Gentamicin Injection 37
+■Imipenem & Cilastatin Injection 38
+■Meropenem Injection 39
+■Micafungin Injection 40
+■Netilmicin Injection 41
+■Pentamidine Isethionate Injection 42
+■Piperacillin & Tazobactam Injection 43
+■Sulphamethoxazole –Trimethoprim Injection 44
+■Vancomycin Injection 45
+■Voriconazole Injection 46
+■Zidovudine Injection 48
+Appendices 49
+References 55
+
+
+=== PAGE 8 ===
+
+4DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+DISCLAIMER
+This guideline serves asageneral reference forthe healthcare professionals inthe Ministry of
+Health onhow toprepare dilution ofcertain injectable drugs before administering tothepatient .
+The information provided inthis guideline mainly extracted from the package insert forthe
+brand ofinjectable drugs used and valid atthe time ofpublication .Nevertheless, users are
+strongly advised torefer tothe dilution instruction asstated inthe product package insert
+currently used attherespective facilities and update regularly .
+The medicines included inthis guideline areselected from the Ministry ofHealth Medicines
+Formulary (MOHMF) .
+The users ofthis guideline must have thenecessary knowledge and competen cyinorder to
+interpret the information provided .Innoevent shall thePharmaceutical Services Programme
+beliable forany direct, indirect, incidental, special orconsequential event resulting from the
+use ofortheinability touse thisguideline .The committee reserves theright toamend, update
+orremove thecontent ofthis guideline when necessary .
+PREFACE
+The Malaysian National Patient Safety Council Technical Committee onMedication Safety had
+put inm uch effort through thevarious stakeholders topromote medication safety culture inboth
+thepublic and private healthcare sector .The primary goal ofmedication safety istoensure long
+term and continuous quality improvements inhealthcare .One way ofachieving itisby
+improving and strengthening medication safe practice .Hence, Pharmaceutical Services
+Programme, Ministry ofHealth Malaysia has taken the initiative and prepared the Dilution
+Guideline forInjectable Drugs .
+The purpose ofthis guideline istoprovide information and facilitate thehealthcare professionals
+atalllevel sinthe preparation ofinjectable drugs that are listed inthe Ministry ofHealth
+(MOH) drug formulary which require sdilution .This guideline will also serve asapreventive
+measure toreduce medication errors related toincorrect dilution and administration of
+injectable drugs .
+
+
+=== PAGE 9 ===
+
+5DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Medication safety has received much attention
+after theInstitute ofMedicine had published “To
+ErrIsHuman :Building aSafer HealthSystem”
+report which was inline with the third World
+Health Organization (WHO) Global Patient
+Safety Challenge .Errors can never beentirely
+eliminated, buttheir numbers andseverity canbe
+reduced .Theoccurrence ofmedication errors can
+compromise patients’ confidence inhealthcare
+system byexposing them totheriskofadverse
+drug reactions and increase dhealthcare cost.
+Moreover, medication errors arepreventable .
+The Malaysian Patient Safety Council, Ministry of
+Health (MOH) had put inmuch effort through
+thevarious stakeholders topromote medication
+safety culture inboth the public and private
+healthcare sectors .Pharmaceutical Services
+Programme, MOH hasbeen given amandate to
+lead theTechnical Working Group ofMedication
+Safety atthenational level.Thecommittee, which
+comprises various stakeholders, willidentify any
+issues related tomedication safety and plan for
+ongoing improvements inthequality and safety
+ofthe medication management system and
+practices .
+With the aim ofreducing the risksrelated to
+injectable drugs, initiatives have been taken to
+establish Dilution Guidelines for Injectable
+Drugs topromote safe medication use.Moreover,
+errors inintravenously administered medications
+may have serious consequences and incident
+can happen during preparation, dispensin gandadministration ofthese drugs .There areafew
+types ofmedication errors related toinjectable
+drugs that are commonly reported to
+Medication Error Reporting System (MERS), for
+example :incorrect dilution, incorrect route of
+administration, incorrect infusion rate and
+incorrect diluent .Thus, promoting safe injection
+practices and establishment ofstandard for
+dilution and administration ofinjectable drugs
+arecrucial toensure patient safety .
+Ensuring safer care forevery patient, every time,
+everywhere isthevision established byWHO as
+thegoals towards continuous improvements in
+patient safety and managing risks toprevent
+harm (particularly “avoidable harm” during
+treatment and care) .Hence, medication safety
+iseveryone’s responsibility soastomake the
+healthcare system safer .This guideline aims to
+facilitate the healthcare personnel inpreparing
+thedilutions ofdrugs which areavailable inthe
+MOH drug lists.The availability ofthis guideline
+willassist intheexpansion ofquality clinical care
+pharmacy services throughout MOH facilities .
+Iwould like tocongratulate the editorial
+committee, accreditors and reviewers fortheir
+efforts and contributions inthe development
+ofthis dilution guideline .Itishoped that this
+guideline would beauseful reference forallwho
+areinvolved inthedilution and administration of
+injectable drugs inthehealthcare facilities .
+Allthebest andthank you.FOREWORD
+Mdm A’tia Binti Hashim
+Director
+Pharmacy Practice & Development Division  
+Pharmaceutical Services Programme
+Ministry ofHealth Malaysia
+
+
+=== PAGE 10 ===
+
+6DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+ACKNOWLEDGEMENT
+Special thanks dedicated toeveryone who were involved directly orindirectly intheestablishment of
+thisguideline .
+This guideline consumes enormous amount ofwork, time efforts and dedication .Thus,
+Pharmaceutical Services Programme ,Ministry ofHealth would liketoextend ourutmost gratitude to
+allindividuals and organizations that had provided valuable input, advice and information forthis
+guideline .
+Wearealso grateful fortheprovision ofexpertise and technical support inthedevelopment ofthis
+guideline .Hopefully, theinformation provided can lead totheimprovements inquality and safe
+medication practice .
+REVIEWERS
+◆Mdm Phan HuiSieng
+Senior Principal Assistant Director  
+Pharmacy Practice &Development Division  
+Sarawak State Health Department◆Mdm Norafidah Binti Idris
+Pharmacist  
+Serdang Hospital
+◆Mdm PohWeiYoon  
+Pharmacist  
+Selayang Hospital◆Mdm NorMazni Binti Mohamad Tamyes
+Pharmacist
+Tengku Ampuan Rahimah Hospital
+◆Mdm Noor Liyana Binti Yusup
+Pharmacist
+Rantau Panjang Health Clinic◆Mr.Muhammad Faizal BinMaarof
+Pharmacist
+Tuanku Ampuan Najihah Hospital
+◆Mdm Merina AwKarLing
+Phar macist
+Kuala Lumpur Hospital◆Mdm Ong SuHua
+Senior Principal Assistant Director  
+Pharmacy Practice &Development Division  
+Pharmaceutical Services Programme
+Ministry of Health
+
+
+=== PAGE 11 ===
+
+7DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+◆Mdm Fajaratunur Binti A.Sani
+Pharmacist
+Johor Bahru District Health Office◆Mr. Ahmad Ridza BinAhmad Nizam
+Pharmacist
+Tuanku Ampuan Najihah Hospital
+◆Mdm Nur Mariana Binti Ayub
+Pharmacist  
+Kajang Hospital◆Mdm Nurul Husna Binti Sodri
+Pharmacist
+Pharmacy Practice & Development Division  
+Selangor State Health Department
+◆Mdm Wong Jern Ni
+Pharmacist
+Shah Alam Hospital◆Mr. Anuar BinMohamad
+Pharmacist  
+Kajang Hospital
+◆Mdm Ummi Kalsum Binti Lambak
+Pharmacist  
+Melaka Hospital◆Mdm Haidah Binti AbRahim
+Nursing Matron
+Tengku Ampuan Rahimah Klang Hospital
+◆Mdm Wong Siew Ling  
+Nursing Matron  
+Selayang Hospital◆Mdm Kasidah Binti Kasran
+Nursing Sister
+Shah Alam Hospital
+◆Mdm Sharina Binti Mohd Redzuan
+Nursing Sister  
+Kajang HospitalA  C  CR  E  D  I  T  O  R  S
+
+
+=== PAGE 12 ===
+
+8DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+EDITORIALBOARD
+ADVISOR
+◆Mdm A’tia Binti Hashim
+Director
+Pharmacy Practice & Development Division  
+Pharmaceutical Services Programme
+Ministry ofHealth Malaysia
+EDITORIAL COMMITTEE
+◆Mdm Munira Binti Muhammad
+Deputy Director
+Pharmacy Practice & Development Division  
+Pharmaceutical Services Programme  
+Ministry ofHealth◆Mdm Norhayati Binti Musa
+Senior Principal Assistant Director  
+Pharmacy Practice & Development Division  
+Pharmaceutical Services Programme  
+Ministry ofHealth
+◆Mdm Siew LeeJin
+Senior Principal Assistant Director  
+Pharmacy Practice & Development Division  
+Pharmaceutical Services Programme  
+Ministry ofHealth◆Mdm Lee Shal Ling
+Senior Principal Assistant Director  
+Pharmacy Practice & Development Division  
+Pharmaceutical Services Programme  
+Ministry ofHealth
+◆Mdm Noor Syuhaidah Binti Radzuan
+Principal Assistant Director
+Pharmacy Practice & Development Division  
+Pharmaceutical Services Programme  
+Ministry ofHealth
+
+
+=== PAGE 13 ===
+
+9DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+ABBREVIATION &ACRONYM DESCRIPTION
+BW body weight
+D10 10% dextrose
+D5 5% dextrose
+g gram
+gtt drops
+HCl hydrochloride
+HSD5 0.45% sodium chloride + 5% dextrose
+IM intramuscular
+IV intravenous
+kg kilogram
+L litre
+max m axim um
+m cg microgram
+mg milligram
+ml millilitre
+NS 0.9% sodium chloride
+NSD5 0.9% sodium chloride + 5% dextrose
+RT room temperature
+SC subcutaneous
+w/v weight over volume
+WFI water forinjectionA  B  B  R  E  V  I  A  T  I  O  N  S    &    A  C  R  O  N  Y  M  S
+
+
+=== PAGE 14 ===
+
+10DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Acyclovir Injection
+Brand Name Vaxcel®Acyclovir IVForInfusion (Strength: 250mg)
+Reconstitution Reconstitute 1 vial (250mg) with 10ml WFI or NS to provide a solution  
+containing 25mg/ml.
+Further Dilution IVinfusion
+■Dilute the required volume ofreconstituted solution with diluent
+togive aconcentration not greater than 5mg/ml (0.5%w/v) for
+administration byinfusion .
+■Forchildren and neonates, where itisadvisable tokeep thevolume
+offluid toaminimum, dilution isonthebasis of4mlreconstituted
+solution (100mgacyclovir) added to20mlofinfusion fluid.
+■Foradult, infusion bags containing 100mlofinfusion fluid areused,
+even when this would give anacyclovir concentration substantially
+below 0.5%w/v.Thus, one 100mlinfusion bag may beused forany
+dose between 250mg and 500mg (10and 20mlofreconstituted
+solution) butasecond bag must beused fordoses between 500mg
+and 1000 mg.
+Diluents
+NS
+Administration IVinfusion
+Administer byslow IVinfusion over 1hour.
+Storage &StabilityRT(<25 °C)
+After reconstitution 48hours
+After dilution 48hours
+*Protect from light.
+*Reconstituted ordiluted solutions SHOULD NOT BEREFRIGERATED.
+Remarks ■This infusion contains nopreservative .Should visible turbidity or
+crystallization appear inthesolution before orduring infusion, the
+preparation should bediscarded .
+■Donotgive byIVbolus, IMorsubcutaneous route .
+■Beaware that too-rapid infusion may damage renal tubules .
+References 1.Product leaflet Vaxcel®Acyclovir IVForInfusion (Kotra Pharma (M)
+Sdn.Bhd, Malaysia) .Revised date :2.4.2019 .
+2.Schull, P.D.,2009.McGraw-Hill’sIVDrug Handboo k.McGrawHill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 15 ===
+
+11DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Amikacin Injection
+Brand Name Apalin (Strength: 500mg/2ml)
+Reconstitution Not required
+Further Dilution IVinfusion
+Add 500mg amikacin solution to100–200ml diluent.
+Diluents
+NS,D5
+Administration IM
+IVinfusion
+■Adult :Administer slowly over 30–60minutes .
+■Infants :Administer slowly over 1–2hours .
+Storage &StabilityRT(25 °C) Fridge (4°C)
+After dilution 24hours 60days
+Remarks ■Slow IVinfusion may help toavoid neuromuscular blockade .
+■Donot physically premix amikacin injection orinfusion solutions
+with other drugs atanypoint intheinfusion apparatus .
+References 1.Product leaflet Apalin (Duopharma (M)Sdn Bhd, Malaysia) .Revised
+date :16.1.2012.
+2.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 16 ===
+
+12DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Amoxicillin & Clavulanate Injection
+Brand Name Clavam For Injection BP (Strength: 1.2g).
+Contains: Amoxicillin 1gas sodium salt, Clavulanic acid 200mg as the  
+potassium salt.
+Reconstitution Reconstitute 1vial(1.2g)with 20ml WFI (Final volume 20.9ml).
+Further Dilution IVinfusion
+Dilute thereconstituted solution to100ml diluent.
+Diluents
+NS,WFI
+Administration Slow IV bolus
+■Administer slowly over 3–4minutes and within 20minutes of
+reconstitution .
+■Itmay beinjected directly into thevein orviaadrip tube .
+IVinfusion
+Administer over 30–40minutes and complete within the time
+stated .
+Storage &StabilityRT(25°C) Fridge (5°C)
+After reconstitution 20minutes -
+After dilution 4hours 8hours
+*Any residual antibiotic solutions should bediscarded.
+Remarks ■The colour ofthereconstituted solution may range from acream
+coloured solution toslight yellow/pale straw -coloured solution .
+■Not suitable forintramuscular administration .
+■Injection solution isless stable ininfusions containing glucose,
+dextrose orbicarbonate .
+■Should not bemixed with blood products, other proteinaceous
+fluids such asprotein hydrolysates orwith intravenous lipid
+emulsions .
+References Product leaflet Clavam For Injection BP(Alkem Laboratories Limited,
+India) .Revised date :April 2016 .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 17 ===
+
+13DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Amphotericin BInjection
+Brand Name Photericin BForInjection USP (Strength: 50mg)
+Reconstitution ■Reconstitute 1vial(50mg) with 10mlofWFI.
+■Shake thevialimmediately until thecolloidal solution isclear .
+Further Dilution IVinfusion
+■Further dilute with diluent toproduce the recommended
+concentration of0.1mg/ml .
+■Final concentration should not exceed 0.1m g/m l forperipheral
+infusion or0.25m g/ml forcentral infusion .
+Diluent
+D5
+Administration IVinfusion
+■Administer byslow IVinfusion over 2 to6hours (depending onthe  
+dose).
+■Asingle IVtest dose (1mgin20mlofD5)administered over 20to
+30minutes may bepreferred .
+Storage &StabilityRT(25°C) Fridge
+After reconstitution 24hours 7days
+After dilution 24hours 2days
+*Protected from light
+Remarks ■Thepatient’s temperature, pulse, respiration, and blood pressure
+should berecorded every 30minutes for2to4hours .
+■Rapid IVinfusion, over less than 1hour, particularly inpatients with
+renal insufficiency, has been associated with hyperkalemia and
+arrhythmias and should therefore beavoided .
+■The infusion solution (0.1mg/ml) isobtained byfurther dilution with
+D5ofpHabove 4.2.The pHofeach container ofdextrose injection
+should beascertained before used .
+■Donotreconstitute with saline solutions .
+■An in-line membrane filter may beused for IVinfusion of
+amphotericin B(the mean pore diameter ofthefilter should notbe
+less than 1micron) .
+References 1.Product leaflet Photericin BForInjection USP (Cipla LTD, India) .
+2.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*Theinformation provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 18 ===
+
+14DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Ampicillin Injection
+Brand Name Kampibiotic Injection (Strength: 500mg)
+Reconstitution IV
+Dissolve 1vial(500mg) in10mlWFI.
+IM
+Dilute 1vial(500mg) with 1.5mlWFI.
+Further Dilution IVinfusion
+Dilute with 50to100 mlNS(maximum concentration :30mg/ml) .
+Diluent
+NS
+Administration Slow IV bolus
+■Administer slowly over 3to4minutes .
+■Donotexceed 100mg/minute .
+Intermittent IVinfusion
+Administer over 15–30minutes.
+IM
+Storage &Stability Use immediately
+Remarks ■Beaware that too-rapid infusion may cause seizures .
+■Extemporaneous admixtures ofbeta -lactam antibacterials and
+aminoglycosides may result insubstantial mutual inactivation .If
+these administered concurrently, administered inseparate sites at
+least 1hour apart .Donotmix them inthesame intravenous bag,
+bottle ortubing .
+■Ifampicillin isprescribed concurrently with anaminoglycoside, the
+antibiotics should not bemixed inthe syringe, intravenous fluid
+container orgiving setbecause lossofactivity oftheaminoglycoside
+canoccur under these conditions .
+References 1.Product leaflet Kampibiotic Injection (Karnataka Antibiotics &
+Pharmaceuticals Limited, India) .Revised date :25.7.2017.
+2.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+3.Gray, A.,Wright, J.,Goodey, V.and Bruce, L.,2011.Injectable Drugs
+Guide .Pharmaceutical Press .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 19 ===
+
+15DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Ampicillin &Sulbactam Injection
+Brand Name Amsubac Injection (Strength: 1.5g)
+Contains: Ampicillin 1000mg, Sulbactam 500mg
+Reconstitution IV
+■Reconstitute 1vial(1.5g)with 3.2mlWFI.
+■Toensure complete dissolution, allow foaming todissipate topermit
+visual inspection .
+IM
+Reconstitute with 3.2mlWFI or0.5%lignocaine HCl.
+Further Dilution IVinfusion
+Further dilute to50–100ml diluent.
+Diluent
+NS
+Administration Slow IV bolus
+Administer slowly over am in im u m of3minutes .
+IVinfusion
+Administer over 15–30minutes.
+IM
+Administer bydeep IMinjection.
+Storage &Stability Not available
+Remarks ■Donotmix orgive through same I.V.line with aminoglycosides, as
+this inactivates ampicillin/sulbactam .
+■Rapid infusion may cause seizures .
+References 1.Product leaflet Amsubac Injection (Karnataka Antibiotics &
+Pharmaceuticals Limited, India) .Revised date :23.1.2018.
+2.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 20 ===
+
+16DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Anidulafungin Injection
+Eraxis (Strength: 100mg)
+Reconstitute 1vial(100mg) with 30mlWFI toprovide aconcentration of
+3.33mg/ml .The reconstitution time canbeupto5minutes .
+IVinfusion
+Dilution Requirements ForAnidulafungin Administration
+OfWater ForInjection PresentationDose
+Number of  
+Vials
+Required
+Total  
+Reconstitu ted  
+Volume  
+Required
+Infusion  
+VolumeA
+Total Infusion  
+VolumeB
+Rate of
+Infusion
+Minimum  
+Duration of  
+Infusion
+100mg 1 30ml 100ml 130ml 1.4ml/minute 90minutes
+200mg 2 60ml 200ml 260ml 1.4ml/minute 180minutes
+AEither 9mg/ml (0.9%)sodium chloride forinfusion or50mg/ml (5%)
+glucose forinfusion .
+BInfusion solution concentration is0.77mg/ml .
+Diluents
+NS,D5
+IV infusion ONLY
+The rate ofinfusion should not exceed 1.1mg/minute (equivalent to
+1.4ml/minute or84ml/hour when reconstituted and diluted per
+instructions) .
+RT(25°C) Fridge (Frozen)
+After reconstitution 24hours -
+After dilution 48hours 72hours
+*For single useonly
+■Anaphylactic reactions, including shock, have been reported ;
+discontinue useand appropriate treatment administered .
+■Infusion -related adverse events have been reported with
+anidul afungin, including rash, urticaria, flushing, pruritus, dyspnea,
+bronchospasm andhypotension .
+■Infusion -related adverse events are infrequent when the rate of
+anidulafungin infusion does notexceed 1.1mg/minute .
+■Donotgive asIVbolus .Brand Name
+Reconstitution
+Further Dilution &  
+Administration
+Storage &Stability
+Remarks
+References1.Product leaflet Eraxis (Pharmacia and Upjohn Company, USA) .
+2.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 21 ===
+
+17DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Artesunate Injection
+Brand Name Artesun Powder For Injection (Strength: 60mg)
+Reconstitution ■Reconstitute 1vial (60mg) with provided diluent (5%sodium
+bicarbonate solution) .
+■Shake thevialfor2–3minutes and wait until completely dissolved
+and aclear solution should emerge .
+Further Dilution Dilute the reconstituted solution (1ml)with diluent toproduce the
+required concentration .
+Route of Diluent Total Volume Final  
+Administ ration (NSorD5) Concentration
+IV 5ml 6ml 10mg/ml
+IM 2ml 3ml 20mg/ml
+Administration Slow IV bolus
+Administer therequired dose slowly atarate of3–4ml/minute .
+IM
+Storage &Stability Use immediately
+Remarks ■Donotuseinintravenous drip.
+■Discard ifsolution notclear .
+References Product leaflet Artesun Powder ForInjection (Guilin Pharmaceutical
+Co.Ltd,China) .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 22 ===
+
+18DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Azithromycin Injection
+Vaxcel® Azithromycin IV For Infusion (Strength: 500mg)
+Reconstitute 1vial (500mg) with 4.8mlWFI toobtain afinal
+concentration of100mg/ml .
+IVinfusion
+Dilute the reconstituted solution tothe required concentration as
+below :
+Amount of  
+reconstitu ted  
+solution (ml)Final infusion solution  
+concentration
+(mg/ml)Amount ofdiluent  
+(ml)
+5 1 500
+5 250
+Diluents
+NS,D5
+IVinfusion
+AnIVdose of500mgazithromycin should beinfused foram in im um
+duration of1hour .
+RT Fridge ( 2°C-8°C)
+After reconstitution 24 hours (25±2○C) -
+After dilution 24 hours (<25○C) 7days
+■Donotadminister asanIVbolus oranIMinjection .
+■Other intravenous substances, additives ormedications should not
+beadded tointravenous azithromycin orinfused simultaneously
+through thesame IVline.Brand Name
+Reconstitution
+Further Dilution
+Administration
+Storage &S tability
+Remarks  
+References Product leaflet Vaxcel®Azithromycin IVFor Infusion, (Kotra Pharma
+(M)Sdn.Bhd, Malaysia) .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.2
+1 over 3hours
+2 over 1hourConcentration (mg/ml) Rate  of infusion
+
+
+=== PAGE 23 ===
+
+DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Benzathine Penicillin Injection
+Brand Name Benzapen Sterile Penicillin GBenzathine USP (Strength :2.4Mega
+Units)
+Reconstitution Reconstitute with 8mlofWFI.
+Further Dilution Not required
+Administration IMonly
+*Toavoid sciatic nerve damage, infants and small children should not
+beinjected into the upper outer quadrant ofthe buttock except in
+special cases e.g.inthepresence ofextensive burns .
+Storage &Stability Use immediately
+Remarks ■Patient should bealerted tothe potential occurrence ofallergic
+reactions and instructed toreport them .
+■Patient should beobserved for30minutes after drug administration
+forany allergic reactions .
+■Must notbeinjected subcutaneously, intravenously orintrathecally
+orinstilled into body cavities .
+References Product leaflet Benzapen Sterile Penicillin GBenzathine USP 2.4MU
+(Karnataka Antibiotics &Pharmaceuticals Limited, India) .Revised date :
+13.7.2009 .
+19
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 24 ===
+
+20DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Benzylpenicillin Injection
+Brand Name Bepen Injection (Strength :1MU(600mg), 5MU(3g))
+Reconstitution ■Reconstitute 1MUvial(600mg) with 2mlormore WFI immediately
+before use.
+■Reconstitute 5MU vial (3g)with 10mlormore WFI immediately
+before use.
+Further Dilution Intermittent IVinfusion
+Further dilute in50–100mldiluent .
+Continuous IVinfusion
+Further dilute in1000–2000 mldiluent .
+Diluent
+NS
+Administration IM
+Alternate sites should beused forrepeated injections.
+Intermittent IVinfusion
+■Administer over 1–2 hours (adults).
+■Administer over 15to30minutes (children and infants).
+Continuous IVinfusion
+■Administer over 24 hours.
+■Preferred foradministration oflarge doses.
+Storage &StabilityRT(30°C±2°C)Fridge (2°C-8°C)
+After reconstitution 2days 6days
+*Reconstituted solutions ofbenzylpenicillin sodium BPareintended
+forimmediate administration .
+Remarks ■Should beadministered separately with solutions that contain
+metal ions.
+■Too-rapid infusion may cause electrolyte imbalance orseizures .
+References 1.Productleaflet Bepen Injection (Karnataka Antibiotics &
+Pharmaceuticals Limited, India) .Revised date :14.2.2017.
+2.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 25 ===
+
+21DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Caspofungin Acetate Injection
+Cancidas®For Injection (Strength: 50mg, 70mg)
+Bring therefrigerated vialtoroom temperature .
+50mgvial
+Reconstitute 1vial (50mg) with 10.5mlofNSorWFI toobtain a
+concentration of5.2mg/ml .Brand Name
+Reconstitution
+Further Dilution70mgvial
+Reconstitute 1vial (70mg) with 10.5mlofNSorWFI toobtain a
+concentration of7.2mg/ml .
+Dose* Volume of  
+reconstitu ted  
+solution for  
+transfer to IV  
+bag/bottleTypical  
+preparation  
+(reconstituted  
+solution added 
+to 100ml) final  
+concentration
+70mg (from one 70mg vial)  
+(Dilute intwo bags of100ml) **5m l in each  
+100ml IVbag/  
+bottle0.33mg/ml
+50mg (from one 50mg vial) 10ml 0.45mg/ml
+35mg formoderate hepatic
+insufficiency (from one 70mg vial)5ml 0.33mg/ml
+35mg formoderate hepatic
+insufficiency (from one 50mg vial)7ml 0.33mg/ml
+*10.5mlshould beused forreconstitution ofallvials .
+**Dilute 5mlofthereconstituted vialina100mlIVbag/bottle and the
+other 5mlinasecond 100mlIVbag/bottle .
+Note:
+Paediatric patients (≥12months old):Dilute reconstituted solution
+(volume equal tothecalculated dose) toanIVbag orbottle containing
+250mlofdiluent orareduced volume ofdiluent, nottoexceed afinal
+concentration of0.5mg/ml .
+Diluents
+NSor0.45% Sodium Chloride (Paediatric patients)Depends ondose required
+Preparation ofthePatient Infusion Solutions inAdults :
+
+
+=== PAGE 26 ===
+
+DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+IV infusion ONLY
+■Administer byslow IVinfusion over approximately 1hour .
+■Fora70mgdose, administer each ofthebags orbottles sequentially
+over 30minutes, foratotal infusion time ofapproximately 1hour .
+RT(<25°C) Fridge (2°C-8°C)
+After reconstitution 24hours -
+After dilution 24hours 48hours
+*The lyophilized compact powder invials should bestored at2○C–8○C.
+■Donotuseanydiluents containing dextrose (-D-glucose) .
+■Donotmix orco-infuse with anyother medications .
+■Visually inspect thereconstituted solution forparticulate matter or
+discoloration during reconstitution and prior toinfusion .Donotuse
+ifthesolution iscloudy orhasprecipitated .Administration
+Storage &Stability
+Remarks
+ReferencesProduct leaflet Cancidas®For Injection (Laboratories Merch Sharp &
+Dohme -Chibret, France) .Revised date :September 2014 .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+22
+
+
+=== PAGE 27 ===
+
+23DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Cefazolin Injection
+Brand Name Cefazolin Sandoz®DrySubstance ForInfusions (Strength: 1g)
+Reconstitution Slow IV or IVinfusion
+Reconstitute 1vial(1g)with 4mlNSorWFI.
+IM
+Reconstitute 1vial(1g)with 4ml0.5%lidocaine solution .
+Further Dilution IVinfusion
+Dilute in50–100mldiluent.
+Diluent
+NS
+Administration Slow IV bolus
+Administer slowly over 3–5minutes. (Uptoadose 1gcefazolin).
+IVinfusion
+Administer doses >1gover 20–30minutes.
+IM
+Inject into amajor muscle mass.
+Storage &Stability Use immediately
+Remarks Donotmix insame infusion with aminoglycoside, because both drugs
+may beinactivated .
+References 1.Product leaflet Cefazolin Sandoz®Dry Substance For Infusions
+(Biochemiestr, Austria) .
+2.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 28 ===
+
+24DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Cefepime Injection
+Brand Name Cefmex Powder ForInjection (Strength: 1g)
+Reconstitution IV
+Reconstitute 1vial(1g)with 10mlofdiluent (approximate concentration
+90mg/ml) .
+IM
+Reconstitute 1vial(1g)with 3mlofdiluent (approximate concentration
+230mg/ml) .
+Diluents
+WFI, D5,NS
+Further Dilution IVinfusion
+Dilute toavolume of50–100mlofdiluent .
+Diluents
+D5,NS
+Administration Slow IVbolus
+Administer slowly over 3–5minutes .
+IVinfusion
+Administer over 30minutes .
+IM
+Administer through deep IMinjection into alarge muscle mass .
+Storage &StabilityFridge (2°C-8°C)
+After reconstitution 48hours
+After dilution 48hours
+*Intravenous :Cefepime iscompatible atconcentration of1–40mg/ml
+when mixed with diluents .
+Remarks Parenteral drugs should beinspected visually forparticulate matter
+before administration, and notused ifparticulate matter ispresent .
+References Product leaflet Cefmex Powder ForInjection (Duopharma (M)Sdn.Bhd,
+Malaysia) .Revised date :14.10.2014.
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 29 ===
+
+25DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Cefoperazone Injection
+Bicafar (Strength: 1g)
+IV
+■Reconstitute 1vial(1g)with 5mlofD5,NSD 5,NSorWFI.
+■Forcontinuous IVinfusion, dissolve each gram in5mlWFI.
+IM
+WFI may beused toprepare cefoperazone forIMinjection .However,
+when concentrations of≥250m g/m l tobeadministered, alidocaine
+solution should beused .A2-STEP dilution process isrecommended .
+Vial  
+(g)Final  
+Cefoperazone  
+Concentration  
+(mg/ml)Step 1 :   
+Volume  
+of WFI  
+(ml)Step 2:  
+Volume of  2%
+Lidocaine 
+(ml)Withdrawable  
+Volume (ml)
+1 250
+3332.6
+1.80.9
+0.64
+3
+*There issufficient excess present toallow for withdrawal and
+administration ofthestated volume .
+Slow IVbolus
+Administer slowly over aperiod ofnoless than 3–5minutes .
+Intermittent IVinfusion
+Administer over aperiod of15minutes –1hour.
+IM
+Deep IMinjection into thelarge muscle mass ofgluteus m axim um or
+anterior thigh .
+RT (15°C-25°C) Fridge ( 2°C-8°C)
+After reconstitution 24hours 5days
+*A solution of300mg/ml
+Solution ofcefoperazone and aminoglycoside should not bedirectly
+mixed since there isaphysical incompatibility between them .Brand Name
+Reconstitution
+Further Dilution
+Administration
+Storage &S tability
+Remarks  
+ReferencesProduct leaflet Bicafa r(Duopharma (M) Sdn Bhd, Malaysia) .Revised
+date :14.8.2012 .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.IV(maximum dose of2g/day)
+Dilute inappropriate diluent togive afinal concentration of100mg/ml .
+Intermittent IVinfusion
+Dilute thereconstituted solution with 20–100mlofdiluent .
+Diluents
+D5,NSD 5,NS
+
+
+=== PAGE 30 ===
+
+26DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Cefoperazone & Sulbactam Injection
+Brand Name Vaxcel® Cefobactam Injection (Strength: 1g)
+Contains: Cefoperazone 500mg and Sulbactam 500mg
+Reconstitution &  
+Further DilutionIV
+■Reconstitute 1vial(1g)with 3.4mlWFI, D5orNS.
+Intermittent IVinfusion
+Dilute thereconstituted solution to20ml with thesame solution.
+IM
+Reconstitute 1vial (1g)with 3.4mlsterile WFI and further dilute with
+2%lidocaine toobtain solutions containing upto125mgcefoperazone
+and 125mg sulbactam/ml inapproximately a0.5% lidocaine
+hydrochloride solution .
+Administration Slow IV bolus
+Administer slowly over aminimum of3minutes .
+Intermittent IVinfusion
+Administer over 15–60minutes .
+IM
+Storage &StabilityRT(<25°C)
+After reconstitution 24hours
+Remarks Solutions ofsulbactam/cefoperazone and aminoglycosides should
+not bedirectly mixed, since there isaphysical incompatibility
+between them .
+References Product leaflet Vaxcel®Cefobactam Injection (Kotra Pharma (M)Sdn.
+Bhd, Malaysia) .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.Maximum Final 
+Conc. (mg/ml)Equiv. Dosage of 
+Sulbactam + 
+Cefoperazone (g)Total 
+Dosage (g)Volume of 
+diluent
+1 0.5 + 0.5 3.4 125 + 125
+
+
+=== PAGE 31 ===
+
+27DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Cefotaxime Injection
+Brand Name Rekaxime Injection (Strength: 500mg, 1g)
+Reconstitution ■Reconstitute 1vial(500mg) with 2mlofWFI.
+■Reconstitute 1vial(1000 mg) with 4mlofWFI.
+Further Dilution IVinfusion
+■Short infusion
+Dilute in40mlofWFI or10% glucose solution.
+■Continuous drip
+Dilute in100ml ofisotonic saline orglucose solution.
+Diluents
+NS, D5, D10 (for shor t infusion)
+Administration Slow IV bolus
+Administer slowly over aperiod of3–5minutes.
+Short infusion
+Infused inapproximately 20minutes.
+Continuous drip
+Infuse over 50–60minutes.
+IM
+Inject deep into thegluteus muscle .Not toinject >4mlinto either side.
+Ifdaily dose exceeds 2g,IVinjection ispreferred .
+Storage &StabilityRT(<25°C)
+Cefotaxime Solutions 24hours
+*Cefotaxime solutions should beadministered assoon asthey have
+been prepared .
+Remarks ■Incompatible with alkaline solutions such assodium bicarbonate
+and also incompatible with hetastarch sodium chloride .
+■Admixture ofß-lactam antibacterials, aminoglycosides and
+metronidazole may result insubstantial inactivation .Should not
+beadministered concurrently/mixed/injected atthe same site as
+cefotaxime .
+■Apale yellowish solution does not mean animpairment ofthe
+antibiotic efficacy .
+■IVbolus given over less than 1minute have caused life-threatening
+arrhythmias .
+References 1.Product leaflet Rekaxime Injection (Duopharma (M) Sdn Bhd,
+Malaysia) .Revised date :19.11.2013.
+2.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 32 ===
+
+28DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Ceftazidime Injection
+Cefatum Injection (Strength: 1g, 2g)
+May beconstituted with WFI or,forIMinjection, with 0.5%lignocaine .
+VialSize Diluent Amount of  
+diluent tobe  
+addedApproximate  
+Concentration  
+(mg/ml)
+1g (10ml vial) IM 0.5% lignocaine 3ml 260
+IV WFI 10ml 90
+2g (20ml vial) IV WFI 170
+Intermittent IVinfusion
+Dilute in100ml ofdiluent.
+Diluents
+NS, D5
+Intermittent IVinfusion
+Infuse over 30minutes.
+IM
+Administer bydeep IMinto alarge mass muscle.
+Diluent RT  
+(<25°C)Fridge
+( 2°C-8°C)
+After reconstitution WFI 12hours 7days
+0.5% lignocaine 6hours 4days
+After dilution - *12hours *7days
+*At concentration 1-40 m g/m lBrand Name
+Reconstitution
+Further Dilution
+Administration
+Storage &Stability
+Remarks
+References■Sodium bicarbonate injection isnotrecommended asadiluent .
+■Solutions range from light yellow toamber depending on
+concentration, diluent and storage conditions used .W ithin the
+stated recommendations, product potency isnotadversely affected
+bysuch colour variations .
+■Individual doses inexcess of1gshould beadministered intravenously .
+■The admixture ofbeta -lactam antibacterials (penicillins and
+cephalosporins) and aminoglycosides may result insubstantial
+mutual inactivation .
+1.Product leaflet Cefatum Injection (Duopharma (M) Sdn Bhd,
+Malaysia) .Revised date :21.6.2014.
+2.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+3.Gray, A.,Wright, J.,Goodey, V.and Bruce, L.,2011.Injectable Drugs
+Guide .Pharmaceutical Press .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.Slow IV bolus
+Administer slowly over 3–5minutes.10ml
+
+
+=== PAGE 33 ===
+
+29DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Ceftriaxone Injection
+Unocef Injection (Strength: 500mg, 1g)
+IM
+■WFI, NS, D5, 1%lidocaine solution (without ephinephrine)
+Vial Dosage Size Amount of Diluent tobeAdded
+250mg/ml 350mg/ml
+500mg 1.8ml 1ml
+1g 3.6ml 2.1ml
+*Ifrequired, more dilute solutions could beutilized .
+*A350mg/ml concentration isnot recommended forthe 250mgvial
+since itmay notbepossible towithdraw theentire contents .
+IV
+■WFI, NS,D5
+VialDosage Size Amount ofDiluent tobe  
+Added
+500mg 4.8ml
+1g 9.6ml
+IVinfusion
+Dilute thereconstituted solution to50or100ml diluent.
+Diluents
+NS,D5
+IVinfusion
+Administer over aperiod of30minutes .Concentration between
+10-40mg/ml arerecommended, lower concentration may beused if
+desired .
+IM (for Gonorrhoea, Chancroid)
+■Administer deep IMinto large muscle mass.
+■Doses >1gshould bedistributed between two injection sites.Brand Name
+Reconstitution
+Further Dilution
+Administration
+
+
+=== PAGE 34 ===
+
+30DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+IM
+DiluentConcentration  
+(mg/m l) RT(25○C) Fridge (4○C)
+WFI 100 3days 10days
+250, 350 24hours 3 days
+NS 100 3days 10days
+250, 350 24hours 3days
+D5 100 3days 10days
+250, 350 24hours 3days
+1%Lidocaine solution  
+(without ephinephrine)100 24hours 10days
+250, 350 24hours 3days
+IV solutions stored in glass or PVCcontainers
+Diluent Concentration  
+(mg/m l)RT(25°C) Fridge (4°C)
+WFI 10,20,40 3days 10days
+NS 10,20,40 3days 10days
+D5 10,20,40 3days 10days
+■Diluents containing calcium, such asRinger’s solution or
+Hartmann’s solution, are not tobe used toreconstitute
+ceftriaxone vials orto further dilute areconstituted vial for
+intravenous administration because aprecipitate canform .
+■Ceftriaxone must notbeadministered simultaneously with calcium -
+containing intravenous solutions, including continuous calcium -
+containing infusions such asparenteral nutrition viaY-site.
+■Inpatients other than neonates, ceftriaxone and calcium -containing
+solutions may beadministered sequentially toone another ifthe
+infusion lines are thoroughly flushed between infusions with
+compatible fluid.Storage & Stability
+Remarks
+References 1.Product leaflet Unocef Injection (Duopharma (M)Sdn Bhd, Malaysia) .
+Revised date :2.10.2013.
+2.Gray, A.,Wright, J.,Goodey, V.and Bruce, L.,2011.Injectable Drugs
+Guide .Pharmaceutical Press .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.After reconstitution, protection from normal light isnot necessary .
+Stability varies with concentration and diluents used :The colour of
+solutions ranges from light yellow toamber, depending onthelength
+ofstorage, concentration and diluent used .
+
+
+=== PAGE 35 ===
+
+31DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Cefuroxime Injection
+Brand Name Pharmaniaga Cefuroxime Injection (Strength: 750mg, 1.5g)
+Reconstitution IM
+Reconstitute 750mgvialwith 3mlofWFI.
+IV
+■Reconstitute 750mgvialwith 8mlofWFI.
+■Reconstitute 1.5gvialwith 16mlofWFI.
+Further Dilution Intermittent IVinfusion
+W ithdraw therequired dose and add to50–100ml ofdiluent.
+Diluents
+NS,D5
+Administration Slow IVbolus
+Administer slowly over 3–5minutes .
+Intermittent IVinfusion
+Administer over 30minutes .
+IM
+Inject deep IMinto large muscle mass (such asgluteus orlateral
+part ofthethigh) .
+Storage &StabilityRT Fridge (2°C–8°C)
+- 2hours  
+24hours -
+Remarks ■Donotmix with sodium bicarbonate .
+■Donot mix insame infusion with aminoglycoside, because both
+drugs may beinactivated .
+■Before injecting intramuscularly, aspiration isnecessary toavoid
+inadvertent injection into ablood vessel .
+References 1.Product leaflet Pharmaniaga Cefuroxime Injection (Pharmaniaga
+Manufacturing Berhad, Malaysia) .
+2.Gray, A.,Wright, J.,Goodey, V.and Bruce, L.,2011.Injectable Drugs
+Guide .Pharmaceutical Press .
+3.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.After reconstitution
+After dilution
+
+
+=== PAGE 36 ===
+
+32DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Clindamycin Injection
+Tidact Injection (Strength: 300mg/2ml)  
+Not required
+■Must beDILUTED prior toIVadministration .
+■Toprepare initial dilution forIVuse:
+Dose (mg) Diluent (ml) Duration of Administration
+300 50 10minutes
+600 50 20minutes
+900 100 30minutes
+1200 100 40minutes
+*Maximum final concentration :18m g/m l
+*Infusion rates should notexceed 30mg/minute
+Diluents
+NS,D5
+ToMaintain Serum  
+Clindamycin LevelsRapid Infusion Rate Main tenance  
+Infusion Rate
+Above 4mcg/ml 10mg/minute
+for 30minutes0.75 mg/minute
+Above 5mcg/ml 15 mg/minute
+for 30minutes1mg/minute
+Above 6mcg/ml 20mg/minute
+for 30minutes1.25mg/minute
+IM
+■Single IMInjection should notexceed 600 mg.Brand Name  
+Reconstitution
+Further Dilution
+Administration
+Storage &Stability  
+Remarks
+References■Clindamycin is physically incompatible with ampicillin,
+diphenyldantoin ,barbiturates, aminophylline, calcium gluconate
+and magnesium sulphate .
+■IVadministration should notbegiven undiluted orasIVbolus .
+■Rare instances ofcardiopulmonary arrest and hypotension have
+been reported following toorapid intravenous administration .
+■Contains benzyl alcohol, should beavoided inchildren under 2years
+ofage and nottobeused inneonates .
+1.Product leaflet Tidact Injection (Yung Shin Pharmaceutical Ind.Co.,Ltd,
+Taiwan) .
+2.Gray, A.,Wright, J.,Goodey, V.andBruce, L.,2011.Injectable Drugs Guide .
+Pharmaceutical Press .
+3.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.IVinfusion
+■Donotadminister more than 1200 mginasingle 1hour infusion .
+■May beadministered asasingle rapid infusion onthefirst dose and
+followed bycontinuous IVinfusion, asfollows :
+Not available
+
+
+=== PAGE 37 ===
+
+33DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Cloxacillin Injection
+Cloxabiotic Injection (Strength: 250mg, 500mg)
+The reconstituted solution must beshaken well before use.
+FillSize  
+(mg)Volume of  
+Diluent Added  
+(ml)Withdrawable  
+Volume
+(ml)Nominal  
+Concentration  
+(mg/ml)
+IM (Use WFI)
+250 1.9 2 125
+500 1.7 2 250
+IV Injection (Use WFI)
+250 4.9 5 50
+500 4.8 5 100
+IVinfusion
+Reconstitute 1vialin5mlofWFI.
+Slow IVbolus
+■Administer into avein either directly orviaadrip-tube over aperiod
+of3to4minutes .
+■More rapid administration may result inconvulsive seizures .
+IVinfusion
+Infused over 30to40minutes .
+IM
+RT(≤25°C) Fridge (2°C-8°C)
+Upto48hours
+*Solution forinjection should befreshly prepared.
+*Discard unused portion.Brand Name
+Reconstitution
+Further Dilution
+Administration
+Storage &Stability
+Remarks
+References■Ifcloxacillin isprescribed concurrently with anaminoglycosides,
+the two antibiotics should not bemixed inthe same syringe,
+intravenous fluid container orgiving setbecause ofloss ofactivity
+oftheaminoglycosides canoccur under these conditions .
+■Cloxacillin injection should notbemixed with proteinaceous fluids
+such asprotein hydrolysates, blood orplasma, orwith intravenous
+lipid emulsions .
+Productleaflet Cloxabiotic Injection (Karnata kaAntibiotics &
+Pharmaceuticals Limited, India). Revised Date: 12.2.2018.
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.IVinfusion
+Dilute thereconstituted solution in125ml to250ml ofdiluent toobtain
+afinal concentration of1–2mg/ml.
+Diluent
+NS
+Use within 30minutes
+of  preparationAfter  reconstitution
+
+
+=== PAGE 38 ===
+
+34DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Ertapenem Injection
+Brand Name Invanz® Injection ( Strength: 1g)
+Reconstitution IVinfusion
+Reconstitute 1vial(1g)with10mlsterile WFI, NSorbacteriostatic WFI.
+IM
+■Reconstitute 1vial(1g)with 3.2mlof1%or2%lidocaine HClinjection
+(without epinephrine) .
+■The reconstituted solution should notbeadministered intravenously .
+Further Dilution IVinfusion
+Patients 13 years of age andolder
+Dilute reconstituted drug to50ml ofNS.
+Patients 3 months to 12 years ofage
+W ithdraw avolume equal to15mg/kg ofbody weight (not toexceed
+1g/day) and dilute in0.9%Sodium Chloride Injection toafinal
+concentration of20mg/ml orless.
+Diluent
+NS
+Administration IVinfusion
+Administer the diluted solution over 30minutes and complete the
+infusion within 6hours ofreconstitution .
+IM
+Administer thereconstituted solution bydeep IMinjection into alarge
+muscle mass (e.g.gluteal muscle orlateral part ofthethigh) .
+Storage &StabilityRT(25°C) Fridge (5°C)
+After reconstitution IV:6hours 24hours and usewithin
+IM: usewithin 4 hours after
+1 hour removal from refrigeration
+After dilution IV:6hours 24hours and usewithin
+4 hours after  
+removal from refrigeration
+Remarks ■Must bereconstituted and diluted prior toadministration .
+■Donotusediluents containing dextrose .
+■Donotmix orco-infuse Invanz®with other medications .
+■The diluted solution ofErtapenem should notbefrozen .
+References 1.Product leaflet Invanz®Injection (Laboratories Merck Sharp &
+Dohme -Chibret ).Revised date :August 2015 .
+2.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 39 ===
+
+DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+35Erythromycin Lactobionate Injection
+Brand Name Eritrotex Injection (Strength: 500mg)
+Reconstitution Reconstitute 1vial (500mg) with 10mlWFI toobtain final concentration
+50mg/ml .
+Further Dilution IVinfusion
+Dilute the reconstituted solution with not less than 100mlofdiluent
+toafinal concentration of1–5mg/ml .
+Diluents
+NS,D5
+Administration Intermittent IVinfusion
+Administer thediluted solution over 60minute severy 6hours .
+Continuous IVinfusion
+Administer thediluted solution over 24hours .
+Storage &Stability The injection should befreshly prepared and unused portion should be
+discarded .
+Remarks ■Erythromycin should not bereconstituted with inorganic salt
+solution .Use only WFI.
+■Donotadminister IVpush orbolus .
+■Rapid infusion ismore likely tobeassociated with arrhythmias or
+hypotension .
+References 1.Product leaflet Eritrotex Injection (Fisiopharma S.r.L,Italy) .Revised
+date :November 2008 .
+2.Gray, A.,Wright, J.,Goodey, V.and Bruce, L.,2011.Injectable Drugs
+Guide .Pharmaceutical Press .
+3.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 40 ===
+
+36DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Ganciclovir Injection
+Brand Name Cymevene® (Strength: 500mg)
+Reconstitution ■Reconstitute 1vial(500mg) with 10mlWFI.
+■The vialshould beshaken todissolve thedrug .
+■Reconstituted solution should beinspected forparticulate matter
+prior toproceeding with admixture preparation .
+Further Dilution IVinfusion
+■W ithdraw therequired dose and dilute to50–250mlofcompatible
+infusion fluid.
+■The final concentration must notexceed 10mg/ml .
+Diluents
+NS,D5
+Administration IVinfusion
+■Administer over 60minutes viaalarge peripheral orcentral vein
+(adequate blood flow isessential toensure rapid dilution and
+distribution) .
+■Infusion concentration greater than 10mg/ml arenotrecommended .
+Storage &StabilityRT Fridge (2°C-8°C)
+After reconstitution 12hours Itshould notbe
+refrigerated
+After dilution Use immediately 24hours
+Remarks ■Donotusebacteriostatic water forinjection containing parabens in
+solution since these areincompatible and may cause precipitation .
+■The prepared solution should notbemixed with other IVproducts .
+■Itisapotential teratogen and carcinogen inhumans, caution should
+beobserved inthehandling ofganciclovir .Avoid inhalation ordirect
+contact ofthepowder contained inthevials ordirect contact ofthe
+reconstituted solution with theskin ormucous membranes .
+■Donotgive byIVbolus orbyIMorSCroute .
+References 1.Product leaflet Cymevene®(F.Hoffman -LaRocge Ltd.Basel) .
+Revised date :June 2010 .
+2.Gray, A.,Wright, J.,Goodey, V.and Bruce, L.,2011.Injectable Drugs
+Guide .Pharmaceutical Press .
+3.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 41 ===
+
+37DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Gentamicin Injection
+Brand Name Garasent (Strength: 80mg/2ml)
+Reconstitution Not required
+Further Dilution IVinfusion
+■Dilute theprescribed dose in100–200mlofdiluent .
+■Final infusion concentration should notexceed 1mg/ml .
+Diluents
+NS,D5
+Administration IM
+Slow IV bolus
+Administer slowly over 2to3minutes.
+IVinfusion
+Administer thediluted solution over 20–30minutes.
+Storage &StabilityFridge (2°C-8°C)
+After dilution 24hours
+Remarks ■Should beused with caution inpatients with impaired renal function
+(including elderly and premature infants) .
+■IVadministration isgenerally reserved forspecial indications and
+may beused when theIMroute isnotfeasible, e.g.patients inshock,
+with haemorrhagic disorders, severe burns orreduced muscle mass .
+References 1.Product leaflet Garasent (Duopharma (M) Sdn Bhd, Malaysia) .
+Revised date :16.1.2012.
+2.Gray, A.,Wright, J.,Goodey, V.and Bruce, L.,2011.Injectable Drugs
+Guide .Pharmaceutical Press .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 42 ===
+
+38DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Imipenem & Cilastatin Injection
+Brand Name Imipenem /Cilastatin Kabi Powder ForSolution ForInfusion  
+Contains: 500mg Imipenam and 500mg Cilastin
+Reconstitution ■Reconstitute 1vialwith 10mlofdiluent tothecontainer .
+■Shake well and transfer theresulting mixture totheinfusion solution
+container .
+■Repeat with anadditional 10mlofinfusion solution toensure
+complete transfer ofcontainer contents totheinfusion solution .
+■The resulting mixture should beagitated until aclear solution is
+obtained .
+Further Dilution ■Dilute thereconstituted solution to100ml ofdiluent.
+■Final infusion concentration isapproximately 5mg/ml.
+Diluents
+NS,D5
+Administration IV infusion ONLY
+■Doses≤500mg/500mg:
+Administer diluted solution over 20–30minutes .
+■Doses >500mg/500mg:
+Administer diluted solution over 40–60minutes .
+Storage &StabilityRT(30°C) Fridge (5°C)
+After reconstitution 4hours 24hours
+After dilution 4hours 24hours
+Remarks ■Should notbereconstituted indiluents containing lactate .
+■Inpatients who develop nausea during the infusion, the rate of
+infusion may beslowed .
+■Donotgive bydirect IVinjection .
+References 1.Product leaflet Imipenem /Cilastatin Fresenius Kabi Powder For
+Solution ForInfusion (Facta Farmaceutical S.p.A,Italy) .Revised date :
+November 2015 .
+2.Gray, A.,Wright, J.,Goodey, V.and Bruce, L.,2011.Injectable Drugs
+Guide .Pharmaceutical Press .
+3.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 43 ===
+
+39DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Meropenem Injection
+Brand Name Nuronem Injection (Strength: 500mg, 1g)
+Reconstitution Reconstitute 1vial (500mg) with 10mlWFI (5mlWFI per 250mg
+meropenem) toobtain afinal concentration of50mg/ml .
+Further Dilution IVinfusion
+Dilute reconstituted solution with 50–200ml ofdiluents.
+Diluent s
+NS,D5
+Administration Slow IV bolus
+Administer slowly over 5 minutes.
+IVinfusion
+Administer over 15–30minutes.
+Storage &StabilityRT(25°C) Fridge (4°C)
+After dilution 8hours (NS) 48hours (NS)  
+3hours (D5) 14hours (D5)
+*Reconstituted and diluted solution ofmeropenem should not be
+frozen .
+Remarks ■Should notbemixed with oradded toother drugs .
+■Allvials forsingle useonly.
+References 1.Product leaflet Nuronem Injection (Ranbaxy Lab.Limited, India) .
+Revised date :August 2009 .
+2.Gray, A.,Wright, J.,Goodey, V.and Bruce, L.,2011.Injectable Drugs
+Guide .Pharmaceutical Press .
+3.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 44 ===
+
+40DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Micafungin Injection
+Mycamine®Powder ForSolution ForInfusion (Strength: 50mg)
+■Reconstitute 1vial(50mg) with 5mlofNSorD5(taken from a100ml
+bag/bottle) byslowly injected into each vialalong the side ofthe
+inner wall.
+■Rotate thevialgently .Donotshake .
+■Minimize theamount offoam generated .
+Preparation Of Solution ForInfusion:
+Dose Vials to  be
+usedVolume 
+of  NS or 
+D5to  be 
+added  
+pervialVolume  
+(concentration)  
+ofreconstituted 
+powderFinal  
+concentration  
+of standard  
+infusion
+(made up to
+100m l)
+50mg 1 x 50mg 5ml Approx. 5ml  
+(10mg/ml)0.5mg/ml
+100mg 2 x  50mg 5ml Approx. 10ml  
+(10mg/ml)1m g/m l
+150mg 3 x  50mg 5ml Approx. 15ml  
+(10mg/ml)1.5mg/ml
+200mg 4 x 50mg 5ml Approx. 20ml  
+(10mg/ml)2m g/m l
+■Theinfusion bag/bottle containing thediluted infusion solution should
+beinserted intoaclosable opaque bagforprotection from light.
+Diluents
+NS,D5
+RT(30°C)
+After reconstitution 24hours
+After dilution6hours
+(Intransfusion bag without light protection)
+24hours
+(Intransfusion bag with light protection)Brand Name
+Reconstitution
+Further Dilution
+Administration
+Storage &Stability
+Remarks
+ReferencesThe concentrate should beused immediately forfurther dilution .This
+product isforsingle useinone patient only.Discard anyresidue .
+*The information provided inthis guideline may beused asgeneral reference only. Please refer  
+tothecurrent product inserts forrelevant brand used infacility.■Allofthe reconstituted concentrate should bewithdrawn from
+each vialand returned totheinfusion bag/bottle from which itwas
+originally taken .
+IVinfusion ONLY
+■Anexisting IVlineshould beflushed with NSprior toinfusion .
+■Administer thereconstituted and diluted solution over approximately
+onehour .
+*when reconstituted with NSorD5
+Product leaflet Mycamine ®Powder For Solution For Infusion
+(Astellas Pharma Tech Cp.Ltd, Japan) .Revised date :July 2013 .
+
+
+=== PAGE 45 ===
+
+41DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Netilmicin Injection
+Brand Name Lotifar Injection (Strength: 150mg/2ml, 100mg/2ml)
+Reconstitution Not required
+Further Dilution IVinfusion
+Dilute single dose in50to200ml ofdiluent.
+Diluents
+NS,D5
+Administration Slow IV bolus
+Administer slowly over aperiod of3to5minutes.
+IVinfusion
+Administer thediluted solution over 1.5to2hours.
+Storage &StabilityRT(<25°C)
+After dilution 7days*
+*when diluted with compatible diluent atconcentration of3m g/m l .
+Remarks Should not bephysically premixed with other drugs, but should
+administered separately inaccordance with the recommended route
+ofadministration and dosage schedule .
+References Product leaflet Lotifar Injection (Duopharma (M) Sdn Bhd, Malaysia) .
+Revised date :15.12.2004 .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 46 ===
+
+42DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Pentamidine Isethionate Injection
+Brand Name DBLTMPentamidine Isethionate ForInjection (Strength: 300mg)
+Reconstitution Reconstitute 1vial(300mg) with 3to5mlWFI.
+Further Dilution Dilute therequired dose in50–250ml ofdiluent.
+Diluents
+NS,D5
+Administration IVinfusion
+Administer over atleast 60minutes.
+Storage &StabilityRT(21±2°C) Fridge (2°C-8°C)
+After reconstitution 48hours 48hours
+After dilution 24hours* 24hours
+*W hen diluted to1mg/ml and 2.5mg/ml indiluent .
+Remarks ■Direct bolus IVinjection orrapid administration must notbeused .
+■Keep patient supine during administration tominimize hypotension .
+References 1.Product leaflet DBLTMPentamidine Isethionate For Injection
+(Hospira Australia PtyLtd, Australia) .Revised date :1.12.2012.
+2.Gray, A.,Wright, J.,Goodey, V.and Bruce, L.,2011.Injectable Drug s
+Guide .Pharmaceutical Press .
+3.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 47 ===
+
+DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+43Piperacillin & Tazobactam Injection
+Brand Name
+Reconstitution Reconstitute 1vial(4.5g)with 20mlofdiluent .
+Diluents
+WFI, NS,D5
+Further Dilution IVinfusion
+Dilute reconstituted solution with 50–150ml ofdiluent.
+Diluents
+NS,D5
+Administration Slow IV bolus
+Administer over 3–5minutes.
+IVinfusion
+Administer over 20–30minutes.
+Storage &StabilityRT(25°C) Fridge (2°C-8°C)
+After reconstitution 24hours 7days
+Remarks ■This product donot contain preservative, therefore appropriate
+aseptic technique should beperformed during preparation .
+■Whenever this product isused concurrently with another antibiotic,
+thedrug must beadministered separately .
+■This product should not beused with solution containing only
+sodium bicarbonate and should notbeadded toblood products or
+albumin hydrolysates .
+References 1.Product leaflet Tapicin Powder For Injection (Yung Shin
+Pharmaceutical Ind.Co,Ltd, Taiwan, ROC) .
+2.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.Contains: Piperacillin 4 g and Tazobactam 0.5 gTapicin Powder ForInjection (Strength :4.5g)
+
+
+=== PAGE 48 ===
+
+44DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Sulphamethoxazole -Trimethoprim Injection
+Brand Name DBLTMSulfamethoxazole 400mgand Trimethoprim 80mgConcentrate
+Injection BP(5mlperampoule)
+Reconstitution Not required
+Further Dilution Dilution Options:
+1.Dilute 1ampoule (5ml) to125mlofdiluent .
+2.Dilute 2ampoules (10ml)to250 mlofdiluent .
+3.Dilute 3ampoules (15ml)to500 mlofdiluent .
+Diluents
+D5, NS,D10
+Administration IVinfusion
+■Administer slowly over 60–90minutes.
+■Duration ofinfusion should notexceed 1.5hours.
+Storage &StabilityRT
+After dilution 24hours
+*Donotrefrigerate theprepared solution.
+Remarks ■Must bediluted prior toadministration .
+■Must beadministered intravenously only intheform ofaninfusion
+solution, and may notbeinjected undiluted either intravenously or
+direct into infusion tube .
+■The prepared infusion should beshaken well toensure thorough
+mixing .Should visible turbidity orcrystallisation appear inthe
+solution during itspreparation orinfusion, itmust bediscarded and
+replaced byafreshly prepared solution .
+References 1.Product leaflet DBLTMSulfamethoxazole 400mgand Trimethoprim
+80mg Concentrate Injection BP(hameln pharmaceuticals GmbH,
+Germany) .Revised date :1.12.2012.
+2.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 49 ===
+
+DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+45Vancomycin Injection
+Brand Name Celovan Powder For Solution For Injection/Infusion (Strength: 500mg)
+Reconstitution Dissolve 500mg in10mlofWFI toobtain final concentration 50mg/ml.
+Further Dilution Intermittent IVinfusion
+■Dilute reconstituted solutions with atleast 100mlofdiluent .
+■Max concentration= 5mg/ml .
+■Forfluid restricted patients, aconcentration ofupto10m g/m l may
+beused .
+Diluents
+NS,D5
+Administration Intermittent IVinfusion
+■Administered thedesired dose over aperiod ofatleast 60minutes.
+■Max rate = 10mg/minute.
+■1gdose isusually given over 2hours.
+Storage &StabilityRT(<25°C) Fridge (2°C-8°C)
+After dilution 48hours 48hours
+Remarks ■Not forIMadministration .
+■Watch for“red -man” syndrome, anonallergic histamine reaction
+caused by rapid IVinfusion .Signs and symptoms include
+hypotension, pruritus, and maculopapular rash onface, neck, trunk
+and limbs .
+References 1.Product leaflet Celovan Vancomyci nPowder For Solution For
+Injection/Infusion (Mylan Laboratories Limited, India) .Revised
+date :January 2018 .
+2.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+3.Gray, A.,Wright, J.,Goodey ,V.and Bruce, L.,2011.Injectable Drugs
+Guide, Pharmaceutical Press, 2011.
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 50 ===
+
+46DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Voriconazole Injection
+Vfend® (Strength: 200mg)
+Reconstitute 1vial(200mg) with 19mlofWFI (Concentration :10mg/m l
+andextractable volume :20ml).
+Further dilute therequired volume ofreconstituted solution according
+topatient’s BW toafinal concentration of0.5–5mg/ml.
+Body  
+Weight  
+(kg)Volume ofVFEND®Concentrate (10mg/ml ) required for:
+3mg/kg  
+dose (no. 
+ofvials)4mg/kg
+dose (no.
+ofvials)6mg/kg  
+dose (no. 
+ofvials)8mg/kg  
+dose (no. 
+ofvials)9mg/kg dose  
+(no. ofvials)
+10 - 4m l (1) - 8ml (1) 9ml (1)
+15 - 6ml (1) - 12ml (1) 13.5ml(1)
+20 - 8ml (1) - 16ml (1) 18ml (1)
+25 - 10ml (1) - 20ml (1) 22.5ml(2)
+30 9ml (1) 12ml (1) 18ml (1) 24ml (2) 27ml (2)
+35 10.5ml(1) 14ml (1) 21ml (2) 28ml (2) 31.5ml(2)
+40 12ml (1) 16ml (1) 24ml (2) 32ml (2) 36ml (2)
+45 13.5ml(1) 18ml (1) 27ml (2) 36ml (2) 40.5ml(3)
+50 15ml (1) 20ml (1) 30ml (2) 40m l (2) 45ml (3)
+55 16.5ml(1) 22ml (2) 33ml (2) 44m l (3) 49.5ml(3)
+60 18ml (1) 24ml (2) 36ml (2) 48ml (3) 54ml (3)
+65 19.5ml(1) 26ml (2) 39ml (2) 52ml (3) 58.5ml(3)
+70 21ml (2) 28ml (2) 42ml (3) - -
+75 22.5ml(2) 30ml (2) 45ml (3) - -
+80 24ml (2) 32ml (2) 48ml (3) - -
+85 25.5ml(2) 34ml (2) 51ml (3) - -
+90 27ml (2) 36ml (2) 54ml (3) - -
+95 28.5ml(2) 38ml (2) 57ml (3) - -
+100 30ml (2) 40m l (2) 60ml (3) - -
+Diluents
+NS, HSD5, D5Brand Name
+Reconstitution
+Further Dilution
+Administration IV infusion ONLY
+■Administer over 1 –2hours.
+■Maximum rate: 3mg/kg/hour.
+
+
+=== PAGE 51 ===
+
+47DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Storage &S tabilityFridge (2°C-8°C)
+After reconstitution 24hours
+*The product must beused immediately.
+Remarks ■Voriconazole must not beinfused concomitantly with any blood
+product orany short -term infusion ofconcentrated electrolytes,
+even ifthetwo infusions arerunning inseparate intravenous line.
+■Not recommended forIVbolus administration .
+■Must notbediluted with 4.2%sodium bicarbonate infusion .
+References Product leaflet Vfend®(Pharmacia &Upjohn Company, USA) .Revised
+date :April 2014 .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 52 ===
+
+48DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+Zidovudine Injection
+Brand Name Retrovir TM (Strength: 200mg/20ml)
+Reconstitution Not required
+Further Dilution ■Add and mix the required dose with diluent toobtain afinal
+concentration ofeither 2m g/m l or4mg/ml .
+■Dilution must becarried outunder fullaseptic conditions .
+Diluent
+D5
+Administration IVinfusion
+■Administer slowly over 1hour .
+■Avoid rapid infusion orbolus injection .
+Storage &StabilityRT(25°C) Fridge (5°C)
+After dilution 48hours 48hours
+*Any unused portion ofthevialshould bediscarded.
+Remarks ■Donotadminister asIMinjection .
+■Must beDILUTED prior toadministration .
+■Discard ifany visible turbidity appears intheproduct either before
+orafter dilution orduring infusion .
+References 1.Product leafletRetrovir™ (Glaxo Wellcome Operations, UK).Revised
+date :11.4.2012.
+2.Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw Hill
+Professional .
+*The information provided inthisguideline may beused asgeneral reference only. Please refer to  
+thecurrent product inserts forrelevant brand used infacility.
+
+
+=== PAGE 53 ===
+
+49Appendix 1Glossary
+Appendix 2Best practices forinjection
+Appendix 3Storage conditions
+Appendix 4Conversions &calculationsAPPENDICES
+
+
+=== PAGE 54 ===
+
+50DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+APPENDIX 1:GLOSSARY
+No. Name Definition
+1. Injection Use ofasyringe and needle topush fluids or
+drugs into thebody ;often called a“shot .”
+2. Intravenous (IV) Into orwithin avein.Intravenous usually refers toa
+way ofgiving adrug orother substance through
+aneedle ortube inserted intoavein.
+3. Intravenous (IV)bolus ■Amethod ofadministering concentrated
+medication (diluted orundiluted) directly into
+thevein using asyringe through aneedleless
+port onanexisting IVline orasaline lock.
+■Adiscrete dose ofmedication orsolution given
+slowly over atleast 1minute .
+■Itisusually administered inasmall volume of
+fluid /medicine (max 20ml) that ispushed
+manually into the vein slowly over atleast
+1minute .
+4. Intravenous (IV)push Intravenous push iscommonly used when rapid
+administration ofamedication isneeded such as
+inemergency (less than 30seconds) .
+5. Continuous intravenous (IV)
+infusionThe administration ofafluid into ablood vessel,
+usually over aprolonged period oftime .
+6. Intermittent intravenous (IV)
+infusion■This isthe technique used toadminister an
+injectable drug inanintravenous infusion over
+aperiod oftime ranging from 20minutes to
+several hours .Repeated doses orsingle doses
+aregiven inthisway.
+■The infusion may beconnected totheprimary
+intravenous giving set ortoasecondary
+administration setviaaY-connector .
+■The volume ofintravenous fluid used todilute
+the drug ranges from 50ml (the smallest
+intravenous fluid bag) upto500ml.Inclinical
+practice most drugs aregiven in100mland
+aresettoinfuse over 20-30minutes .
+7. Intramuscular (IM) injection ■Intramuscular injections areadministered into
+the muscle beneath thesubcutaneous tissue .
+■They aremost commonly given into thethigh
+or the gluteal muscle, and occasionally into
+thedeltoid muscle (which attaches the upper
+arm totheshoulder) .
+■The volume given atany one site isusually
+limited to5mlforthe thigh (or4mlifitisa
+depot injection because depots can bemore
+irritant), and 2mlforthedeltoid muscle .
+
+
+=== PAGE 55 ===
+
+51DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+No. Name Definition
+8. Subcutaneous (SC) injection ■Subcutaneous injections aregiven byinjecting
+afluid orasolid pellet into the subcutis (the
+fatty layer oftissue just under theskin) .
+■Appropriate sites for subcutaneous injection
+include :
+•The outer aspect oftheupper arm
+•The anterior aspect oftheupper arm
+•The abdomen below the costal margins to
+theiliac crests
+•The anterior aspect ofthethigh
+9. Reconstitute The act ofadding diluent topowder tocreate a
+solution .
+10. Dilution Toadd adiluent (e.g.,normal saline, sterile water)
+toasolution ofmedication inorder tomake itless
+concentrated ortoprovide additional solution for
+ease ofadministration and titration ortodecrease
+tissue irritation .
+References:
+1.Ministry ofHealth, Malaysia, 2017. Safe Operating Procedure forAdministration ofIntravenous  
+(Bolus), Nursing Division.
+2.Gray, A.,W right, J.,Goodey, V.and Bruce, L.,2011. Injectable Drugs Guide. Pharmaceutical Press.
+3.https://www.cancer.gov/publications/dictionaries/cancer -terms/search [online]
+
+
+=== PAGE 56 ===
+
+52DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+APPENDIX 2: BEST PRACTICES FOR INJECTION
+General Information :
+■Allpreparations should bedone using aseptic technique .
+■DoNOT usetheinitial concentrate ortheinfusion solution ifthere isany sign ofprecipitation
+and presence offoreign matter ineither one.
+■DoNOT mix other drugs totheinfusion solution toavoid anypossible drug interactions .
+■Any unused portion should bediscarded after therecommended period ofuse.
+■Formultiple usevials, reconstituted solution must belabelled with time and date immediately
+after preparation and must beplaced under recommended storage condition .
+■Flush IVline before and after administration .The most com m on fluid administered asanIV
+flush issodium chloride 0.9%.Insome instances, glucose 5%may beused ifitismore suitable
+forusedue tocompatibility with theIVmedicine being administered .
+*This general information may not beapplicable toallthemedications stated inthis guideline .
+Please refer totheproduct inserts orconsult your pharmacist forfurther information .
+Table 1:Infection prevention and control practices
+Do DoNot
+DO carry out hand hygiene (use soap and
+water oralcohol rub), and wash carefully,
+including wrists and spaces between the
+fingers, foratleast 30seconds .
+(followWHO’s‘My 5moments for hand
+hygiene ')DONOT forget toclean your hands .
+DO use one pair ofnon-sterile gloves per
+procedure orpatient .■DONOT usethesame pair ofgloves for
+more than one patient .
+■DONOT wash gloves forreuse .
+Dodisinfect theskin atthevenepuncture site. DO NOT touch the puncture site after
+disinfecting it.
+DOdiscard theused device (aneedle and
+syringe isasingle unit) immediately into a
+robust sharps container .DONOT leave anunprotected needle lying
+outside thesharps container .
+DO seal thesharps container with a
+tamper -proof lid.DONOT overfill ordecant asharps container .
+DO immediately report any incident or
+accident linked toaneedle orsharp injury,
+and seek assistance ;start Post -Exposure
+Prophylaxis (PEP) assoon aspossible,
+following protocols .DO NOT delay PEP after exposure to
+potentially contaminated material ;beyond
+72hours, PEP isNOT effective .
+References:
+1.World Health Organization, 2010. W HO best practices for injections and related procedures  
+toolkit (No. WHO/EHT/10.02). World Health Organization.
+2.Pharmaceutical Services Division, Penang State Health Department, 2016. Antimicrobial  
+Dilution Protocol.
+
+
+=== PAGE 57 ===
+
+53DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+APPENDIX 3: STORAGE CONDITIONS
+Thestorage conditions formaterials and/or products and/or cosmetics should follow therequired
+storage specification ofthematerials and/or products and/or cosmetics.
+Where temperature isnotstated (interms ofrange) onthelabels ofthematerials and/or products
+and/or cosmetics thefollowing definitions should befollowed:
+ON THELABEL MEANS
+Freezer The temperature isthermostatically controlled between
+-20°Cand -10°C
+Refrigerator The temperature isthermostatically controlled between 2°C
+and 8°C
+Cold place The temperature does notexceed 8°C
+Cool place The temperature isbetween 8°Cand 15°C
+Room temperature The temperature isbetween 15°Cand 30°C
+W arm The temperature isbetween 30°Cand 40°C
+Excessive heat The temperature isabove 40°C
+Donotstore over 30°C The temperature isbetween 2°Cand 30°C
+Donotstore over 25°C The temperature isbetween 2°Cand 25°C
+Donotstore over 15°C The temperature isbetween 2°Cand 15°C
+Donotstore over 8°C The temperature isbetween 2°Cand 8°C
+Donotstore below 8°C The temperature isbetween 8°Cand 25°C
+Dryplace Nomore than 75±5%relative humidity innormal storage
+conditions ;tobe provided tothe user inamoisture
+resistant container .
+Protect from light Tobeprovided totheuser inalight resistant container .
+Reference:
+Ministry ofHealth Malaysia, 2nd Edition 2013. Guidelines onGood Distribution Practice (GDP).
+
+
+=== PAGE 58 ===
+
+54DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+APPENDIX 4: CONVERSIONS &CALCULATIONS
+Accurate conversions and calculations of medication dosages are crucial to ensure safe drug  
+administration.
+1. Metric measures
+1milligram (mg) =1,000 micrograms (mcg)
+1 gram (g) = 1,000 mg
+1kilogram (kg) = 1,000 g
+1 liter (L) = 1,000 milliliter (ml)
+2. Calculating dosages & administration rates
+Concentration ofsolution inm g/m l =mgof drug
+m l ofsolution
+Infusion rate inmg/minute =mgofdrugx flow rate (ml/hour) ÷60minutes
+m l ofsolution
+Concentration of solution in mcg/ml =m g  ofdrug x 1,000
+m l ofsolution
+Infusion rate inmcg/minute = mgofdrug x1,000x flow rate (ml/hour) ÷60minutes
+m l ofsolution
+Infusion rate in
+mcg/kg/minute =  m g  of drug x1,000x flow rate (ml/hour) ÷60 minutes ÷weight inkg
+m l ofsolution
+Infusion rate in ml/hour = m l of solution÷60 minutes
+Infusion rate in gtt/minute =   mlofsolutionx drip factor (gtt/ml)
+time inminutes
+Reference:
+Schull, P.D., 2009. McGraw -Hill’s IVDrug Handbook. McGraw HillProfessional.
+
+
+=== PAGE 59 ===
+
+55DILUTION GU ID E LIN E  FOR  IN JE C T ABLE DRUGS
+REFERENCES
+[1] Clinical Pharmacy Unit, Pharmacy Department, Hospital Taiping .Hospital Taiping
+Antibiotics Dilution &Administration Protocol .(1sted.).Ministry OfHealth Malaysia .
+[2] Dilution Protocol 2017 Hospital Tuanku Ampuan Najihah, Kuala Pilah .Ministry Of
+Health Malaysia .
+[3] Gray, A.,Wright, J.,Goodey, V.and Bruce, L.,2011.Injectable Drugs Guide .
+Pharmaceutical Press .
+[4] Mimsgateway .com .2020 .Mims Gateway >Malaysia >Overview .[online] Available at:
+<http ://www .mimsgateway .com/malaysia/overview> .
+[5] Ministry ofHealth Malaysia, 2ndEdition 2013 .Guidelines onGood Distribution
+Practice (GDP) .
+[6] Ministry ofHealth, Malaysia, 2017.Safe Operating Procedure forAdministration of
+Intravenous (Bolus), Nursing Division .
+[7] Ojerinde, A.and Adejumo, P.,2014 .Factors Associated W ith Medication Errors
+Among Health Workers InUniversity College Hospital, Nigeria .IOSR Journal of
+Nursing and Health Science, 3(3),pp.22-33.
+[8] Pharmaceutical Services Division, Penang State Health Department, 2016 .
+Antimicrobial Dilution Protocol .
+[9] Pharmacy .gov.my.2020 .Formulari Ubat KKM (FUKKM) |Pharmaceutical Services
+Programme .[online] Available at:<https ://www .pharmacy .gov.my/v 2/en/apps/fukkm> .
+[10] Schull, P.D.,2009 .McGraw -Hill’s IVDrug Handbook .McGraw HillProfessional .
+[11] Selangor State Health Department (2017 ).Dilution Protocol .(1sted.).Ministry Of
+Health Malaysia .
+[12] World Health Organization, 2010 .W HO best practices forinjections and related
+procedures toolkit (No.WHO/EHT/ 10.02).World Health Organization .
+
+
+=== PAGE 60 ===
+
+NOTE:
+
+
+=== PAGE 61 ===
+
+
+
+
+=== PAGE 62 ===
+
+Pharmaceutical Services Programme  
+Ministry of Health Malaysia
+Lot 36, Jalan Universiti  
+46200 Petaling Jaya  
+Selangor Darul Ehsan  
+Tel :03-78413200
+Fax :03-79682222
+www.pharmacy.gov.my
